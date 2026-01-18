@@ -53,12 +53,12 @@ enableRobotsTXT = true
 
   # (Optional, default none) Set source repository location. Used for 'Edit page' links.
   # You can also specify this parameter per page in front matter.
-  #geekdocRepo = "https://github.com/thegeeklab/hugo"
+  geekdocRepo = "https://github.com/metroid-fusion-info/wiki"
 
   # (Optional, default none) Enable 'Edit page' links. Requires 'geekdocRepo' param
   # and the path must point to the parent directory of the 'content' folder.
   # You can also specify this parameter per page in front matter.
-  #geekdocEditPath = "edit/main/exampleSite"
+  geekdocEditPath = "edit/main/"
 
   # (Optional, default false) Show last modification date of the page in the header.
   # Keep in mind that last modification date works best if `enableGitInfo` is set to true.
