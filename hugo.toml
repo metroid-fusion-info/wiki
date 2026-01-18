@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://metroid-fusion-info.github.io/wiki/"
 title = "Example Site"
 theme = "hugo-geekdoc"
 
