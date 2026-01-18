@@ -1,0 +1,7 @@
+# hugo
+.hugo_build.lock
+.swp
+.env*
+/dist/
+/build/
+public/
