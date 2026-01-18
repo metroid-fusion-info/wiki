@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example Site</title>
+    <title>Dark Stairwell on Example Site</title>
     <link>https://wiki.metroidfusion.run/rooms/main-deck/dark-stairwell/</link>
-    <description>Recent content on Example Site</description>
+    <description>Recent content in Dark Stairwell on Example Site</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://wiki.metroidfusion.run/rooms/main-deck/dark-stairwell/index.xml" rel="self" type="application/rss+xml" />

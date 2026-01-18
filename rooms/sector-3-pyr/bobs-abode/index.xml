@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob&#39;s Abode on Example Site</title>
+    <link>https://wiki.metroidfusion.run/rooms/sector-3-pyr/bobs-abode/</link>
+    <description>Recent content in Bob&#39;s Abode on Example Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://wiki.metroidfusion.run/rooms/sector-3-pyr/bobs-abode/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
