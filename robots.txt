@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://metroid-fusion-info.github.io/wiki/sitemap.xml
+Sitemap: https://wiki.metroidfusion.run/sitemap.xml
