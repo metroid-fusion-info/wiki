@@ -2,6 +2,8 @@
 title: Namihe's Lair
 ---
 
+This room is sometimes also referred to as "Power Bomb Fune" or "PB Stretchy".
+
 ### Metadata
 Internal Room ID: 0x1E  
 Adjacent Rooms:

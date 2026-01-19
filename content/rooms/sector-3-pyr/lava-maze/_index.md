@@ -2,6 +2,8 @@
 title: Lava Maze
 ---
 
+This room is sometimes also referred to as "Magma Dive".
+
 ### Metadata
 Internal Room ID: 0xC  
 Adjacent Rooms:

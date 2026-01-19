@@ -2,6 +2,8 @@
 title: Deserted Runway
 ---
 
+This room is sometimes also referred to as "BOX Attic".
+
 ### Metadata
 Internal Room ID: 0x9  
 Adjacent Rooms:

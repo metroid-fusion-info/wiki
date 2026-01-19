@@ -2,6 +2,8 @@
 title: Glass Tube to Sector 5 (ARC)
 ---
 
+This room is sometimes also referred to as "Porch".
+
 ### Metadata
 Internal Room ID: 0x25  
 Adjacent Rooms:

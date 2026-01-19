@@ -2,6 +2,8 @@
 title: Security Access
 ---
 
+This room is sometimes also referred to as "Telltale Heart".
+
 ### Metadata
 Internal Room ID: 0x3  
 Adjacent Rooms:
