@@ -2,6 +2,8 @@
 title: Silo Scaffolding
 ---
 
+This room is sometimes also referred to as "Lower Reactor Silo".
+
 ### Metadata
 Internal Room ID: 0x33  
 Adjacent Rooms:

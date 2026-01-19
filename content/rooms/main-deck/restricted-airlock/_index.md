@@ -2,6 +2,8 @@
 title: Restricted Airlock
 ---
 
+This room is sometimes also referred to as "Space".
+
 ### Metadata
 Internal Room IDs: 0x11, 0x4D  
 Adjacent Rooms:

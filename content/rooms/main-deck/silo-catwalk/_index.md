@@ -2,6 +2,8 @@
 title: Silo Catwalk
 ---
 
+This room is sometimes also referred to as "Reactor Silo Hallway".
+
 ### Metadata
 Internal Room ID: 0x32  
 Adjacent Rooms:

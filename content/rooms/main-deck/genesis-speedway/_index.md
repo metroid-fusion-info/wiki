@@ -2,6 +2,8 @@
 title: Genesis Speedway
 ---
 
+This room is sometimes referred to as "Spitter Hallway" or "Maintenance Tunnel".
+
 ### Metadata
 Internal Room ID: 0x2F  
 Adjacent Rooms:
