@@ -1,4 +1,13 @@
 ---
 title: Ridley Arena Access
 ---
-Internal Room ID: 0x1A
+
+### Metadata
+Internal Room ID: 0x1A  
+Adjacent Rooms:
+- [Ridley Arena](../ridley-arena/) (left)
+- [Tourian Westen Hub](../tourian-western-hub/) (right)
+
+### Enemies
+- Gadora
+- Ripper

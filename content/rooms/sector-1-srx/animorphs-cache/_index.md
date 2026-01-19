@@ -1,4 +1,8 @@
 ---
 title: Animorphs Cache
 ---
-Internal Room ID: 0x34
+
+### Metadata
+Internal Room ID: 0x34  
+Adjacent Rooms:
+- [Animorphs](../animorphs/) (left)

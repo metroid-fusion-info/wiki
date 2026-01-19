@@ -1,4 +1,13 @@
 ---
 title: Atmospheric Stabilizer Southwest
 ---
-Internal Room ID: 0xD
+
+### Metadata
+Internal Room ID: 0xD  
+Adjacent Rooms:
+- [Scizer Puddle](../sciser-puddle/) (left)
+- [Moto Manor](../moto-manor/) (right)
+
+### Enemies
+- Stabilizer Geron
+- Hornoad

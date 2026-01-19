@@ -1,4 +1,8 @@
 ---
 title: Central Save Room
 ---
-Internal Room ID: 0x2A
+
+### Metadata
+Internal Room ID: 0x2A  
+Adjacent Rooms:
+- [Hornoad Housing](../hornoad-housing/) (right)

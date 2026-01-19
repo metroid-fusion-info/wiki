@@ -1,4 +1,11 @@
 ---
 title: Watering Hole
 ---
-Internal Room ID: 0x2F
+
+### Metadata
+Internal Room ID: 0x2F  
+Adjacent Rooms:
+- [Charge Core Lower Access](../charge-core-lower-access/) (left)
+
+### Enemies
+- Scizer

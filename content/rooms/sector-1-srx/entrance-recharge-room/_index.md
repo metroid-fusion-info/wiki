@@ -1,4 +1,10 @@
 ---
 title: Entrance Recharge Room
 ---
-Internal Room ID: 0xB
+
+### Metadata
+Internal Room ID: 0xB  
+Adjacent Rooms:
+- [Entrance Save Room](../entrance-save-room/) (left)
+- [Entrance Lobby](../entrance-lobby/) (right)
+
