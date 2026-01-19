@@ -1,4 +1,4 @@
 ---
 title: Atmospheric Stabilizer Southeast
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

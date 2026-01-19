@@ -1,4 +1,4 @@
 ---
 title: Operations Ventilation Storage
 ---
-Internal Room IDs: 0x2D
+Internal Room ID: 0x2D

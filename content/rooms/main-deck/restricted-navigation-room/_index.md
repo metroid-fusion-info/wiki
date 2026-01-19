@@ -1,4 +1,4 @@
 ---
 title: Restricted Navigation Room
 ---
-Internal Room IDs: 0x42
+Internal Room ID: 0x42

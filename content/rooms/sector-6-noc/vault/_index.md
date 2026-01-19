@@ -1,4 +1,4 @@
 ---
 title: Vault
 ---
-Internal Room IDs: 0x22
+Internal Room ID: 0x22

@@ -1,4 +1,4 @@
 ---
 title: Red Tower
 ---
-Internal Room IDs: 0xA
+Internal Room ID: 0xA

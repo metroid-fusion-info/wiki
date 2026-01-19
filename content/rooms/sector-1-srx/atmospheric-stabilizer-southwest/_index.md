@@ -1,4 +1,4 @@
 ---
 title: Atmospheric Stabilizer Southwest
 ---
-Internal Room IDs: 0xD
+Internal Room ID: 0xD

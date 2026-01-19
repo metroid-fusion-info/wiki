@@ -1,4 +1,4 @@
 ---
 title: Stabilizer Checkpoint
 ---
-Internal Room IDs: 0xE
+Internal Room ID: 0xE

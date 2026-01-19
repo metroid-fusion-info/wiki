@@ -1,4 +1,4 @@
 ---
 title: Gerubus Gully
 ---
-Internal Room IDs: 0x21
+Internal Room ID: 0x21

@@ -1,4 +1,4 @@
 ---
 title: Zozoro Wine Cellar
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

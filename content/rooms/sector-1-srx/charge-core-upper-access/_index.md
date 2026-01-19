@@ -1,4 +1,4 @@
 ---
 title: Charge Core Upper Access
 ---
-Internal Room IDs: 0xA
+Internal Room ID: 0xA

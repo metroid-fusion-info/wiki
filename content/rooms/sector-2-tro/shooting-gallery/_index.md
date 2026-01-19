@@ -1,4 +1,4 @@
 ---
 title: Shooting Gallery
 ---
-Internal Room IDs: 0xC
+Internal Room ID: 0xC

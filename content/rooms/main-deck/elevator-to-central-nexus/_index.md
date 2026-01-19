@@ -1,4 +1,4 @@
 ---
 title: Elevator to Central Nexus
 ---
-Internal Room IDs: 0x4C
+Internal Room ID: 0x4C

@@ -1,4 +1,4 @@
 ---
 title: Silo Save Room
 ---
-Internal Room IDs: 0x3A
+Internal Room ID: 0x3A

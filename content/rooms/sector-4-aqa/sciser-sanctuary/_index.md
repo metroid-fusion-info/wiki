@@ -1,4 +1,4 @@
 ---
 title: Sciser Sanctuary
 ---
-Internal Room IDs: 0x28
+Internal Room ID: 0x28

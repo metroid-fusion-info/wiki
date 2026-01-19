@@ -1,4 +1,4 @@
 ---
 title: Serris Arena
 ---
-Internal Room IDs: 0x2A
+Internal Room ID: 0x2A

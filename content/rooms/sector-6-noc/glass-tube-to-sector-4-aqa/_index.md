@@ -1,4 +1,4 @@
 ---
 title: Glass Tube to Sector 4 (AQA)
 ---
-Internal Room IDs: 0x24
+Internal Room ID: 0x24

@@ -1,4 +1,4 @@
 ---
 title: Neglected Shaft
 ---
-Internal Room IDs: 0x14
+Internal Room ID: 0x14

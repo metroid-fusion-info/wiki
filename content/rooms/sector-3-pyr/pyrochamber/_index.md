@@ -1,4 +1,4 @@
 ---
 title: Pyrochamber
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

@@ -1,4 +1,4 @@
 ---
 title: Arachnus Arena
 ---
-Internal Room IDs: 0x26
+Internal Room ID: 0x26

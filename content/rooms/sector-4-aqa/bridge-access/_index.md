@@ -1,4 +1,4 @@
 ---
 title: Bridge Access
 ---
-Internal Room IDs: 0x8
+Internal Room ID: 0x8

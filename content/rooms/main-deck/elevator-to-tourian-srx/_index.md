@@ -1,4 +1,4 @@
 ---
 title: Elevator to Tourian (SRX)
 ---
-Internal Room IDs: 0x43
+Internal Room ID: 0x43

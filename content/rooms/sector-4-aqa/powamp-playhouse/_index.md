@@ -1,4 +1,4 @@
 ---
 title: Powamp Playhouse
 ---
-Internal Room IDs: 0x3
+Internal Room ID: 0x3

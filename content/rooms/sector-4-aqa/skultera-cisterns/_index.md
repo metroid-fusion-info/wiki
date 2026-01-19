@@ -1,4 +1,4 @@
 ---
 title: Skultera Cisterns
 ---
-Internal Room IDs: 0x7
+Internal Room ID: 0x7

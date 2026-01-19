@@ -1,4 +1,4 @@
 ---
 title: Nocturnal Shaft
 ---
-Internal Room IDs: 0x5
+Internal Room ID: 0x5

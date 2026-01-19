@@ -1,4 +1,4 @@
 ---
 title: Cellar
 ---
-Internal Room IDs: 0x18
+Internal Room ID: 0x18

@@ -1,4 +1,4 @@
 ---
 title: Waver Ward
 ---
-Internal Room IDs: 0xB
+Internal Room ID: 0xB

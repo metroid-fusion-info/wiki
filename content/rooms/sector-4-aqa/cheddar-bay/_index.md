@@ -1,4 +1,4 @@
 ---
 title: Cheddar Bay
 ---
-Internal Room IDs: 0x18
+Internal Room ID: 0x18

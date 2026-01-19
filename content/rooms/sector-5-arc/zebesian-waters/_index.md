@@ -1,4 +1,4 @@
 ---
 title: Zebesian Waters
 ---
-Internal Room IDs: 0x2E
+Internal Room ID: 0x2E

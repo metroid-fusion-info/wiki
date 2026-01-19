@@ -1,4 +1,4 @@
 ---
 title: Bull Bend
 ---
-Internal Room IDs: 0x13
+Internal Room ID: 0x13

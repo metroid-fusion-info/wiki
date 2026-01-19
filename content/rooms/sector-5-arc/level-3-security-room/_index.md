@@ -1,4 +1,4 @@
 ---
 title: Level 3 Security Room
 ---
-Internal Room IDs: 0xA
+Internal Room ID: 0xA

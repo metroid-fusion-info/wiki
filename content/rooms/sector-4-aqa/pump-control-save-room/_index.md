@@ -1,4 +1,4 @@
 ---
 title: Pump Control Save Room
 ---
-Internal Room IDs: 0x16
+Internal Room ID: 0x16

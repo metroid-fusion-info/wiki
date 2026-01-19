@@ -1,4 +1,4 @@
 ---
 title: Cubby Hole
 ---
-Internal Room IDs: 0x48
+Internal Room ID: 0x48

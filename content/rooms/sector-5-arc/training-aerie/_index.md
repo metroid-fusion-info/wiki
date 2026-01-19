@@ -1,4 +1,4 @@
 ---
 title: Training Aerie
 ---
-Internal Room IDs: 0x4
+Internal Room ID: 0x4

@@ -1,4 +1,4 @@
 ---
 title: Entrance Navigation Room
 ---
-Internal Room IDs: 0x2
+Internal Room ID: 0x2

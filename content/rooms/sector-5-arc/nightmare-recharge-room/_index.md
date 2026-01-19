@@ -1,4 +1,4 @@
 ---
 title: Nightmare Recharge Room
 ---
-Internal Room IDs: 0x30
+Internal Room ID: 0x30

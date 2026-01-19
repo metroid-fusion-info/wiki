@@ -1,4 +1,4 @@
 ---
 title: Broom Closet
 ---
-Internal Room IDs: 0x3B
+Internal Room ID: 0x3B

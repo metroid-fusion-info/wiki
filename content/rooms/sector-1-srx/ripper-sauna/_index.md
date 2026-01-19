@@ -1,4 +1,4 @@
 ---
 title: Ripper Sauna
 ---
-Internal Room IDs: 0x24
+Internal Room ID: 0x24

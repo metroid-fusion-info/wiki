@@ -1,4 +1,4 @@
 ---
 title: Waterway
 ---
-Internal Room IDs: 0x1C
+Internal Room ID: 0x1C

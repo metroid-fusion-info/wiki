@@ -1,4 +1,4 @@
 ---
 title: Kihunter Hallway
 ---
-Internal Room IDs: 0x17
+Internal Room ID: 0x17

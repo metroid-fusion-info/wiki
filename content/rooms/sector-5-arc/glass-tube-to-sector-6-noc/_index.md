@@ -1,4 +1,4 @@
 ---
 title: Glass Tube to Sector 6 (NOC)
 ---
-Internal Room IDs: 0x1F
+Internal Room ID: 0x1F

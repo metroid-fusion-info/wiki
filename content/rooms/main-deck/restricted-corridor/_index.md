@@ -1,4 +1,4 @@
 ---
 title: Restricted Corridor
 ---
-Internal Room IDs: 0x41
+Internal Room ID: 0x41

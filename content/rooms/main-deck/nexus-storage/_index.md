@@ -1,4 +1,4 @@
 ---
 title: Nexus Storage
 ---
-Internal Room IDs: 0x39
+Internal Room ID: 0x39

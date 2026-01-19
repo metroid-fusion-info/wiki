@@ -1,4 +1,4 @@
 ---
 title: Yard Firing Range
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

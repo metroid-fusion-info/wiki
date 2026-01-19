@@ -1,4 +1,4 @@
 ---
 title: Cathedral Corridor
 ---
-Internal Room IDs: 0xE
+Internal Room ID: 0xE

@@ -1,4 +1,4 @@
 ---
 title: Drain Pipe
 ---
-Internal Room IDs: 0x24
+Internal Room ID: 0x24

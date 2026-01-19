@@ -1,4 +1,4 @@
 ---
 title: Aquarium Speedway
 ---
-Internal Room IDs: 0xC
+Internal Room ID: 0xC

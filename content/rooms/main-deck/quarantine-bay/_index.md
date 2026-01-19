@@ -1,4 +1,4 @@
 ---
 title: Quarantine Bay
 ---
-Internal Room IDs: 0x47
+Internal Room ID: 0x47

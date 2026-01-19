@@ -1,4 +1,4 @@
 ---
 title: Kago Speedway
 ---
-Internal Room IDs: 0x29
+Internal Room ID: 0x29

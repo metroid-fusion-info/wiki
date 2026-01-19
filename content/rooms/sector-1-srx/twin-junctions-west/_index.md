@@ -1,4 +1,4 @@
 ---
 title: Twin Junctions West
 ---
-Internal Room IDs: 0x6
+Internal Room ID: 0x6

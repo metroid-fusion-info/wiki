@@ -1,4 +1,4 @@
 ---
 title: Operations Deck Recharge Room
 ---
-Internal Room IDs: 0x51
+Internal Room ID: 0x51

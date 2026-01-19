@@ -1,4 +1,4 @@
 ---
 title: Cathedral Save Access
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

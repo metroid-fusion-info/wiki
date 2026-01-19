@@ -1,4 +1,4 @@
 ---
 title: Atmospheric Stabilizer Northwest
 ---
-Internal Room IDs: 0x4
+Internal Room ID: 0x4

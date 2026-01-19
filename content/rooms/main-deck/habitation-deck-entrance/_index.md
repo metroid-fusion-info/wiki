@@ -1,4 +1,4 @@
 ---
 title: Habitation Deck Entrance
 ---
-Internal Room IDs: 0xF
+Internal Room ID: 0xF

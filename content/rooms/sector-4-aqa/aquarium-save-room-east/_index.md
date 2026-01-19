@@ -1,4 +1,4 @@
 ---
 title: Aquarium Save Room East
 ---
-Internal Room IDs: 0x2F
+Internal Room ID: 0x2F

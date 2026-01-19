@@ -1,4 +1,4 @@
 ---
 title: Data Checkpoint
 ---
-Internal Room IDs: 0x23
+Internal Room ID: 0x23

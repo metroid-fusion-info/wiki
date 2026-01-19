@@ -1,4 +1,4 @@
 ---
 title: Main Elevator Cache
 ---
-Internal Room IDs: 0x49
+Internal Room ID: 0x49

@@ -1,4 +1,4 @@
 ---
 title: Bridge Save Room
 ---
-Internal Room IDs: 0x20
+Internal Room ID: 0x20

@@ -1,4 +1,4 @@
 ---
 title: Entrance Lobby
 ---
-Internal Room IDs: 0x0
+Internal Room ID: 0x0

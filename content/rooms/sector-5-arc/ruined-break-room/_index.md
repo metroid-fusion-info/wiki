@@ -1,4 +1,4 @@
 ---
 title: Ruined Break Room
 ---
-Internal Room IDs: 0x2F
+Internal Room ID: 0x2F

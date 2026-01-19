@@ -1,4 +1,4 @@
 ---
 title: Pump Control Access
 ---
-Internal Room IDs: 0x15
+Internal Room ID: 0x15

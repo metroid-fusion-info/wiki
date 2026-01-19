@@ -1,4 +1,4 @@
 ---
 title: Central Nexus
 ---
-Internal Room IDs: 0x12
+Internal Room ID: 0x12

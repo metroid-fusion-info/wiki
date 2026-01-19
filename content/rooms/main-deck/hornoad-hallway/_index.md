@@ -1,4 +1,4 @@
 ---
 title: Hornoad Hallway
 ---
-Internal Room IDs: 0x46
+Internal Room ID: 0x46

@@ -1,4 +1,4 @@
 ---
 title: Yakuza Arena
 ---
-Internal Room IDs: 0x56
+Internal Room ID: 0x56

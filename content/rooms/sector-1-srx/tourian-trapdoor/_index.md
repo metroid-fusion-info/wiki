@@ -1,4 +1,4 @@
 ---
 title: Tourian Trapdoor
 ---
-Internal Room IDs: 0x10
+Internal Room ID: 0x10

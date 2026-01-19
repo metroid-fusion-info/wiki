@@ -1,4 +1,4 @@
 ---
 title: Zazabi Arena Access
 ---
-Internal Room IDs: 0x11
+Internal Room ID: 0x11

@@ -1,4 +1,4 @@
 ---
 title: Oasis Storage
 ---
-Internal Room IDs: 0x19
+Internal Room ID: 0x19

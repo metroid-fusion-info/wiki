@@ -1,4 +1,4 @@
 ---
 title: Nettori Save Room
 ---
-Internal Room IDs: 0x31
+Internal Room ID: 0x31

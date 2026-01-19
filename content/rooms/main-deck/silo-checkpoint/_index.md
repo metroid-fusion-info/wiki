@@ -1,4 +1,4 @@
 ---
 title: Silo Checkpoint
 ---
-Internal Room IDs: 0x34
+Internal Room ID: 0x34

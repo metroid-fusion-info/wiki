@@ -1,4 +1,4 @@
 ---
 title: Entrance Save Room
 ---
-Internal Room IDs: 0x1
+Internal Room ID: 0x1
