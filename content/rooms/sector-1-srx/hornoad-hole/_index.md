@@ -2,6 +2,8 @@
 title: Hornoad Hole
 ---
 
+This room is sometimes also referred to as "Entry Hallway".
+
 ### Metadata
 Internal Room ID: 0x5  
 Adjacent Rooms:

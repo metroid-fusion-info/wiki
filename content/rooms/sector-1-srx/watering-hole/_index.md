@@ -2,6 +2,8 @@
 title: Watering Hole
 ---
 
+This room is sometimes also referred to as "Gravity Well".
+
 ### Metadata
 Internal Room ID: 0x2F  
 Adjacent Rooms:
