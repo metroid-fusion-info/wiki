@@ -1,4 +1,8 @@
 ---
 title: Operations Room
 ---
-Internal Room ID: 0x52
+
+### Metadata
+Internal Room ID: 0x52  
+Adjacent Rooms:
+- [Operations Deck](../operations-deck/) (right)

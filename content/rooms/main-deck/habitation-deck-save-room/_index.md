@@ -1,4 +1,8 @@
 ---
 title: Habitation Deck Save Room
 ---
-Internal Room ID: 0xB
+
+### Metadata
+Internal Room ID: 0xB  
+Adjacent Rooms:
+- [Elevator to Central Nexus](../elevator-to-central-nexus/) (left)

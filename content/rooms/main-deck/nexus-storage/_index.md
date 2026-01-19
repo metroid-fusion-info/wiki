@@ -1,4 +1,8 @@
 ---
 title: Nexus Storage
 ---
-Internal Room ID: 0x39
+
+### Metadata
+Internal Room ID: 0x39  
+Adjacent Rooms:
+- [Central Nexus](../central-nexus/) (left)

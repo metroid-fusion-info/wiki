@@ -1,4 +1,8 @@
 ---
 title: Cubby Hole
 ---
-Internal Room ID: 0x48
+
+### Metadata
+Internal Room ID: 0x48  
+Adjacent Rooms:
+- [Dark Stairwell](../dark-stairwell/) (left)

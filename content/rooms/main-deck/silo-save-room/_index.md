@@ -1,4 +1,8 @@
 ---
 title: Silo Save Room
 ---
-Internal Room ID: 0x3A
+
+### Metadata
+Internal Room ID: 0x3A  
+Adjacent Rooms:
+- [Central Reactor Core](../central-reactor-core/) (left)

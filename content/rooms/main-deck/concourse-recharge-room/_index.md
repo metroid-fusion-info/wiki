@@ -1,4 +1,8 @@
 ---
 title: Concourse Recharge Room
 ---
-Internal Room ID: 0x8
+
+### Metadata
+Internal Room ID: 0x8  
+Adjacent Rooms:
+- [Concourse](../concourse/) (left)

@@ -1,4 +1,9 @@
 ---
 title: Concourse Save Room
 ---
-Internal Room ID: 0x21
+
+### Metadata
+Internal Room ID: 0x21  
+Adjacent Rooms:
+- [Hornoad Hallway](../hornoad-hallway/) (left)
+- [Concourse](../concourse/) (right)
