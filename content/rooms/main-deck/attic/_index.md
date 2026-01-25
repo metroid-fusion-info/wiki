@@ -1,7 +1,7 @@
 ---
 title: Attic
 images: 
-    - 0x54.png
+    - /rooms/main-deck/attic/0x54.png
 resources:
     - name: "0x54.png"
       src: "0x54.png"
