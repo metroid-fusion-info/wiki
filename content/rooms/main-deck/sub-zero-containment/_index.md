@@ -22,6 +22,6 @@ resources:
 ### Metadata
 Internal Room ID: 0x2E  
 Adjacent Rooms:
-- Unnamed-1 (left)
+- [Main Elevator Ventilation](../main-elevator-ventilation/) (left)
 - [Dark Stairwell](../dark-stairwell/) (right)
 - [Genesis Speedway](../genesis-speedway/) (bottom)
