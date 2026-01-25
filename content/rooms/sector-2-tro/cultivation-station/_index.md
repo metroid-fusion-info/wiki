@@ -2,6 +2,8 @@
 title: Cultivation Station
 ---
 
+This room is sometimes also known as "Blue Zorro Room".
+
 ### Metadata
 Internal Room ID: 0xA  
 Adjacent Rooms:

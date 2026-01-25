@@ -2,6 +2,8 @@
 title: Dessgeega Dorm
 ---
 
+This room is also sometimes known as "Zazabi Tower Exit" or "Hub Morph Tunnel".
+
 ### Metadata
 Internal Room ID: 0x1B  
 Adjacent Rooms:

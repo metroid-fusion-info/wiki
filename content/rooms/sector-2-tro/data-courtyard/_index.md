@@ -2,6 +2,8 @@
 title: Data Courtyard
 ---
 
+This room is sometimes also known as "Before Data Room" or "Data Room Access".
+
 ### Metadata
 Internal Room IDs: 0x1F, 0x7  
 Adjacent Rooms:

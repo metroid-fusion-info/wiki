@@ -2,6 +2,8 @@
 title: Zoro Zig-Zag
 ---
 
+This room is sometimes also known as "Below Data Room" or "Data Room Escape".
+
 ### Metadata
 Internal Room ID: 0x9  
 Adjacent Rooms:

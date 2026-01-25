@@ -2,6 +2,8 @@
 title: Kago Room
 ---
 
+This room is sometimes also known as "Kago Hallway".
+
 ### Metadata
 Internal Room ID: 0x21  
 Adjacent Rooms:
