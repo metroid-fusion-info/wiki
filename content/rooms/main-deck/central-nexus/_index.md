@@ -1,5 +1,7 @@
 ---
 title: Central Nexus
+images: 
+    - /rooms/main-deck/central-nexus/0x12-layer0.png
 resources:
     - name: "0x12-layer0.png"
       src: "0x12-layer0.png"
