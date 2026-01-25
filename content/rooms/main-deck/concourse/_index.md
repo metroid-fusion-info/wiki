@@ -7,6 +7,9 @@ resources:
     - name: "0x15-layer0.png"
       src: "0x15-layer0.png"
       title: ""
+    - name: "0x15-layer2.png"
+      src: "0x15-layer2.png"
+      title: ""
 ---
 
 {{< columns >}}
@@ -16,6 +19,10 @@ resources:
 <--->
 
 {{< img name="0x15-layer1.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x15-layer2.png" size=tiny >}}
 
 {{< /columns >}}
 

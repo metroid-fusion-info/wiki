@@ -1,12 +1,23 @@
 ---
 title: Sub-Zero Containment
 resources:
-    - name: "0x2E.png"
-      src: "0x2E.png"
+    - name: "0x2E-layer0.png"
+      src: "0x2E-layer0.png"
+      title: ""
+    - name: "0x2E-layer1.png"
+      src: "0x2E-layer1.png"
       title: ""
 ---
 
-{{< img name="0x2E.png" size=tiny >}}
+{{< columns >}}
+
+{{< img name="0x2E-layer0.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x2E-layer1.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room ID: 0x2E  
