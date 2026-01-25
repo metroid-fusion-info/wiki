@@ -1,5 +1,6 @@
 ---
 title: Attic
+thumbnail: 0x54.png
 resources:
     - name: "0x54.png"
       src: "0x54.png"
