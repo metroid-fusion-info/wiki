@@ -1,4 +1,8 @@
 ---
 title: Data Courtyard
 ---
-Internal Room IDs: 0x1F, 0x7
+
+### Metadata
+Internal Room IDs: 0x1F, 0x7  
+Adjacent Rooms:
+- []() ()

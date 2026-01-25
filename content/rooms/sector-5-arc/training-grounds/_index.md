@@ -1,4 +1,8 @@
 ---
 title: Training Grounds
 ---
-Internal Room IDs: 0x3, 0x6
+
+### Metadata
+Internal Room IDs: 0x3, 0x6  
+Adjacent Rooms:
+- []() ()

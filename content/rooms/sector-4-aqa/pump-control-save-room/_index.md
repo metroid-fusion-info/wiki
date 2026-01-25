@@ -1,4 +1,8 @@
 ---
 title: Pump Control Save Room
 ---
-Internal Room ID: 0x16
+
+### Metadata
+Internal Room ID: 0x16  
+Adjacent Rooms:
+- []() ()

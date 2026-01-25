@@ -1,4 +1,8 @@
 ---
 title: Entrance Recharge Room
 ---
-Internal Room ID: 0x1D
+
+### Metadata
+Internal Room ID: 0x1D  
+Adjacent Rooms:
+- []() ()

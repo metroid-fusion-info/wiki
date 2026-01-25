@@ -1,4 +1,8 @@
 ---
 title: Puyo Palace
 ---
-Internal Room ID: 0x2F
+
+### Metadata
+Internal Room ID: 0x2F  
+Adjacent Rooms:
+- []() ()

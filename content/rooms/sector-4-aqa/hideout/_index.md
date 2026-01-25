@@ -1,4 +1,8 @@
 ---
 title: Hideout
 ---
-Internal Room ID: 0x2D
+
+### Metadata
+Internal Room ID: 0x2D  
+Adjacent Rooms:
+- []() ()

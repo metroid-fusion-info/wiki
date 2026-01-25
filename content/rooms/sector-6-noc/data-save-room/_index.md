@@ -1,4 +1,8 @@
 ---
 title: Data Save Room
 ---
-Internal Room ID: 0xB
+
+### Metadata
+Internal Room ID: 0xB  
+Adjacent Rooms:
+- []() ()

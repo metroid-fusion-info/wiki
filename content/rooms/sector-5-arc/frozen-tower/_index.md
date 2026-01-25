@@ -1,4 +1,8 @@
 ---
 title: Frozen Tower
 ---
-Internal Room ID: 0xD
+
+### Metadata
+Internal Room ID: 0xD  
+Adjacent Rooms:
+- []() ()

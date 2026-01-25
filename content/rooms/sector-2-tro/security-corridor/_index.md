@@ -1,4 +1,8 @@
 ---
 title: Security Corridor
 ---
-Internal Room ID: 0x4
+
+### Metadata
+Internal Room ID: 0x4  
+Adjacent Rooms:
+- []() ()

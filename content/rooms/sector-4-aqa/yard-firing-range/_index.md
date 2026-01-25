@@ -1,4 +1,8 @@
 ---
 title: Yard Firing Range
 ---
-Internal Room ID: 0xF
+
+### Metadata
+Internal Room ID: 0xF  
+Adjacent Rooms:
+- []() ()

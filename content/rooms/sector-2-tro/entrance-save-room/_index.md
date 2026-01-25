@@ -1,4 +1,8 @@
 ---
 title: Entrance Save Room
 ---
-Internal Room ID: 0x1
+
+### Metadata
+Internal Room ID: 0x1  
+Adjacent Rooms:
+- []() ()

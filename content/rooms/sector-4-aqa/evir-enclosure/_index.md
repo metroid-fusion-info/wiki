@@ -1,4 +1,8 @@
 ---
 title: Evir Enclosure
 ---
-Internal Room ID: 0x10
+
+### Metadata
+Internal Room ID: 0x10  
+Adjacent Rooms:
+- []() ()

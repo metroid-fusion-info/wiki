@@ -1,4 +1,8 @@
 ---
 title: Aquarium Shaft
 ---
-Internal Room ID: 0xE
+
+### Metadata
+Internal Room ID: 0xE  
+Adjacent Rooms:
+- []() ()

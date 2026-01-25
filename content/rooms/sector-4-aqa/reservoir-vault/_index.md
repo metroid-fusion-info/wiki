@@ -1,4 +1,8 @@
 ---
 title: Reservoir Vault
 ---
-Internal Room ID: 0xD
+
+### Metadata
+Internal Room ID: 0xD  
+Adjacent Rooms:
+- []() ()

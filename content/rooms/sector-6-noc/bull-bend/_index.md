@@ -1,4 +1,8 @@
 ---
 title: Bull Bend
 ---
-Internal Room ID: 0x13
+
+### Metadata
+Internal Room ID: 0x13  
+Adjacent Rooms:
+- []() ()

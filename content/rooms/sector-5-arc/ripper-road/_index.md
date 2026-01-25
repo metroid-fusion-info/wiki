@@ -1,4 +1,8 @@
 ---
 title: Ripper Road
 ---
-Internal Room ID: 0x1A
+
+### Metadata
+Internal Room ID: 0x1A  
+Adjacent Rooms:
+- []() ()

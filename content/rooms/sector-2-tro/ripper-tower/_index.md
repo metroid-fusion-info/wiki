@@ -1,4 +1,8 @@
 ---
 title: Ripper Tower
 ---
-Internal Room ID: 0x32
+
+### Metadata
+Internal Room ID: 0x32  
+Adjacent Rooms:
+- []() ()

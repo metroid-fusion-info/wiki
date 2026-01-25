@@ -1,4 +1,8 @@
 ---
 title: Serris Arena
 ---
-Internal Room ID: 0x2A
+
+### Metadata
+Internal Room ID: 0x2A  
+Adjacent Rooms:
+- []() ()

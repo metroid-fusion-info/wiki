@@ -1,4 +1,8 @@
 ---
 title: Glass Tube to Sector 4 (AQA)
 ---
-Internal Room ID: 0x24
+
+### Metadata
+Internal Room ID: 0x24  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Arctic Underside
 ---
-Internal Room ID: 0x2A
+
+### Metadata
+Internal Room ID: 0x2A  
+Adjacent Rooms:
+- []() ()

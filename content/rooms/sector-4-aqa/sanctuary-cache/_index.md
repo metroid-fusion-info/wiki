@@ -1,4 +1,8 @@
 ---
 title: Sanctuary Cache
 ---
-Internal Room ID: 0x29
+
+### Metadata
+Internal Room ID: 0x29  
+Adjacent Rooms:
+- []() ()

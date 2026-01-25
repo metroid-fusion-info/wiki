@@ -1,4 +1,8 @@
 ---
 title: Neglected Shaft
 ---
-Internal Room ID: 0x14
+
+### Metadata
+Internal Room ID: 0x14  
+Adjacent Rooms:
+- []() ()

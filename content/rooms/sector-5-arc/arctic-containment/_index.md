@@ -1,4 +1,8 @@
 ---
 title: Arctic Containment
 ---
-Internal Room IDs: 0x7, 0xF
+
+### Metadata
+Internal Room IDs: 0x7, 0xF  
+Adjacent Rooms:
+- []() ()

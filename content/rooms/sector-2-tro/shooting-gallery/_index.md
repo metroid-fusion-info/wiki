@@ -1,4 +1,8 @@
 ---
 title: Shooting Gallery
 ---
-Internal Room ID: 0xC
+
+### Metadata
+Internal Room ID: 0xC  
+Adjacent Rooms:
+- []() ()

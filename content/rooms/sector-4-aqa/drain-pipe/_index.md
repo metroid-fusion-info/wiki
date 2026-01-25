@@ -1,4 +1,8 @@
 ---
 title: Drain Pipe
 ---
-Internal Room ID: 0x24
+
+### Metadata
+Internal Room ID: 0x24  
+Adjacent Rooms:
+- []() ()

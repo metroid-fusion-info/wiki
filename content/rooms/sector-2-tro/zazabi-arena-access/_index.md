@@ -1,4 +1,8 @@
 ---
 title: Zazabi Arena Access
 ---
-Internal Room ID: 0x11
+
+### Metadata
+Internal Room ID: 0x11  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Skultera Cisterns
 ---
-Internal Room ID: 0x7
+
+### Metadata
+Internal Room ID: 0x7  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Broom Closet
 ---
-Internal Room ID: 0x3B
+
+### Metadata
+Internal Room ID: 0x3B  
+Adjacent Rooms:
+- []() ()

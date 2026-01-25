@@ -1,4 +1,8 @@
 ---
 title: Entrance Navigation Room
 ---
-Internal Room ID: 0x2
+
+### Metadata
+Internal Room ID: 0x2  
+Adjacent Rooms:
+- []() ()

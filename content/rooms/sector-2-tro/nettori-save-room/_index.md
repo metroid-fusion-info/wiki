@@ -1,4 +1,8 @@
 ---
 title: Nettori Save Room
 ---
-Internal Room ID: 0x31
+
+### Metadata
+Internal Room ID: 0x31  
+Adjacent Rooms:
+- []() ()

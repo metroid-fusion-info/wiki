@@ -1,4 +1,8 @@
 ---
 title: Zazabi Save Room
 ---
-Internal Room ID: 0x28
+
+### Metadata
+Internal Room ID: 0x28  
+Adjacent Rooms:
+- []() ()

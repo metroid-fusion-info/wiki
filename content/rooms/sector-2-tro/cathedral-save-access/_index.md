@@ -1,4 +1,8 @@
 ---
 title: Cathedral Save Access
 ---
-Internal Room ID: 0xF
+
+### Metadata
+Internal Room ID: 0xF  
+Adjacent Rooms:
+- []() ()

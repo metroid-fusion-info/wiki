@@ -1,4 +1,8 @@
 ---
 title: Warehouse
 ---
-Internal Room ID: 0xA
+
+### Metadata
+Internal Room ID: 0xA  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Sanctum
 ---
-Internal Room IDs: 0x29, 0x2D
+
+### Metadata
+Internal Room IDs: 0x29, 0x2D  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Varia Core-X Arena
 ---
-Internal Room ID: 0xD
+
+### Metadata
+Internal Room ID: 0xD  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Sciser Stall
 ---
-Internal Room ID: 0x5
+
+### Metadata
+Internal Room ID: 0x5  
+Adjacent Rooms:
+- []() ()

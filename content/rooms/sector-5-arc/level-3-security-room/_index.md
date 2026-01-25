@@ -1,4 +1,8 @@
 ---
 title: Level 3 Security Room
 ---
-Internal Room ID: 0xA
+
+### Metadata
+Internal Room ID: 0xA  
+Adjacent Rooms:
+- []() ()

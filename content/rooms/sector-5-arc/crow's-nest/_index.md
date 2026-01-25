@@ -1,4 +1,8 @@
 ---
 title: Crow's Nest
 ---
-Internal Room ID: 0x24
+
+### Metadata
+Internal Room ID: 0x24  
+Adjacent Rooms:
+- []() ()

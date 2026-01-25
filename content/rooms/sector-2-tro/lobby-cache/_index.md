@@ -1,4 +1,8 @@
 ---
 title: Lobby Cache
 ---
-Internal Room ID: 0x6
+
+### Metadata
+Internal Room ID: 0x6  
+Adjacent Rooms:
+- []() ()

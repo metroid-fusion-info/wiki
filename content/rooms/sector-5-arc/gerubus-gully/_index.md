@@ -1,4 +1,8 @@
 ---
 title: Gerubus Gully
 ---
-Internal Room ID: 0x21
+
+### Metadata
+Internal Room ID: 0x21  
+Adjacent Rooms:
+- []() ()

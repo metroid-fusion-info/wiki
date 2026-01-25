@@ -1,4 +1,8 @@
 ---
 title: Elevator to Main Deck
 ---
-Internal Room ID: 0x1D
+
+### Metadata
+Internal Room ID: 0x1D  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Data Checkpoint
 ---
-Internal Room ID: 0x23
+
+### Metadata
+Internal Room ID: 0x23  
+Adjacent Rooms:
+- []() ()

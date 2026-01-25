@@ -1,4 +1,8 @@
 ---
 title: Checkpoint to Restricted Zone
 ---
-Internal Room ID: 0x16
+
+### Metadata
+Internal Room ID: 0x16  
+Adjacent Rooms:
+- []() ()

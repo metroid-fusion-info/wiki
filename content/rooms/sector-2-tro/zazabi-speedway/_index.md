@@ -1,4 +1,8 @@
 ---
 title: Zazabi Speedway
 ---
-Internal Room ID: 0x37
+
+### Metadata
+Internal Room ID: 0x37  
+Adjacent Rooms:
+- []() ()

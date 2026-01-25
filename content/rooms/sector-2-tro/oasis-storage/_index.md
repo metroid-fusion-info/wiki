@@ -1,4 +1,8 @@
 ---
 title: Oasis Storage
 ---
-Internal Room ID: 0x19
+
+### Metadata
+Internal Room ID: 0x19  
+Adjacent Rooms:
+- []() ()

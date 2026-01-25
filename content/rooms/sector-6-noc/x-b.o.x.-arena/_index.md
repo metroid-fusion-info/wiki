@@ -1,4 +1,8 @@
 ---
 title: X-B.O.X. Arena
 ---
-Internal Room ID: 0x10
+
+### Metadata
+Internal Room ID: 0x10  
+Adjacent Rooms:
+- []() ()

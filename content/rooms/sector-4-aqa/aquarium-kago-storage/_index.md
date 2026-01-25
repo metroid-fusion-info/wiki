@@ -1,4 +1,8 @@
 ---
 title: Aquarium Kago Storage
 ---
-Internal Room ID: 0x26
+
+### Metadata
+Internal Room ID: 0x26  
+Adjacent Rooms:
+- []() ()

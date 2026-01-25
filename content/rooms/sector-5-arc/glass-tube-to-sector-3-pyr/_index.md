@@ -1,4 +1,8 @@
 ---
 title: Glass Tube to Sector 3 (PYR)
 ---
-Internal Room ID: 0x25
+
+### Metadata
+Internal Room ID: 0x25  
+Adjacent Rooms:
+- []() ()

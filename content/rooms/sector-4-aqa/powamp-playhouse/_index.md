@@ -1,4 +1,8 @@
 ---
 title: Powamp Playhouse
 ---
-Internal Room ID: 0x3
+
+### Metadata
+Internal Room ID: 0x3  
+Adjacent Rooms:
+- []() ()

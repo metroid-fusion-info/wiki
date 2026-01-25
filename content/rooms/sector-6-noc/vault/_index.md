@@ -1,4 +1,8 @@
 ---
 title: Vault
 ---
-Internal Room ID: 0x22
+
+### Metadata
+Internal Room ID: 0x22  
+Adjacent Rooms:
+- []() ()

@@ -1,4 +1,8 @@
 ---
 title: Kago Roadblock
 ---
-Internal Room ID: 0x27
+
+### Metadata
+Internal Room ID: 0x27  
+Adjacent Rooms:
+- []() ()

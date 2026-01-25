@@ -1,4 +1,8 @@
 ---
 title: Transmutation Trial
 ---
-Internal Room ID: 0x33
+
+### Metadata
+Internal Room ID: 0x33  
+Adjacent Rooms:
+- []() ()

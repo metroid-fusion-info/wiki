@@ -1,4 +1,8 @@
 ---
 title: E-Tank Mimic Den
 ---
-Internal Room ID: 0xC
+
+### Metadata
+Internal Room ID: 0xC  
+Adjacent Rooms:
+- []() ()

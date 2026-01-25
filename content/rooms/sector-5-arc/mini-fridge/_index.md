@@ -1,4 +1,8 @@
 ---
 title: Mini-Fridge
 ---
-Internal Room ID: 0xE
+
+### Metadata
+Internal Room ID: 0xE  
+Adjacent Rooms:
+- []() ()
