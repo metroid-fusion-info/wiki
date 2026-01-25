@@ -80,6 +80,18 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/back-door-to-sector-6-noc/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/beta-hangar-a/</loc>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/beta-hangar-access-hall/</loc>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/beta-hangar-b/</loc>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/beta-yakuza-arena/</loc>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/blue-x-blockade/</loc>
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
   </url><url>
@@ -270,7 +282,7 @@
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/docking-bay-climb/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/docking-bay-hangar/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -414,7 +426,7 @@
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/</loc>
-    <lastmod>2026-01-25T13:51:07+01:00</lastmod>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/fiery-storage/</loc>
     <lastmod>2026-01-19T17:41:58+01:00</lastmod>
@@ -597,7 +609,10 @@
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-shaft/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-ventilation/</loc>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/maintenance-wing/</loc>
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
@@ -783,10 +798,16 @@
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-airlock/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-corridor/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-laboratory-shaft/</loc>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-laboratory-staircase/</loc>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-navigation-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -915,7 +936,7 @@
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/sub-zero-containment/</loc>
-    <lastmod>2026-01-25T13:51:07+01:00</lastmod>
+    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/subway/</loc>
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
@@ -969,6 +990,9 @@
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/twin-junctions-west/</loc>
     <lastmod>2026-01-19T16:37:52+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/</loc>
+    <lastmod>2026-01-25T14:09:04+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/varia-core-x-arena/</loc>
     <lastmod>2026-01-19T10:28:42+01:00</lastmod>
