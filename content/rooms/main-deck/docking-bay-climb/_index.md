@@ -30,9 +30,9 @@ resources:
 Internal Room ID: 0x6  
 Adjacent Rooms:
 - [Station Entrance](../station-entrance/) (top left)
-- Unused-0x5 (top right, unreachable)
+- [Beta Hangar Access Hall](../unused/beta-hangar-access-hall/) (top right, unreachable)
 - [Silo Entry](../silo-entry/) (middle left)
-- [Docking Bay Access](../docking-bay-access/) (middle right, unreachable)
+- [Docking Bay Access (Destroyed Variant)](../docking-bay-access/) (middle right, unreachable)
 - [Silo Entry](../silo-entry/) (bottom left)
 - [Docking Bay Access](../docking-bay-access/) (bottom right)
 
