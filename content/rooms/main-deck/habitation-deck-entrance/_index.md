@@ -1,6 +1,12 @@
 ---
 title: Habitation Deck Entrance
+resources:
+    - name: "0xF.png"
+      src: "0xF.png"
+      title: ""
 ---
+
+{{< img name="0xF.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0xF  

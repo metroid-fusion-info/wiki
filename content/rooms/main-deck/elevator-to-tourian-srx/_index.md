@@ -1,6 +1,12 @@
 ---
 title: Elevator to Tourian (SRX)
+resources:
+    - name: "0x43.png"
+      src: "0x43.png"
+      title: ""
 ---
+
+{{< img name="0x43.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x43  

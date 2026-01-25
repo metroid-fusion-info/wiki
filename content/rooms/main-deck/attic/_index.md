@@ -1,6 +1,12 @@
 ---
 title: Attic
+resources:
+    - name: "0x54.png"
+      src: "0x54.png"
+      title: ""
 ---
+
+{{< img name="0x54.png" size=tiny >}}
 
 This room is sometimes also referred to as "Arachnus Alcove".
 

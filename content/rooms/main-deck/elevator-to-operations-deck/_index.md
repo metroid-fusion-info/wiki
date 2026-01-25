@@ -1,6 +1,12 @@
 ---
 title: Elevator to Operations Deck
+resources:
+    - name: "0x3D.png"
+      src: "0x3D.png"
+      title: ""
 ---
+
+{{< img name="0x3D.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x3D  

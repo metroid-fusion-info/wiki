@@ -1,6 +1,23 @@
 ---
 title: Restricted Airlock
+resources:
+    - name: "0x11.png"
+      src: "0x11.png"
+      title: ""
+    - name: "0x4D.png"
+      src: "0x4D.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x11.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x4D.png" size=tiny >}}
+
+{{< /columns >}}
 
 This room is sometimes also referred to as "Space".
 

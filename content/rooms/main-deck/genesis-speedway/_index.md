@@ -1,6 +1,12 @@
 ---
 title: Genesis Speedway
+resources:
+    - name: "0x2F.png"
+      src: "0x2F.png"
+      title: ""
 ---
+
+{{< img name="0x2F.png" size=tiny >}}
 
 This room is sometimes referred to as "Spitter Hallway" or "Maintenance Tunnel".
 

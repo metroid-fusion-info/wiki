@@ -1,6 +1,12 @@
 ---
 title: Elevator to Sector 3 (PYR)
+resources:
+    - name: "0x1D.png"
+      src: "0x1D.png"
+      title: ""
 ---
+
+{{< img name="0x1D.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x1D  

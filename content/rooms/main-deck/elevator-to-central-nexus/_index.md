@@ -1,6 +1,12 @@
 ---
 title: Elevator to Central Nexus
+resources:
+    - name: "0x4C.png"
+      src: "0x4C.png"
+      title: ""
 ---
+
+{{< img name="0x4C.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x4C  

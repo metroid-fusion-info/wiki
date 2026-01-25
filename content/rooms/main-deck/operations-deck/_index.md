@@ -1,6 +1,37 @@
 ---
 title: Operations Deck
+resources:
+    - name: "0xD-layer0.png"
+      src: "0xD-layer0.png"
+      title: ""
+    - name: "0xD-layer1.png"
+      src: "0xD-layer1.png"
+      title: ""
+    - name: "0x55.png"
+      src: "0x55.png"
+      title: ""
+    - name: "0x4A.png"
+      src: "0x4A.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0xD-layer0.png" size=tiny >}}
+
+<--->
+
+{{< img name="0xD-layer1.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x55.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x4A.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0xD, 0x4A, 0x55  

@@ -1,6 +1,12 @@
 ---
 title: Silo Catwalk
+resources:
+    - name: "0x32.png"
+      src: "0x32.png"
+      title: ""
 ---
+
+{{< img name="0x32.png" size=tiny >}}
 
 This room is sometimes also referred to as "Reactor Silo Hallway".
 
