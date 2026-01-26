@@ -2,6 +2,8 @@
 title: Security Shaft East
 ---
 
+This room is sometimes also known as "Security Access".
+
 ### Metadata
 Internal Room IDs: 0x16, 0x15  
 Adjacent Rooms:
