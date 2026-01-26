@@ -2,6 +2,8 @@
 title: Broken Bridge
 ---
 
+This room is sometimes also known as "Collapsed Ceiling".
+
 ### Metadata
 Internal Room ID: 0xA  
 Adjacent Rooms:

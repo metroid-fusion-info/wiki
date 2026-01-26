@@ -2,6 +2,8 @@
 title: Cargo Hold to Sector 5 (ARC)
 ---
 
+This room is sometimes also known as "Screw Block Alcove".
+
 ### Metadata
 Internal Room ID: 0x17  
 Adjacent Rooms:

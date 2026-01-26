@@ -2,6 +2,8 @@
 title: Reservoir Vault
 ---
 
+This room is sometimes also known as "Serris Escape".
+
 ### Metadata
 Internal Room ID: 0xD  
 Adjacent Rooms:

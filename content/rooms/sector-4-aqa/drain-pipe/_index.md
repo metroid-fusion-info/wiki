@@ -2,6 +2,8 @@
 title: Drain Pipe
 ---
 
+This room is sometimes also known as "Underwater Gate".
+
 ### Metadata
 Internal Room ID: 0x24  
 Adjacent Rooms:

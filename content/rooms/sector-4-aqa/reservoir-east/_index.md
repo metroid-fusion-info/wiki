@@ -2,6 +2,8 @@
 title: Reservoir East
 ---
 
+This room is sometimes also known as "Electric PB Tank" or "PB Locked Item Room".
+
 ### Metadata
 Internal Room ID: 0x6  
 Adjacent Rooms:
