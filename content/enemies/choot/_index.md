@@ -41,14 +41,12 @@ Choot
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Choot spit
+{{< columns >}}
 
 <--->
 
 {{< center >}}
-**General & Drops**
+**Spit**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +56,8 @@ Choot spit
 | Varia Reduction   |  80% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x3E (Secondary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
 
 {{</ columns >}}
 

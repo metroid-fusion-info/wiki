@@ -41,14 +41,14 @@ Dessgeega
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< columns >}}
 
-Dessgeega spike
+
 
 <--->
 
 {{< center >}}
-**General & Drops**
+**Dessgeega Spike**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +58,7 @@ Dessgeega spike
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x32 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
 

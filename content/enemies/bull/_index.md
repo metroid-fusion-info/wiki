@@ -48,7 +48,7 @@ Bull smoke
 <--->
 
 {{< center >}}
-**General & Drops**
+**Bull Smoke**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +58,8 @@ Bull smoke
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x3D (Secondary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
 
 {{</ columns >}}
 

@@ -41,14 +41,12 @@ Genesis
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Genesis spit
+{{< columns >}}
 
 <--->
 
 {{< center >}}
-**General & Drops**
+**Genesis Spit**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +56,7 @@ Genesis spit
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x65 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
 

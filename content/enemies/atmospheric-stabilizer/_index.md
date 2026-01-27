@@ -51,12 +51,6 @@ Other Sprites:
 
 {{< tab "Atmospheric Stabilizer Identification" >}}
 
-{{< columns >}}
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
 |                   |      |
 |-------------------|-----:|
 | Health            | 1 |
@@ -66,35 +60,12 @@ Other Sprites:
 | Health X          |1024/1024 |
 | Missile X         |0/1024 |
 | Refill X          |0/1024|
-| Internal ID       |0x2C to 0x30(Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{< /columns >}}
+| Internal ID       |0x2C to 0x30 (Primary)|
+| Weaknesses        | None |
 
 {{< /tab >}}
 
 {{< tab "Atmospheric Stabilizer Corner" >}}
-
-{{< columns >}}
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
 
 |                   |      |
 |-------------------|-----:|
@@ -103,24 +74,7 @@ Other Sprites:
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x23 and 0x24 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+| Weaknesses        | None |
 
 {{< /tab >}}
 

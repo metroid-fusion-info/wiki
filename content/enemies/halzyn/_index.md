@@ -41,9 +41,14 @@ Halzyn
 
 {{</ columns >}}
 
+{{< columns >}}
+<--->
+<--->
+**Halzyn Wing**
+{{< /columns >}}
+
 {{< columns size=large >}}
 
-Halzyn wing
 
 <--->
 

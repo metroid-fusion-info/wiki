@@ -54,12 +54,6 @@ Other Sprites:
 
 {{< tab "Arachnus Shell" >}}
 
-{{< columns >}}
-
-{{< center >}}
-**General**
-{{</ center >}}
-
 |                   |      |
 |-------------------|-----:|
 | Health            | 1 |
@@ -67,34 +61,11 @@ Other Sprites:
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x15 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+| Weaknesses        | None |
 
 {{< /tab >}}
 
 {{< tab "Arachnus Slash" >}}
-
-{{< columns >}}
-
-{{< center >}}
-**General**
-{{</ center >}}
 
 |                   |      |
 |-------------------|-----:|
@@ -103,34 +74,11 @@ Other Sprites:
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x16 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+| Weaknesses        | None |
 
 {{< /tab >}}
 
 {{< tab "Arachnus Fireball" >}}
-
-{{< columns >}}
-
-{{< center >}}
-**General**
-{{</ center >}}
 
 |                   |      |
 |-------------------|-----:|
@@ -139,24 +87,7 @@ Other Sprites:
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x1A (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+| Weaknesses        | None |
 
 {{< /tab >}}
 

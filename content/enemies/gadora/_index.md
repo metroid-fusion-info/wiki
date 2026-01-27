@@ -2,6 +2,8 @@
 title: Gadora
 ---
 
+TODO: clean this up
+
 {{< columns size=large >}}
 
 Gadora (Arachnus)

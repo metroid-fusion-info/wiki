@@ -41,14 +41,12 @@ Fune
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Fune spit
+{{< columns >}}
 
 <--->
 
 {{< center >}}
-**General & Drops**
+**Fune Spit**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +56,7 @@ Fune spit
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x2F (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
 
