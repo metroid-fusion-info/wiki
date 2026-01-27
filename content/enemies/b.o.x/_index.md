@@ -1,5 +1,5 @@
 ---
-title: B.O.X
+title: B.O.X.
 ---
 
 {{< columns size=large >}}
@@ -7,6 +7,48 @@ title: B.O.X
 BOX
 
 <--->
+
+{{< center >}}
+**General & Drops**
+{{</ center >}}
+
+|                   |      |
+|-------------------|-----:|
+| Health            | 300 |
+| Damage            | 45 |
+| Varia Reduction   |  90% |
+| Gravity Reduction |  80% |
+| Internal ID       |0x31 (Secondary)|
+
+<--->
+
+{{< center >}}
+**Weaknesses**
+{{</ center >}}
+
+|                              |    |
+|------------------------------|---:|
+| Beams and Bombs              | ❌ |
+| Charge Beam                  | ✅ |
+| Missiles                     | ✅ |
+| Super Missiles               | ❌ |
+| Power Bombs                  | ❌ |
+| Speed Booster & Screw Attack | ❌ |
+| Freezable                    | ❌ |
+
+{{</ columns >}}
+
+{{< columns >}}
+
+<--->
+
+Other Sprites:
+
+{{< tabs "other-box" >}}
+
+{{< tab "Shell" >}}
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,47 +83,11 @@ BOX
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-BOX part
+{{< tab "Bomb" >}}
 
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 60 |
-| Damage            | 45 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Internal ID       |0x31 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ✅ |
-| Missiles                     | ✅ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-BOX bomb
-
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -113,11 +119,11 @@ BOX bomb
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-BOX fire
+{{< tab "Fire" >}}
 
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -149,3 +155,8 @@ BOX fire
 
 {{</ columns >}}
 
+{{< /tab >}}
+
+{{< /tabs >}}
+
+{{< /columns >}}

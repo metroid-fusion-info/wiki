@@ -4,7 +4,7 @@ title: Atmospheric Stabilizer
 
 {{< columns size=large >}}
 
-Atmospheric stabilizer parasite
+Atmospheric Stabilizer Parasite
 
 <--->
 
@@ -41,11 +41,17 @@ Atmospheric stabilizer parasite
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Atmospheric stabilizer-1
+{{< columns >}}
 
 <--->
+
+Other Sprites:
+
+{{< tabs "other-stabilizer" >}}
+
+{{< tab "Atmospheric Stabilizer Identification" >}}
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -60,7 +66,7 @@ Atmospheric stabilizer-1
 | Health X          |1024/1024 |
 | Missile X         |0/1024 |
 | Refill X          |0/1024|
-| Internal ID       |0x2C (Primary)|
+| Internal ID       |0x2C to 0x30(Primary)|
 
 <--->
 
@@ -78,169 +84,13 @@ Atmospheric stabilizer-1
 | Speed Booster & Screw Attack | ❌ |
 | Freezable                    | ❌ |
 
-{{</ columns >}}
+{{< /columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-Atmospheric stabilizer-2
+{{< tab "Atmospheric Stabilizer Corner" >}}
 
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 1 |
-| Damage            | 30 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Health X          |1024/1024 |
-| Missile X         |0/1024 |
-| Refill X          |0/1024|
-| Internal ID       |0x2D (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Atmospheric stabilizer-3
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 1 |
-| Damage            | 30 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Health X          |1024/1024 |
-| Missile X         |0/1024 |
-| Refill X          |0/1024|
-| Internal ID       |0x2E (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Atmospheric stabilizer-4
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 1 |
-| Damage            | 30 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Health X          |1024/1024 |
-| Missile X         |0/1024 |
-| Refill X          |0/1024|
-| Internal ID       |0x2F (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Atmospheric stabilizer-5
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 1 |
-| Damage            | 30 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Health X          |1024/1024 |
-| Missile X         |0/1024 |
-| Refill X          |0/1024|
-| Internal ID       |0x30 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Atmospheric stabilizer corner
-
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -252,7 +102,7 @@ Atmospheric stabilizer corner
 | Damage            | 32 |
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
-| Internal ID       |0x23 (Secondary)|
+| Internal ID       |0x23 and 0x24 (Secondary)|
 
 <--->
 
@@ -272,39 +122,9 @@ Atmospheric stabilizer corner
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-Atmospheric stabilizer corner
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 1 |
-| Damage            | 32 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Internal ID       |0x24 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+{{< /tabs >}}
 
 {{</ columns >}}
 

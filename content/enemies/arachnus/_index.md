@@ -4,7 +4,8 @@ title: Arachnus
 
 {{< columns size=large >}}
 
-Arachnus
+Arachnus.
+TODO: arachnus fight explanation
 
 <--->
 
@@ -41,14 +42,22 @@ Arachnus
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< columns >}}
 
-Arachnus back
+<!-- Other Sprites Start -->
 
 <--->
 
+Other Sprites:
+
+{{< tabs "other-arachnus" >}}
+
+{{< tab "Arachnus Shell" >}}
+
+{{< columns >}}
+
 {{< center >}}
-**General & Drops**
+**General**
 {{</ center >}}
 
 |                   |      |
@@ -77,14 +86,14 @@ Arachnus back
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-Arachnus slash
+{{< tab "Arachnus Slash" >}}
 
-<--->
+{{< columns >}}
 
 {{< center >}}
-**General & Drops**
+**General**
 {{</ center >}}
 
 |                   |      |
@@ -113,122 +122,14 @@ Arachnus slash
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /tab >}}
 
-Arachnus head
+{{< tab "Arachnus Fireball" >}}
 
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 0 |
-| Damage            | 0 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Internal ID       |0x17 (Secondary)|
-
-<--->
+{{< columns >}}
 
 {{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Arachnus arm 1
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 0 |
-| Damage            | 0 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Internal ID       |0x18 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Arachnus arm 2
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 0 |
-| Damage            | 0 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Internal ID       |0x19 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Arachnus fire
-
-<--->
-
-{{< center >}}
-**General & Drops**
+**General**
 {{</ center >}}
 
 |                   |      |
@@ -257,9 +158,64 @@ Arachnus fire
 
 {{</ columns >}}
 
+{{< /tab >}}
+
+{{< tab "Arachnus Head" >}}
+
+|                   |      |
+|-------------------|-----:|
+| Health            | 0 |
+| Damage            | 0 |
+| Internal ID       |0x17 (Secondary)|
+| Weaknesses        | None |
+
+{{< /tab >}}
+
+{{< tab "Arachnus Left Arm" >}}
+
+|                   |      |
+|-------------------|-----:|
+| Health            | 0 |
+| Damage            | 0 |
+| Internal ID       |0x18 (Secondary)|
+| Weaknesses        | None |
+
+{{</tab>}}
+
+{{< tab "Arachnus Right Arm" >}}
+
+|                   |      |
+|-------------------|-----:|
+| Health            | 0 |
+| Damage            | 0 |
+| Internal ID       |0x19 (Secondary)|
+| Weaknesses        | None |
+
+{{</tab>}}
+{{< tab "Arachnus Slash Trail" >}}
+
+|                   |      |
+|-------------------|-----:|
+| Health            | 0 |
+| Damage            | 0 |
+| Internal ID       |0x20 (Secondary)|
+| Weaknesses        | None |
+
+{{</tab>}}
+{{< /tabs >}}
+
+
+{{< /columns >}}
+
+<!-- Other Sprites End -->
+
+
+# Morph Core-X. 
+
 {{< columns size=large >}}
 
-Core-X (morph)
+
+TODO: core-x fight explanation
 
 <--->
 
@@ -292,40 +248,3 @@ Core-X (morph)
 | Freezable                    | ❌ |
 
 {{</ columns >}}
-
-{{< columns size=large >}}
-
-Arachnus slash trail
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 0 |
-| Damage            | 0 |
-| Varia Reduction   |  30% |
-| Gravity Reduction |  10% |
-| Internal ID       |0x20 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
