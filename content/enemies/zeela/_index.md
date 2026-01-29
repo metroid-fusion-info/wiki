@@ -2,13 +2,14 @@
 title: Zeela
 ---
 
-TODO: 
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Zeela
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -43,11 +44,12 @@ Zeela
 
 {{</ columns >}}
 
-{{< columns size=large >}}
 
-Red Zeela
+{{< center >}}
+**Red Zeela**
+{{</ center >}}
 
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -82,14 +84,8 @@ Red Zeela
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Zeela projectile
-
-<--->
-
 {{< center >}}
-**General & Drops**
+**Zeela Projectile**
 {{</ center >}}
 
 |                   |      |
@@ -99,22 +95,6 @@ Zeela projectile
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x38 (Secondary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
+{{< /columns >}}
