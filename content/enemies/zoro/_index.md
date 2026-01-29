@@ -2,11 +2,13 @@
 title: Zoro
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Zoro
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,11 +43,15 @@ Zoro
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< /columns >}}
 
-Blue zoro
+# Blue Zoro
+
+{{< columns >}}
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -80,3 +86,4 @@ Blue zoro
 
 {{</ columns >}}
 
+{{< /columns >}}

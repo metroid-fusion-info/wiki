@@ -2,11 +2,13 @@
 title: Geruboss
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Geruboss
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,4 +42,6 @@ Geruboss
 | Freezable                    | ❌ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

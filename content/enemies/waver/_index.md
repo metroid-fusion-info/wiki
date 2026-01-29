@@ -2,11 +2,13 @@
 title: Waver
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Waver
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,14 +43,8 @@ Waver
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Waver debris
-
-<--->
-
 {{< center >}}
-**General & Drops**
+**Waver Debris**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +54,7 @@ Waver debris
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x37 (Secondary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+{{< /columns >}}
 

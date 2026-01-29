@@ -2,11 +2,13 @@
 title: Sova
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Sova
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,14 +43,8 @@ Sova
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Sova fire
-
-<--->
-
 {{< center >}}
-**General & Drops**
+**Sova Fire**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +54,7 @@ Sova fire
 | Varia Reduction   |  60% |
 | Gravity Reduction |  30% |
 | Internal ID       |0x39 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
 

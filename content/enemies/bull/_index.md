@@ -2,11 +2,13 @@
 title: Bull
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Bull
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,12 +42,6 @@ Bull
 | Freezable                    | ✅ |
 
 {{</ columns >}}
-
-{{< columns size=large >}}
-
-Bull smoke
-
-<--->
 
 {{< center >}}
 **Bull Smoke**

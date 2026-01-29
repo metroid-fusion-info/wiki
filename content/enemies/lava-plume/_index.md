@@ -2,7 +2,7 @@
 title: Lava Plume
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Lava plume
 
@@ -22,22 +22,7 @@ Lava plume
 | Missile X         |0/1024 |
 | Refill X          |0/1024|
 | Internal ID       |0x5F (Primary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+{{< /columns >}}
 

@@ -2,11 +2,13 @@
 title: Kago
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Kago
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Kago
 
 {{</ columns >}}
 
+{{< /columns >}}

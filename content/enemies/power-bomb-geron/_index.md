@@ -2,11 +2,13 @@
 title: Power Bomb Geron
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Power Bomb Geron
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -21,7 +23,14 @@ Power Bomb Geron
 | Health X          |200/1024 |
 | Missile X         |300/1024 |
 | Refill X          |524/1024|
-| Internal ID       |0x80 (Primary)|
+| Internal ID (place)|0x80 (Primary)|
+| Internal ID (place)|0x81 (Primary)|
+| Internal ID (place)|0x82 (Primary)|
+| Internal ID (place)|0x83 (Primary)|
+| Internal ID (place)|0x84 (Primary)|
+| Internal ID (place)|0x85 (Primary)|
+| Internal ID (place)|0x86 (Primary)|
+| Internal ID (place)|0x87 (Primary)|
 
 <--->
 
@@ -41,284 +50,11 @@ Power Bomb Geron
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
 {{< center >}}
-**General & Drops**
+**Power Bomb Geron Stem**
 {{</ center >}}
 
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x81 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x82 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x83 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x84 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x85 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x86 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 17 |
-| Damage            | 96 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Health X          |200/1024 |
-| Missile X         |300/1024 |
-| Refill X          |524/1024|
-| Internal ID       |0x87 (Primary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ✅ |
-| Speed Booster & Screw Attack | ✅ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
-{{< columns size=large >}}
-
-Power Bomb Geron Stem
-
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -349,4 +85,6 @@ Power Bomb Geron Stem
 | Freezable                    | ❌ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

@@ -2,11 +2,13 @@
 title: B.O.X.
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 BOX
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -38,11 +40,9 @@ BOX
 
 {{</ columns >}}
 
-{{< columns >}}
-
-<--->
-
-Other Sprites:
+{{< center >}}
+**Other Sprites**
+{{</ center >}}
 
 {{< tabs "other-box" >}}
 

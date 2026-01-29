@@ -2,11 +2,13 @@
 title: Choot
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Choot
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,10 +42,6 @@ Choot
 | Freezable                    | ✅ |
 
 {{</ columns >}}
-
-{{< columns >}}
-
-<--->
 
 {{< center >}}
 **Spit**

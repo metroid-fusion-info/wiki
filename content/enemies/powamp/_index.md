@@ -2,11 +2,13 @@
 title: Powamp
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Powamp
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Powamp
 
 {{</ columns >}}
 
+{{< /columns >}}

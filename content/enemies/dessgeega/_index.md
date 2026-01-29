@@ -2,11 +2,13 @@
 title: Dessgeega
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Dessgeega
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,12 +42,6 @@ Dessgeega
 | Freezable                    | ✅ |
 
 {{</ columns >}}
-
-{{< columns >}}
-
-
-
-<--->
 
 {{< center >}}
 **Dessgeega Spike**

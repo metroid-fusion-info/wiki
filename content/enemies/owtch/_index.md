@@ -2,11 +2,13 @@
 title: Owtch
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Owtch
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Owtch
 
 {{</ columns >}}
 
+{{< /columns >}}

@@ -2,6 +2,8 @@
 title: Super Missile Geron
 ---
 
+TODO: this and all other gerons
+
 {{< columns size=large >}}
 
 Super Missile Geron

@@ -2,11 +2,13 @@
 title: Reo
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Reo
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,14 +43,8 @@ Reo
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Reo wing
-
-<--->
-
 {{< center >}}
-**General & Drops**
+**Reo Wing**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +54,8 @@ Reo wing
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Internal ID       |0x2C (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
+
 

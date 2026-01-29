@@ -2,11 +2,13 @@
 title: Genesis
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Genesis
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,10 +42,6 @@ Genesis
 | Freezable                    | ✅ |
 
 {{</ columns >}}
-
-{{< columns >}}
-
-<--->
 
 {{< center >}}
 **Genesis Spit**

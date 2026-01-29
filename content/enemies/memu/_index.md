@@ -2,11 +2,13 @@
 title: Memu
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Memu
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Memu
 
 {{</ columns >}}
 
+{{< /columns >}}

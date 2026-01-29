@@ -2,11 +2,13 @@
 title: Atmospheric Stabilizer
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Atmospheric Stabilizer Parasite
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,11 +43,9 @@ Atmospheric Stabilizer Parasite
 
 {{</ columns >}}
 
-{{< columns >}}
-
-<--->
-
-Other Sprites:
+{{< center >}}
+**Other Sprites**
+{{</ center >}}
 
 {{< tabs "other-stabilizer" >}}
 

@@ -2,6 +2,8 @@
 title: Varia Core
 ---
 
+TODO: 
+
 {{< columns size=large >}}
 
 Mega-X shield

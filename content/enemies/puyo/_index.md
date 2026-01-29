@@ -2,11 +2,13 @@
 title: Puyo
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Puyo
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,4 +42,6 @@ Puyo
 | Freezable                    | ✅ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

@@ -2,11 +2,13 @@
 title: Namihe
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Namihe
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,14 +43,9 @@ Namihe
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Namihe spit
-
-<--->
 
 {{< center >}}
-**General & Drops**
+**Namihe Spit**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +55,6 @@ Namihe spit
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x2E (Secondary)|
+| Weaknesses        | None |
 
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
-
+{{< /columns >}}

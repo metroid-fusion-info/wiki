@@ -2,11 +2,13 @@
 title: Sidehopper
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Sidehopper
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Sidehopper
 
 {{</ columns >}}
 
+{{< /columns >}}

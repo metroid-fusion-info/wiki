@@ -2,11 +2,13 @@
 title: Scizer
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Sciser
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,11 +43,29 @@ Sciser
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< center >}}
+**Sciser Projectile**
+{{</ center >}}
 
-Gold Sciser
+|                   |      |
+|-------------------|-----:|
+| Health            | 0 |
+| Damage            | 20 |
+| Varia Reduction   |  90% |
+| Gravity Reduction |  80% |
+| Internal ID       |0x4 (Secondary)|
+| Weaknesses        | None |
+
+{{< /columns >}}
+
+
+# Gold Sciser
+
+{{< columns >}}
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -80,39 +100,5 @@ Gold Sciser
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Sciser projectile
-
-<--->
-
-{{< center >}}
-**General & Drops**
-{{</ center >}}
-
-|                   |      |
-|-------------------|-----:|
-| Health            | 0 |
-| Damage            | 20 |
-| Varia Reduction   |  90% |
-| Gravity Reduction |  80% |
-| Internal ID       |0x4 (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
-
-{{</ columns >}}
+{{< /columns >}}
 

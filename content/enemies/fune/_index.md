@@ -2,11 +2,13 @@
 title: Fune
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Fune
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,10 +43,6 @@ Fune
 
 {{</ columns >}}
 
-{{< columns >}}
-
-<--->
-
 {{< center >}}
 **Fune Spit**
 {{</ center >}}
@@ -59,4 +57,3 @@ Fune
 | Weaknesses        | None |
 
 {{</ columns >}}
-

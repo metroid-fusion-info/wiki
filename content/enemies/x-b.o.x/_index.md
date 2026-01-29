@@ -2,6 +2,8 @@
 title: X-B.O.X
 ---
 
+TODO: merge this with other xbox and do
+
 {{< columns size=large >}}
 
 Wave beam

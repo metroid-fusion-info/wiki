@@ -2,11 +2,13 @@
 title: Missile Tank Mimic
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Fake missile tank
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -19,7 +21,7 @@ Fake missile tank
 | Varia Reduction   |  30% |
 | Gravity Reduction |  10% |
 | Health X          |0/1024 |
-| Missile X         |12884901888/1024 |
+| Missile X         |1000/1024 |
 | Refill X          |24/1024|
 | Internal ID       |0xAE (Primary)|
 
@@ -41,3 +43,4 @@ Fake missile tank
 
 {{</ columns >}}
 
+{{< /columns >}}

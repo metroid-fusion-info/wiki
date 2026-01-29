@@ -2,11 +2,13 @@
 title: Halzyn
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Halzyn
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,16 +43,11 @@ Halzyn
 
 {{</ columns >}}
 
-{{< columns >}}
-<--->
-<--->
+{{< center >}}
 **Halzyn Wing**
-{{< /columns >}}
+{{< /center >}}
 
-{{< columns size=large >}}
-
-
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -81,4 +78,6 @@ Halzyn
 | Freezable                    | ✅ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

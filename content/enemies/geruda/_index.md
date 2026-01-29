@@ -2,11 +2,13 @@
 title: Geruda
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Geruda
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Geruda
 
 {{</ columns >}}
 
+{{< /columns >}}

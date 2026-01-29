@@ -2,11 +2,13 @@
 title: Ripper
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Ripper
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Ripper
 
 {{</ columns >}}
 
+{{< /columns >}}

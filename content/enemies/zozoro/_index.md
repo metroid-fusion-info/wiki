@@ -2,11 +2,13 @@
 title: Zozoro
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Zozoro
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Zozoro
 
 {{</ columns >}}
 
+{{< /columns >}}

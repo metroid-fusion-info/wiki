@@ -2,11 +2,13 @@
 title: Yard
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Yard
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,14 +43,9 @@ Yard
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Yard projectile
-
-<--->
 
 {{< center >}}
-**General & Drops**
+**Yard Projectile**
 {{</ center >}}
 
 |                   |      |
@@ -58,22 +55,6 @@ Yard projectile
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x3A (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
-

@@ -2,6 +2,8 @@
 title: X-B.O.X.
 ---
 
+TODO: see other xbox
+
 {{< columns size=large >}}
 
 BOX 2

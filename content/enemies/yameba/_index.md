@@ -2,11 +2,13 @@
 title: Yameba
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Yameba
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Yameba
 
 {{</ columns >}}
 
+{{< /columns >}}

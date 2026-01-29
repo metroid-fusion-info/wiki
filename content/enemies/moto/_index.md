@@ -2,11 +2,13 @@
 title: Moto
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Moto
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,11 +43,11 @@ Moto
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+{{< center >}}
+**Moto Shell**
+{{</ center >}}
 
-Moto front
-
-<--->
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -77,3 +79,4 @@ Moto front
 
 {{</ columns >}}
 
+{{< /columns >}}

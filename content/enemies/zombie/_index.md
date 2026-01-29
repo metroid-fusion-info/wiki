@@ -2,11 +2,13 @@
 title: Zombie
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Zombie
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -41,3 +43,4 @@ Zombie
 
 {{</ columns >}}
 
+{{< /columns >}}

@@ -2,11 +2,13 @@
 title: Geemer
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Geemer
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,4 +42,6 @@ Geemer
 | Freezable                    | ✅ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

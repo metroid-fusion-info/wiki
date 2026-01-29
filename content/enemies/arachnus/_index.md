@@ -2,12 +2,14 @@
 title: Arachnus
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Arachnus.
 TODO: arachnus fight explanation
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,15 +42,13 @@ TODO: arachnus fight explanation
 | Speed Booster & Screw Attack | ✅ |
 | Freezable                    | ❌ |
 
-{{</ columns >}}
-
-{{< columns >}}
+{{< /columns >}}
 
 <!-- Other Sprites Start -->
 
-<--->
-
-Other Sprites:
+{{< center >}}
+**Other Sprites**
+{{< /center >}}
 
 {{< tabs "other-arachnus" >}}
 
@@ -143,12 +143,14 @@ Other Sprites:
 
 # Morph Core-X. 
 
-{{< columns size=large >}}
+{{< columns >}}
 
 
 TODO: core-x fight explanation
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -179,3 +181,5 @@ TODO: core-x fight explanation
 | Freezable                    | ❌ |
 
 {{</ columns >}}
+
+{{< /columns >}}

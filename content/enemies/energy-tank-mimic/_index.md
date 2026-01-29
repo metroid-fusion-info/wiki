@@ -2,11 +2,13 @@
 title: Energy Tank Mimic
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Fake energy tank
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -40,4 +42,6 @@ Fake energy tank
 | Freezable                    | ❌ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

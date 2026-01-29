@@ -2,11 +2,13 @@
 title: Charge Core-X
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Beam Core-X (charge)
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -39,10 +41,6 @@ Beam Core-X (charge)
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-<--->
-
 {{< center >}}
 **Charge Core Beam**
 {{</ center >}}
@@ -56,14 +54,11 @@ Beam Core-X (charge)
 | Internal ID       |0x4E (Secondary)|
 | Weaknesses        | None |
 
-{{</ columns >}}
 
-{{< columns >}}
+{{< center >}}
+**Other Sprites**
+{{</ center >}}
 
-<--->
-
-
-Other Sprites:
 {{< tabs "other-charge-core" >}}
 
 {{< tab "Chozo Ball" >}}

@@ -2,11 +2,13 @@
 title: Hornoad
 ---
 
-{{< columns size=large >}}
+{{< columns >}}
 
 Hornoad
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -42,11 +44,6 @@ Hornoad
 
 {{</ columns >}}
 
-{{< columns >}}
-
-
-<--->
-
 {{< center >}}
 **Hornoad Spit**
 {{</ center >}}
@@ -61,4 +58,5 @@ Hornoad
 | Weaknesses        | None |
 
 {{</ columns >}}
+
 
