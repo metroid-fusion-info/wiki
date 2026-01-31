@@ -2,7 +2,7 @@
 title: Skultera
 ---
 
-TODO: 
+TODO: get proper difference between the two small skulteras
 
 {{< columns size=large >}}
 

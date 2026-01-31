@@ -2,13 +2,13 @@
 title: Serris
 ---
 
-TODO:
-
-{{< columns size=large >}}
+{{< columns >}}
 
 Serris
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -43,14 +43,9 @@ Serris
 
 {{</ columns >}}
 
-{{< columns size=large >}}
-
-Serris segment
-
-<--->
 
 {{< center >}}
-**General & Drops**
+**Serris Segment**
 {{</ center >}}
 
 |                   |      |
@@ -60,30 +55,19 @@ Serris segment
 | Varia Reduction   |  90% |
 | Gravity Reduction |  80% |
 | Internal ID       |0x5B (Secondary)|
-
-<--->
-
-{{< center >}}
-**Weaknesses**
-{{</ center >}}
-
-|                              |    |
-|------------------------------|---:|
-| Beams and Bombs              | ❌ |
-| Charge Beam                  | ❌ |
-| Missiles                     | ❌ |
-| Super Missiles               | ❌ |
-| Power Bombs                  | ❌ |
-| Speed Booster & Screw Attack | ❌ |
-| Freezable                    | ❌ |
+| Weaknesses        | None |
 
 {{</ columns >}}
 
-{{< columns size=large >}}
+# Speed Core-X
+
+{{< columns >}}
 
 Core-X (speed)
 
 <--->
+
+{{< columns >}}
 
 {{< center >}}
 **General & Drops**
@@ -114,4 +98,6 @@ Core-X (speed)
 | Freezable                    | ❌ |
 
 {{</ columns >}}
+
+{{< /columns >}}
 

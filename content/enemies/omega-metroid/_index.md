@@ -2,6 +2,8 @@
 title: Omega Metroid
 ---
 
+TODO: what is "part"?
+
 {{< columns size=large >}}
 
 Omega Metroid
