@@ -1,6 +1,37 @@
 ---
 title: Data Courtyard
+resources:
+    - name: "0x1F-layer0.png"
+      src: "0x1F-layer0.png"
+      title: ""
+    - name: "0x1F-layer1.png"
+      src: "0x1F-layer1.png"
+      title: ""
+    - name: "0x1F-layer2.png"
+      src: "0x1F-layer2.png"
+      title: ""
+    - name: "0x7.png"
+      src: "0x7.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x1F-layer0.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x1F-layer1.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x1F-layer2.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x7.png" size=tiny >}}
+
+{{< /columns >}}
 
 This room is sometimes also known as "Before Data Room" or "Data Room Access".
 

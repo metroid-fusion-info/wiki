@@ -1,8 +1,14 @@
 ---
 title: Kago Room
+resources:
+    - name: "0x21.png"
+      src: "0x21.png"
+      title: ""
 ---
 
 This room is sometimes also known as "Kago Hallway".
+
+{{< img name="0x21.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x21  

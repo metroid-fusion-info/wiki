@@ -1,6 +1,23 @@
 ---
 title: Overgrown Checkpoint
+resources:
+    - name: "0x3A.png"
+      src: "0x3A.png"
+      title: ""
+    - name: "0x39.png"
+      src: "0x39.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x3A.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x39.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0x39, 0x3A  

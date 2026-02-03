@@ -1,6 +1,12 @@
 ---
 title: Glass Tube to Sector 4 (AQA)
+resources:
+    - name: "0x35.png"
+      src: "0x35.png"
+      title: ""
 ---
+
+{{< img name="0x35.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x35  

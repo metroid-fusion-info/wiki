@@ -1,6 +1,23 @@
 ---
 title: Overgrown Entrance
+resources:
+    - name: "0x18.png"
+      src: "0x18.png"
+      title: ""
+    - name: "0x24.png"
+      src: "0x24.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x18.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x24.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0x18, 0x24  
