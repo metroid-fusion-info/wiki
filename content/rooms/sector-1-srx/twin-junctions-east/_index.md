@@ -1,6 +1,12 @@
 ---
 title: Twin Junctions East
+resources:
+    - name: "0x21.png"
+      src: "0x21.png"
+      title: ""
 ---
+
+{{< img name="0x21.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x21  

@@ -1,6 +1,12 @@
 ---
 title: Twin Junctions West
+resources:
+    - name: "0x6.png"
+      src: "0x6.png"
+      title: ""
 ---
+
+{{< img name="0x6.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x6  

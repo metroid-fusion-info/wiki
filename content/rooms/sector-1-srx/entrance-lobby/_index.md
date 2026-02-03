@@ -1,6 +1,12 @@
 ---
 title: Entrance Lobby
+resources:
+    - name: "0x0.png"
+      src: "0x0.png"
+      title: ""
 ---
+
+{{< img name="0x0.png" size=tiny >}}
 
 ### Metadata
 Internal Room ID: 0x0  
