@@ -1,6 +1,12 @@
 ---
 title: Gerubus Gully
+resources:
+    - name: "0x21.png"
+      src: "0x21.png"
+      title: ""
 ---
+
+{{< img name="0x21.png" size=tiny >}}
 
 This room is sometimes also known as "Mama Gerubus Room" or "Double Yellows".
 

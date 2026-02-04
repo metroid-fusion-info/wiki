@@ -1,6 +1,23 @@
 ---
 title: Security Shaft East
+resources:
+    - name: "0x15.png"
+      src: "0x15.png"
+      title: ""
+    - name: "0x16.png"
+      src: "0x16.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x15.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x16.png" size=tiny >}}
+
+{{< /columns >}}
 
 This room is sometimes also known as "Security Access".
 

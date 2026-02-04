@@ -1,6 +1,23 @@
 ---
 title: Arctic Containment
+resources:
+    - name: "0x7.png"
+      src: "0x7.png"
+      title: ""
+    - name: "0xF.png"
+      src: "0xF.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x7.png" size=tiny >}}
+
+<--->
+
+{{< img name="0xF.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0x7, 0xF  
