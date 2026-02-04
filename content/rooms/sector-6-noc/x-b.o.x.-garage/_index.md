@@ -1,6 +1,12 @@
 ---
 title: X-B.O.X. Garage
+resources:
+    - name: "0x12.png"
+      src: "0x12.png"
+      title: ""
 ---
+
+{{< img name="0x12.png" size=tiny >}}
 
 This room is sometimes also referred to as "Run Crumbler", specifically for the upper item. Alternative names are also "Wave Gate" and "Owtch Puzzle" for the lower and upper item respectively.
 
