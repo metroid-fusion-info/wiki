@@ -1,8 +1,14 @@
 ---
 title: Fiery Storage
+resources:
+    - name: "0x1C.png"
+      src: "0x1C.png"
+      title: ""
 ---
 
-This room is sometimes also referred to as "First hell run", "Shinespark Puzzle" or "Lava Hall Access".
+{{< img name="0x1C.png" size=tiny >}}
+
+This room is sometimes also referred to as "First Hell Run", "Shinespark Puzzle" or "Lava Hall Access".
 
 ### Metadata
 Internal Room ID: 0x1C  

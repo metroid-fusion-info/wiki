@@ -1,6 +1,30 @@
 ---
 title: Bob's Abode
+resources:
+    - name: "0x6-layer0.png"
+      src: "0x6-layer0.png"
+      title: ""
+    - name: "0x6-layer1.png"
+      src: "0x6-layer1.png"
+      title: ""
+    - name: "0x18.png"
+      src: "0x18.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x6-layer0.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x6-layer1.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x18.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0x6, 0x18  

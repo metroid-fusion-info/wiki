@@ -1,6 +1,23 @@
 ---
 title: B.O.X. Arena
+resources:
+    - name: "0x12.png"
+      src: "0x12.png"
+      title: ""
+    - name: "0x17.png"
+      src: "0x17.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x12.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x17.png" size=tiny >}}
+
+{{< /columns >}}
 
 ### Metadata
 Internal Room IDs: 0x17, 0x12  

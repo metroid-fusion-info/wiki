@@ -1,6 +1,23 @@
 ---
 title: Lava Maze
+resources:
+    - name: "0xC.png"
+      src: "0xC.png"
+      title: ""
+    - name: "0xC-BG0.png"
+      src: "0xC-BG0.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0xC.png" size=tiny >}}
+
+<--->
+
+{{< img name="0xC-BG0.png" size=tiny >}}
+
+{{< /columns >}}
 
 This room is sometimes also referred to as "Magma Dive".
 

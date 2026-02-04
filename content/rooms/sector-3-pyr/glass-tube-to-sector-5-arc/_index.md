@@ -1,6 +1,12 @@
 ---
 title: Glass Tube to Sector 5 (ARC)
+resources:
+    - name: "0x25.png"
+      src: "0x25.png"
+      title: ""
 ---
+
+{{< img name="0x25.png" size=tiny >}}
 
 This room is sometimes also referred to as "Porch".
 
