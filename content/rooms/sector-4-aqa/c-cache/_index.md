@@ -1,6 +1,12 @@
 ---
 title: C-Cache
+resources:
+    - name: "0x2E.png"
+      src: "0x2E.png"
+      title: ""
 ---
+
+{{< img name="0x2E.png" size=tiny >}}
 
 This room is sometimes also known as "Owtch Room".
 

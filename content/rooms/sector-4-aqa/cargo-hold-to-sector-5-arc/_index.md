@@ -1,6 +1,12 @@
 ---
 title: Cargo Hold to Sector 5 (ARC)
+resources:
+    - name: "0x17.png"
+      src: "0x17.png"
+      title: ""
 ---
+
+{{< img name="0x17.png" size=tiny >}}
 
 This room is sometimes also known as "Screw Block Alcove".
 

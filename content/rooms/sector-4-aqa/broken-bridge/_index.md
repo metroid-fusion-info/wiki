@@ -1,6 +1,12 @@
 ---
 title: Broken Bridge
+resources:
+    - name: "0xA.png"
+      src: "0xA.png"
+      title: ""
 ---
+
+{{< img name="0xA.png" size=tiny >}}
 
 This room is sometimes also known as "Collapsed Ceiling".
 

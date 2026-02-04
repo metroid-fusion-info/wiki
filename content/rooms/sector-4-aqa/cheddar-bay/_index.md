@@ -1,6 +1,13 @@
 ---
 title: Cheddar Bay
+resources:
+    - name: "0x18.png"
+      src: "0x18.png"
+      title: ""
 ---
+
+{{< img name="0x18.png" size=tiny >}}
+
 
 The name "Cheddar Bay" comes from the Evir "guarding" the item and an association with [Red Lobster's Cheddar Bay Biscuits](https://en.wikipedia.org/wiki/Red_Lobster#/media/File:Red_Lobster_-_Biscuits_(6022841688).jpg). 
 

@@ -1,6 +1,23 @@
 ---
 title: Reservoir East
+resources:
+    - name: "0x6-layer0.png"
+      src: "0x6-layer0.png"
+      title: ""
+    - name: "0x6-layer1.png"
+      src: "0x6-layer1.png"
+      title: ""
 ---
+
+{{< columns >}}
+
+{{< img name="0x6-layer0.png" size=tiny >}}
+
+<--->
+
+{{< img name="0x6-layer1.png" size=tiny >}}
+
+{{< /columns >}}
 
 This room is sometimes also known as "Electric PB Tank" or "PB Locked Item Room".
 

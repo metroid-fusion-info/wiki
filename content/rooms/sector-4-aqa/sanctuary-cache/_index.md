@@ -1,6 +1,12 @@
 ---
 title: Sanctuary Cache
+resources:
+    - name: "0x29.png"
+      src: "0x29.png"
+      title: ""
 ---
+
+{{< img name="0x29.png" size=tiny >}}
 
 This room is sometimes also known as "Crab Battle".
 
