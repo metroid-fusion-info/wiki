@@ -4,7 +4,8 @@ title: B.O.X.
 
 {{< columns >}}
 
-BOX
+B.O.X. is the fourth boss fought in a normal playthrough and is one of the two bosses in the game which does not involve a Core-X fight.
+
 
 <--->
 
