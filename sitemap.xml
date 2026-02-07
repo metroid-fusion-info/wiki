@@ -38,8 +38,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/aquarium-speedway/</loc>
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/arachnus/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/arachnus/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/arachnus-arena/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -77,8 +77,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/auxiliary-power-station/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/b.o.x/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/b.o.x/</loc>
+    <lastmod>2026-02-07T17:40:35+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/b.o.x.-arena/</loc>
     <lastmod>2026-02-04T22:58:52+01:00</lastmod>
@@ -191,8 +191,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/charge-core-upper-access/</loc>
     <lastmod>2026-02-03T20:46:27+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/charge-core-x/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/charge-core-x/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/checkpoint-crossing/</loc>
     <lastmod>2026-02-04T22:58:52+01:00</lastmod>
@@ -459,7 +459,7 @@
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/</loc>
-    <lastmod>2026-02-05T00:01:37+01:00</lastmod>
+    <lastmod>2026-02-07T17:40:35+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/fiery-storage/</loc>
     <lastmod>2026-02-04T22:58:52+01:00</lastmod>
@@ -632,6 +632,9 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/level-4-security-room/</loc>
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/bosses/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/enemies/</loc>
     <lastmod>2026-01-29T02:34:41+01:00</lastmod>
   </url><url>
@@ -728,8 +731,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/neglected-shaft/</loc>
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/nettori/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/nettori/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/nettori-arena/</loc>
     <lastmod>2026-02-03T22:57:42+01:00</lastmod>
@@ -746,8 +749,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/nexus-storage/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/nightmare/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/nightmare/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/nightmare-arena/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
@@ -785,8 +788,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/oasis-storage/</loc>
     <lastmod>2026-02-03T22:57:42+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/omega-metroid/</loc>
-    <lastmod>2026-01-31T21:54:11+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/omega-metroid/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/operations-deck/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -923,8 +926,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-save-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/ridley/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/ridley/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/ridley-arena/</loc>
     <lastmod>2026-02-03T20:46:27+01:00</lastmod>
@@ -956,8 +959,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/ruined-corridor/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/sa-x/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/sa-x/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/sanctuary-cache/</loc>
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
@@ -1007,8 +1010,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/security-shaft-west/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/serris/</loc>
-    <lastmod>2026-01-31T21:54:11+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/serris/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/serris-arena/</loc>
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
@@ -1129,8 +1132,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/unused/</loc>
     <lastmod>2026-01-25T14:09:04+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/varia-core/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/varia-core/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/varia-core-x-arena/</loc>
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
@@ -1162,14 +1165,14 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/weapons-testing-grounds/</loc>
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/wide-core-x/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/wide-core-x/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/x-b.o.x/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/x-b.o.x/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/x-b.o.x./</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/x-b.o.x./</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/x-b.o.x.-arena/</loc>
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
@@ -1180,8 +1183,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/x-b.o.x.-garage/</loc>
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/yakuza/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/yakuza/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/yakuza-arena/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -1201,8 +1204,8 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/yard-firing-range/</loc>
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/enemies/zazabi/</loc>
-    <lastmod>2026-01-29T02:34:41+01:00</lastmod>
+    <loc>https://wiki.metroidfusion.run/bosses/zazabi/</loc>
+    <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/zazabi-arena/</loc>
     <lastmod>2026-02-03T22:57:42+01:00</lastmod>
