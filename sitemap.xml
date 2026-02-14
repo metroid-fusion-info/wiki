@@ -174,7 +174,7 @@
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/central-nexus/</loc>
-    <lastmod>2026-01-25T14:44:28+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/central-reactor-core/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -239,6 +239,9 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/crew-quarters-east/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/crew-quarters-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/crew-quarters-navigation-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
@@ -246,7 +249,7 @@
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/crew-quarters-west/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/crows-nest/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
@@ -320,63 +323,6 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/e-tank-mimic-den/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
   </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-central-nexus/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-crew-quarters/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-habitation-deck/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-03T20:46:27+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-03T22:57:42+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-04T22:58:52+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-04T23:12:54+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-04T23:33:09+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/elevator-to-main-deck/</loc>
-    <lastmod>2026-02-05T00:01:37+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-operations-deck/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/elevator-to-restricted-zone/</loc>
-    <lastmod>2026-02-03T20:46:27+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-1-srx/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-2-tro/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-3-pyr/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-4-aqa/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-5-arc/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-6-noc/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-sector-hub/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
-    <loc>https://wiki.metroidfusion.run/rooms/main-deck/elevator-to-tourian-srx/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
-  </url><url>
     <loc>https://wiki.metroidfusion.run/enemies/energy-tank-mimic/</loc>
     <lastmod>2026-01-29T02:34:41+01:00</lastmod>
   </url><url>
@@ -399,22 +345,22 @@
     <lastmod>2026-02-05T00:01:37+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/entrance-navigation-room/</loc>
-    <lastmod>2026-02-03T20:46:27+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/entrance-navigation-room/</loc>
-    <lastmod>2026-02-03T22:57:42+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/entrance-navigation-room/</loc>
-    <lastmod>2026-02-04T22:58:52+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/entrance-navigation-room/</loc>
-    <lastmod>2026-02-04T23:12:54+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/entrance-navigation-room/</loc>
-    <lastmod>2026-02-04T23:33:09+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/entrance-navigation-room/</loc>
-    <lastmod>2026-02-05T00:01:37+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/entrance-recharge-room/</loc>
     <lastmod>2026-02-03T20:46:27+01:00</lastmod>
@@ -459,7 +405,7 @@
     <lastmod>2026-02-04T23:12:54+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/</loc>
-    <lastmod>2026-02-07T17:40:35+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/fiery-storage/</loc>
     <lastmod>2026-02-04T22:58:52+01:00</lastmod>
@@ -557,11 +503,14 @@
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/habitation-deck/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/habitation-deck-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/habitation-deck-entrance/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/habitation-deck-save-room/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/habitation-ventilation/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -674,14 +623,17 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/main-boiler-control-room/</loc>
     <lastmod>2026-02-04T22:58:52+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-access/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-cache/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-shaft/</loc>
-    <lastmod>2026-01-25T14:22:21+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/main-elevator-ventilation/</loc>
     <lastmod>2026-01-25T14:22:21+01:00</lastmod>
@@ -743,6 +695,9 @@
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/nettori-save-room/</loc>
     <lastmod>2026-02-03T22:57:42+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/nexus-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/nexus-navigation-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
   </url><url>
@@ -792,10 +747,13 @@
     <lastmod>2026-02-06T16:38:49+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/operations-deck/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/operations-deck-data-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/operations-deck-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/operations-deck-navigation-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
@@ -921,10 +879,13 @@
     <lastmod>2026-01-25T14:22:21+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-navigation-room/</loc>
-    <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-save-room/</loc>
     <lastmod>2026-01-25T13:06:32+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/restricted-zone-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/bosses/ridley/</loc>
     <lastmod>2026-02-06T16:38:49+01:00</lastmod>
@@ -939,7 +900,7 @@
     <lastmod>2026-01-29T02:34:41+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/ripper-maze/</loc>
-    <lastmod>2026-02-03T20:46:27+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/ripper-road/</loc>
     <lastmod>2026-02-04T23:33:09+01:00</lastmod>
@@ -983,8 +944,44 @@
     <loc>https://wiki.metroidfusion.run/enemies/scizer/</loc>
     <lastmod>2026-01-29T02:34:41+01:00</lastmod>
   </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/sector-1-srx-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/sector-2-tro-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-3-pyr/sector-3-pyr-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-4-aqa/sector-4-aqa-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-5-arc/sector-5-arc-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-6-noc/sector-6-noc-entrance-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub/</loc>
-    <lastmod>2026-01-25T13:51:07+01:00</lastmod>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-1/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-2/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-3/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-4/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-5/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/main-deck/sector-hub-lift-6/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-2-tro/security-access/</loc>
     <lastmod>2026-02-03T22:57:42+01:00</lastmod>
@@ -1086,6 +1083,9 @@
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/tourian-eastern-hub/</loc>
     <lastmod>2026-02-03T20:46:27+01:00</lastmod>
+  </url><url>
+    <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/tourian-elevator/</loc>
+    <lastmod>2026-02-14T09:36:15+01:00</lastmod>
   </url><url>
     <loc>https://wiki.metroidfusion.run/rooms/sector-1-srx/tourian-save-room-east/</loc>
     <lastmod>2026-02-03T20:46:27+01:00</lastmod>
