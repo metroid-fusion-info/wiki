@@ -22,6 +22,6 @@ resources:
 ### Metadata
 Internal Room IDs: 0x22, 0x2B  
 Adjacent Rooms:
-- [Elevator to Sector Hub](../elevator-to-sector-hub/) (top)
+- [Main Elevator](../main-elevator/) (top)
 - [Main Elevator Ventilation](../main-elevator-ventilation/) (middle right)
 - [Sector Hub](../sector-hub/) (bottom)

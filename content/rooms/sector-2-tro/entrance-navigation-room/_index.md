@@ -11,5 +11,5 @@ resources:
 ### Metadata
 Internal Room ID: 0x2  
 Adjacent Rooms:
-- [Elevator to Main Deck](../elevator-to-main-deck/) (left)
+- [Sector 2 (TRO) Entrance Elevator](../sector-2-(tro)-entrance-elevator/) (left)
 - [Entrance Save Room](../entrance-save-room/) (right)

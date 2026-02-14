@@ -40,7 +40,7 @@ Adjacent Rooms:
 - [Operations Deck Navigation Room](../operations-deck-navigation-room/) (middle left)
 - [Operations Ventilation](../operations-ventilation/) (middle right)
 - [Operations Deck Recharge Room](../operations-deck-recharge-room/) (bottom left)
-- [Elevator to Crew Quarters](../elevator-to-crew-quarters/) (bottom right)
+- [Operations Deck Elevator](../operations-deck-elevator/) (bottom right)
 
 ### Enemies
 - SA-X

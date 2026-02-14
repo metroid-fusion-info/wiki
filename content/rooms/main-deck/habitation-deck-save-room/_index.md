@@ -11,4 +11,4 @@ resources:
 ### Metadata
 Internal Room ID: 0xB  
 Adjacent Rooms:
-- [Elevator to Central Nexus](../elevator-to-central-nexus/) (left)
+- [Habitation Deck Elevator](../habitation-deck-elevator/) (left)

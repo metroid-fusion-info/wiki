@@ -14,7 +14,7 @@ Adjacent Rooms:
 - [Habitation Deck](../habitation-deck/) (top left)
 - [Habitation Deck](../habitation-deck/) (middle left)
 - [Habitation Deck](../habitation-deck/) (bottom left)
-- [Elevator to Central Nexus](../elevator-to-central-nexus/) (bottom right)
+- [Habitation Deck Elevator](../habitation-deck-elevator/) (bottom right)
 
 ### Enemies
 - Fune

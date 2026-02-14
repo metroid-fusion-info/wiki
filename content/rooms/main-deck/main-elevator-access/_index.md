@@ -22,5 +22,5 @@ resources:
 ### Metadata
 Internal Room IDs: 0x2A, 0x29  
 Adjacent Rooms:
-- [Elevator to Sector Hub](../elevator-to-sector-hub/) (left)
+- [Main Elevator](../main-elevator/) (left)
 - [Quarantine Junction](../quarantine-junction/) (right)

@@ -24,7 +24,7 @@ resources:
 ### Metadata
 Internal Room ID: 0x12  
 Adjacent Rooms:
-- [Elevator to Habitation Deck](../elevator-to-habitation-deck/) (top left)
+- [Nexus Elevator](../nexus-elevator/) (top left)
 - [Nexus Storage](../nexus-storage/) (top right)
 - [Dark Stairwell](../dark-stairwell/) (middle left)
 - [Hornoad Hallway](../hornoad-hallway/) (middle right)
