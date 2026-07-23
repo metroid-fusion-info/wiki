@@ -89,7 +89,7 @@ Other prominent features include:
 
 ### APWorld
 
-An external plugin for [Archipelago](https://archipelago.gg/), a cross-game Multiworld randomizer. It was originally released on 2025-06-18 and is developed by Rosalie. The download and setup instructions can be [found on its dedicated wiki page](https://github.com/Rosalie-A/Archipelago/wiki/Metroid-Fusion-Setup-Guide). Note, that it is also included by default in [Multiworld.gg](https://multiworld.gg/).
+An external plugin for [Archipelago](https://archipelago.gg/), a cross-game Multiworld randomizer. It was originally released on 2025-06-18, was originally developed by Rosalie and is now maintained by StalledStorm. The download and setup instructions can be [found on its dedicated wiki page](https://github.com/StalledStorm/ArchipelagoMine/wiki/Metroid-Fusion-Setup-Guide). Note, that it is also included by default in [Multiworld.gg](https://multiworld.gg/).
 
 {{< columns >}}
 
