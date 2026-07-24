@@ -13,5 +13,5 @@ This room is sometimes also referred to as "First Hell Run", "Shinespark Puzzle"
 ### Metadata
 Internal Room ID: 0x1C  
 Adjacent Rooms:
-- [Glass Tube to Sector 5 (ARC)](../glass-tube-to-sector-5-arc/) (left)
+- [Sector 3 (PYR) Westbound Glass Tube](../sector-3-pyr-westbound-glass-tube/) (left)
 - [Monkey Bars of Fire](../monkey-bars-of-fire/) (right)

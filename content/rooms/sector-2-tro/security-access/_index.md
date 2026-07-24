@@ -32,7 +32,7 @@ Adjacent Rooms:
 - [Level 1 Security Room](../level-1-security-room/) (top left)
 - [Level 1 Security Room](../level-1-security-room/) (middle left)
 - [Security Corridor](../security-corridor/) (bottom left)
-- [Glass Tube to Sector 4 (AQA)](../glass-tube-to-sector-4-aqa/) (bottom right)
+- [Sector 2 (TRO) Eastbound Glass Tube](../sector-2-tro-eastbound-glass-tube/) (bottom right)
 
 ### Enemies
 - Zoro

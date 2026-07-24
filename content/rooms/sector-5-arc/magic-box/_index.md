@@ -11,7 +11,7 @@ resources:
 ### Metadata
 Internal Room ID: 0x1E  
 Adjacent Rooms:
-- [Glass Tube to Sector 6 (NOC)](../glass-tube-to-sector-6-noc/) (left)
+- [Sector 5 (ARC) Westbound Glass Tube](../sector-5-arc-westbound-glass-tube/) (left)
 - [Entrance Lobby](../entrance-lobby/) (right)
 
 ### Enemies

@@ -11,5 +11,5 @@ resources:
 ### Metadata
 Internal Room ID: 0x2B  
 Adjacent Rooms:
-- [Zoro Zig Zag](../zoro-zig-zag/) (top right)
+- [Zig-Zag-Zone](../zig-zag-zone/) (top right)
 - [Cultivation Station](../cultivation-station/) (bottom right)

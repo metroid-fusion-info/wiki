@@ -11,7 +11,7 @@ resources:
 ### Metadata
 Internal Room ID: 0x24  
 Adjacent Rooms:
-- [Glass Tube to Sector 3 (PYR)](../glass-tube-to-sector-3-pyr/) (top right)
+- [Sector 5 (ARC) Eastbound Glass Tube](../sector-5-arc-eastbound-glass-tube/) (top right)
 - [Arctic Containment](../arctic-containment/) (bottom left)
 - [Data Room](../data-room/) (bottom right)
 

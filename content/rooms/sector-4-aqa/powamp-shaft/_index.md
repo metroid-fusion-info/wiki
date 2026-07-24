@@ -14,7 +14,7 @@ Adjacent Rooms:
 - [Owtch Atrium](../owtch-atrium/) (top left)
 - [Hideout](../hideout/) (top right)
 - [Aquarium Speedawy](../aquarium-speedway/) (middle left)
-- [Glass Tube to Sector 2 (TRO)](../glass-tube-to-sector-2-tro/) (bottom left)
+- [Sector 4 (AQA) Westbound Glass Tube](../sector-4-aqa-westbound-glass-tube/) (bottom left)
 
 ### Enemies
 - Powamp

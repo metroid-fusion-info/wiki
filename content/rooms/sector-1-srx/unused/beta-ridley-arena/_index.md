@@ -8,9 +8,9 @@ resources:
 
 {{< img name="0x35.png" size=tiny >}}
 
-A beta variant of [Ridley Arena](../../ridley-arena/).
+A beta variant of [Neo-Ridley Arena](../../neo-ridley-arena/).
 
 ### Metadata
 Internal Room ID: 0x35  
 Adjacent Rooms:
-- [Ridley Arena Access](../../ridley-arena-access/)
+- [Neo-Ridley Arena Access](../../neo-ridley-arena-access/)
