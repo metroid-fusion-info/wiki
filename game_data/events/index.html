@@ -1,0 +1,1809 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  class="color-toggle-hidden"
+  
+>
+  <head>
+    <meta charset="UTF-8" />
+<meta name="referrer" content="no-referrer" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="color-scheme" content="light dark" />
+<meta name="generator" content="Hugo 0.164.0">
+
+
+  <meta name="description" content="A list of all event states in the game, with descriptions how they&rsquo;re seen in the debug menu.
+The decompiled code can be found here: https://github.com/metroidret/mf/blob/main/include/constants/event.h
+Dec Hex Text Text Translation Description 000 00 TOHOKANKO トクベツホカンコヘ ムカエ go to special vault Start of game 001 01 TOHOKANKO2 トクベツホカンコノ チョウサ investigation of special vault Navigation room before quarantine bay 002 02 HOKANKO ナビヘ モドレ return to navigation Quarantine bay hornoad dead 003 03 TOMARUKARA キョダイセイブツヲ タオセ defeat huge creature Navigation room after quarantine bay [Level 0 unlocked] 004 04 TOMISSILE ミサイルヲ ニュウシュセヨ obtain missiles Navigation room before elevator 005 05 DATA3 トナリノ ヘヤヘ to next room Skipped by not talking to computer 006 06 TODATA データルームニ ハイル enter data room Entered missile data room 007 07 MISSILE データルームデ ミサイルヲ get missiles in data room Missile data downloaded 008 08 DOWNENE デンゲンガ オチタ power lost Entered navigation room [power outage] 009 09 TOMARUKARA2 キョダイセイブツヲ タオセ2 defeat huge creature 2 Navigation room after missiles 010 0A DOWNBOSS1 ナビヘ ムカエ go to navigation Morph ball ability recovered 011 0B TOKUTYOU SR388ヘ ムカエ go to SR388 Navigation room after morph ball 012 0C ELESTART エレデモ SR388ヘムカエ elevator demo, go to SR388 Entered elevator room 013 0D ELEEND デモエンド SR388ヘ demo end, to SR388 SA-X cutscene ends 014 0E TOKUTYOU2 クウチョウメロンヲ タオセ defeat air conditioning melon Navigation room entering SRX 015 0F POWERB コアXゴ ノコリハカイセヨ after core-x destroy remaining Charge beam ability recovered 016 10 KUTYOU ハカイゴ ナビヘ ムカエ after destroying go to navigation All stabilizers online 017 11 TOBOM ボムヲ ニュウシュセヨ obtain bombs Navigation room leaving SRX 018 12 TOLV1KEY レベル1ヲ カイジョセヨ unlock level 1 Navigation room entering TRO 019 13 LV1KEY レベル1カイジョ level 1 unlocked Security level 1 unlocked 020 14 TOBOM2 カイジョゴ ボムデータヘ after unlocked, to bomb data Skipped by not talking to computer 021 15 DATATRO データルームニ ハイル enter data room Entered bomb data room 022 16 BOM ネッタイカラ ダッシュツセヨ escape from tropics Bomb data downloaded 023 17 BOMQUAKE ボムゴ ジシン earthquake after bombs SA-X quake 024 18 BOMQUAKE2 ジシン シュウリョウ end of earthquake Left SA-X quake room 025 19 DOWNBOSS2 ボスノノチ ダッシュツ escape after boss Hi-jump ability recovered 026 1A TROSAX SAXカラ ニゲル escape from SA-X Escaped TRO SA-X 027 1B TOWATER スイチュウセクションヘ to underwater section Navigation room leaving TRO 028 1C WATER スイイヲ サゲロ lower water level Navigation room entering AQA 029 1D DOWNBOSS3 ボスノノチ スイイヲサゲロ lower water level after boss Speed booster power regained 030 1E TOWATSWITCH ダッシュノ セツメイ dash explanation Skipped by not talking to computer (&ldquo;Empty&rdquo;) 031 1F WATSWTROOM スイイヘンコウヘヤ change water level room Entered pump control unit 032 20 WATSWITCH スイイヘンコウ change water level Water level lowered 033 21 TOPWMISSILE パワーミサイルヲ テニイレロ obtain power missiles Navigation room leaving AQA 034 22 TOLV2KEY レベル2ヲ カイジョセヨ unlock level 2 Navigation room entering PYR 035 23 LV2KEY レベル2カイジョ level 2 unlocked Security level 2 unlocked 036 24 TOPWMISSILE2 Pミサイルヘ カイジョゴ to power missiles after unlock Skipped by not talking to computer 037 25 DATABUR データルームニ ハイル enter data room Entered super missile data room 038 26 PWMISSILE パワーミサイル カンリョウ completed power missiles Super missile data downloaded 039 27 DOTADOTA オートデモゴニ モドレ return after auto demo Triggered BOX rumble 040 28 DOWNBOSSA1 ボスA タオス defeated boss A BOX defeated 041 29 TOENEGAS アンコクセクションヘ ムカエ go to dark section Navigation room leaving PYR 042 2A ADAMRENPO アダム レンポウ Adam and federation Left navigation room 043 2B ADAMRENPODEMO アダムレンポウチュ during Adam and federation Secret conversation 044 2C ADAMRENPOEND アダムレンポエンド Adam and federation end Secret conversation over 045 2D TOANKOKU アンコク イガイデ コウシン except dark update Skipped by using NOC navigation room 046 2E DARNAVI アンコクナビニ ハイル enter dark navigation Entered NOC navigation room 047 2F TOENEGAS2 ボス4ヲ タオセ defeat boss 4 Navigation room entering NOC 048 30 DARSAX SAXニ アウ encounter SA-X NOC SA-X encounter 049 31 DARSAXESC SAXカラ ニゲキル escape from SA-X Escaped NOC SA-X 050 32 BARILOSS バリア スワレル varia absorbed NOC data room destroyed 051 33 DOWNBOSS4 ナビヘ モドレ return to navigation Varia suit effect recovered 052 34 CXESCAPE コールドX ニゲル cold X flee Reached top of room after Mega-X [Blue X flee] 053 35 TOFREEZEM ゴッカンセクションヘ ムカエ go to cold section Navigation room leaving NOC 054 36 TOLV3KEY レベル3ヲ カイジョセヨ unlock level 3 Navigation room entering ARC 055 37 LV3KEY レベル3カイジョ level 3 unlocked Security Level 3 unlocked 056 38 TOFREEZEM2 アイスミサイルヲ ニュウシュセヨ obtain ice missiles Skipped by not talking to computer 057 39 DATAFRI データルームニ ハイル enter data room Entered ice missile data room 058 3A FREEZEM アイスミサイル カンリョウ completed ice missiles Ice effect added to missiles 059 3B TOENEBALL ネツボウソウ カイシ overheating start Navigation room leaving ARC 060 3C WIDEB コンソールヲ オセ use console Wide beam ability recovered 061 3D ENEBALL ナビヘ モドレ return to navigation Cooling unit operational 062 3E TOETEKON キョジュウクヘ ムカエ go to residential area Navigation room leaving PYR 063 3F ETEKON ナビヘ キュウシュツゴ to navigation after rescue Animals released 064 40 TOPBOM パワーボムヲ ニュウシュセヨ obtain power bombs Navigation room after animals 065 41 TOPBOM2 ゴッカン コウシン cold update Navigation room entering ARC 066 42 PBOM パワーボム カンリョウ completed ice missiles Power bomb data downloaded 067 43 FRISAX SAXニ デアウ encounter SA-X ARC SA-X encounter 068 44 FRISAXESC SAXカラ ニゲキル escape from SA-X Escaped ARC SA-X 069 45 TOSTARSHIP スペースシップヘ ムカエ to spaceship Navigation room leaving ARC 070 46 ENGDOWN スペースシップヘムカエ to spaceship Power outage 071 47 TODOURYOKU ホジョ デンゲンヲ イレロ turn on auxiliary power Entered ship 072 48 BOSS5ROOM ボス ヘヤ boss room Entered Yakuza&rsquo;s room 073 49 DOWNBOSS5 ホジョデンゲンヲイレロ turn on auxiliary power Space jump ability recovered 074 4A SUBENG ホジョデンゲン カンリョウ completed auxiliary power Auxiliary power engaged 075 4B TOPLASMAB ネッタイセクションヘ ムカエ to tropical section Navigation room after Yakuza 076 4C TROSAX2 SAXニ デアウ encounter SA-X Engaged TRO SA-X 077 4D TROSAX2ESC SAXカラ ニゲキル escape from SA-X Escaped TRO SA-X 078 4E PLASMAB ドウリョク カイフク ナビヘ power restored, to navigation Plasma beam ability recovered 079 4F TOGOKAN ゴッカン ボスヲ タオセ defeat cold boss Navigation room leaving TRO 080 50 TOGOKAN2 ゴッカンナビデ コウシン cold navigation update Navigation room entering ARC 081 51 DOWNBOSS6 ボス タオス ナビヘ defeated boss, to navigation Gravity suit effect recovered 082 52 TOLV4KEY レベル4ヲ カイジョセヨ unlock level 4 Entered level 4 security room 083 53 LV4KEY レベル4カイジョ level 4 unlocked Security level 4 unlocked 084 54 TOKAKUSAN2 カクサンヲ ニュウシュセヨ2 obtain diffusion 2 Secret message 085 55 DATAWAT データルームニ ハイル enter data room Entered diffusion missile data room 086 56 KAKUSAN カクサン ニュウシュ ナビヘ diffusion obtained, to navigation Diffusion missile data downloaded 087 57 TOANKOKUOKU アンコク カクシヲ サガセ find dark hidden Navigation room leaving AQA 088 58 TOSHUTTER アンコクナビデ コウシン dark navigation update Navigation room entering NOC 089 59 SHUTTER アンコクノ オクヘ to dark interior Restricted Zone warning 090 5A SHUTTER2 シャッター ジシン shutter earthquake Triggered BOX 2 rumble 091 5B WAVEB アンコクノ オクヘ2 to dark interior 2 Wave beam ability recovered 092 5C TOGOKUHIKEN ゴクヒ デモ secrecy demo Restricted Laboratory explosion 093 5D RANSHA ランシャ アンド タイマー random shooting and timer 60 seconds to detachment 094 5E TOKIRIHANA キリハナシ detachment Escaped Restricted Laboratory 095 5F KIRIHANA カサイゴ コウシン after fire update Navigation room after Restricted Laboratory 096 60 DOWNBOSS7 ボス7 タオシ ダッシュツ defeated boss 7, escape Screw attack ability regained 097 61 TOOPE シンジツ truth Navigation room leaving SRX 098 62 TOOPEMONO モノローグ monologue End of first conversation 099 63 TOOPE2 キドウヲ カエロ change orbit Second conversation 100 64 TOOPE3 アダム サイド コウシン adam second update Skipped by not talking to computer 101 65 INTOOPE オペレーションニ ハイル enter operation Entered operations deck 102 66 DOWNSAX SAXヲ タオス defeated SA-X SA-X defeated 103 67 KIDOUKAE キドウヲ カエル orbit changed Orbit changed 104 68 ESCAPE キドウヘンコウゴ コウシン update after orbit change Skipped by not talking to computer [unused] 105 69 OMEGA メトロイド ト セントウ fight with metroid Entered ship room 106 6A DOWNSAX2 オメガ SAXヲ タオス omega killed SA-X SA-X killed by Omega Metroid 107 6B ICEBEAM アイスビーム カクトク ice beam aquired Ice beam ability recovered 108 6C DOWNOMEGA メトロイド ヲ タオス defeated Metroid Omega Metroid defeated 109 6D END エンド end Escaped on ship " />
+
+    <title>List of Events | Metroid Fusion Wiki</title>
+
+    <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="/favicon/favicon-32x32.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="/favicon/favicon-16x16.png"
+/>
+
+    
+
+    
+  <meta
+    property="og:title"
+    content="List of Events"
+  />
+  <meta property="og:site_name" content="Metroid Fusion Wiki" />
+  <meta property="og:description" content="A list of all event states in the game, with descriptions how they’re seen in the debug menu.
+The decompiled code can be found here: https://github.com/metroidret/mf/blob/main/include/constants/event.h
+Dec Hex Text Text Translation Description 000 00 TOHOKANKO トクベツホカンコヘ ムカエ go to special vault Start of game 001 01 TOHOKANKO2 トクベツホカンコノ チョウサ investigation of special vault Navigation room before quarantine bay 002 02 HOKANKO ナビヘ モドレ return to navigation Quarantine bay hornoad dead 003 03 TOMARUKARA キョダイセイブツヲ タオセ defeat huge creature Navigation room after quarantine bay [Level 0 unlocked] 004 04 TOMISSILE ミサイルヲ ニュウシュセヨ obtain missiles Navigation room before elevator 005 05 DATA3 トナリノ ヘヤヘ to next room Skipped by not talking to computer 006 06 TODATA データルームニ ハイル enter data room Entered missile data room 007 07 MISSILE データルームデ ミサイルヲ get missiles in data room Missile data downloaded 008 08 DOWNENE デンゲンガ オチタ power lost Entered navigation room [power outage] 009 09 TOMARUKARA2 キョダイセイブツヲ タオセ2 defeat huge creature 2 Navigation room after missiles 010 0A DOWNBOSS1 ナビヘ ムカエ go to navigation Morph ball ability recovered 011 0B TOKUTYOU SR388ヘ ムカエ go to SR388 Navigation room after morph ball 012 0C ELESTART エレデモ SR388ヘムカエ elevator demo, go to SR388 Entered elevator room 013 0D ELEEND デモエンド SR388ヘ demo end, to SR388 SA-X cutscene ends 014 0E TOKUTYOU2 クウチョウメロンヲ タオセ defeat air conditioning melon Navigation room entering SRX 015 0F POWERB コアXゴ ノコリハカイセヨ after core-x destroy remaining Charge beam ability recovered 016 10 KUTYOU ハカイゴ ナビヘ ムカエ after destroying go to navigation All stabilizers online 017 11 TOBOM ボムヲ ニュウシュセヨ obtain bombs Navigation room leaving SRX 018 12 TOLV1KEY レベル1ヲ カイジョセヨ unlock level 1 Navigation room entering TRO 019 13 LV1KEY レベル1カイジョ level 1 unlocked Security level 1 unlocked 020 14 TOBOM2 カイジョゴ ボムデータヘ after unlocked, to bomb data Skipped by not talking to computer 021 15 DATATRO データルームニ ハイル enter data room Entered bomb data room 022 16 BOM ネッタイカラ ダッシュツセヨ escape from tropics Bomb data downloaded 023 17 BOMQUAKE ボムゴ ジシン earthquake after bombs SA-X quake 024 18 BOMQUAKE2 ジシン シュウリョウ end of earthquake Left SA-X quake room 025 19 DOWNBOSS2 ボスノノチ ダッシュツ escape after boss Hi-jump ability recovered 026 1A TROSAX SAXカラ ニゲル escape from SA-X Escaped TRO SA-X 027 1B TOWATER スイチュウセクションヘ to underwater section Navigation room leaving TRO 028 1C WATER スイイヲ サゲロ lower water level Navigation room entering AQA 029 1D DOWNBOSS3 ボスノノチ スイイヲサゲロ lower water level after boss Speed booster power regained 030 1E TOWATSWITCH ダッシュノ セツメイ dash explanation Skipped by not talking to computer (“Empty”) 031 1F WATSWTROOM スイイヘンコウヘヤ change water level room Entered pump control unit 032 20 WATSWITCH スイイヘンコウ change water level Water level lowered 033 21 TOPWMISSILE パワーミサイルヲ テニイレロ obtain power missiles Navigation room leaving AQA 034 22 TOLV2KEY レベル2ヲ カイジョセヨ unlock level 2 Navigation room entering PYR 035 23 LV2KEY レベル2カイジョ level 2 unlocked Security level 2 unlocked 036 24 TOPWMISSILE2 Pミサイルヘ カイジョゴ to power missiles after unlock Skipped by not talking to computer 037 25 DATABUR データルームニ ハイル enter data room Entered super missile data room 038 26 PWMISSILE パワーミサイル カンリョウ completed power missiles Super missile data downloaded 039 27 DOTADOTA オートデモゴニ モドレ return after auto demo Triggered BOX rumble 040 28 DOWNBOSSA1 ボスA タオス defeated boss A BOX defeated 041 29 TOENEGAS アンコクセクションヘ ムカエ go to dark section Navigation room leaving PYR 042 2A ADAMRENPO アダム レンポウ Adam and federation Left navigation room 043 2B ADAMRENPODEMO アダムレンポウチュ during Adam and federation Secret conversation 044 2C ADAMRENPOEND アダムレンポエンド Adam and federation end Secret conversation over 045 2D TOANKOKU アンコク イガイデ コウシン except dark update Skipped by using NOC navigation room 046 2E DARNAVI アンコクナビニ ハイル enter dark navigation Entered NOC navigation room 047 2F TOENEGAS2 ボス4ヲ タオセ defeat boss 4 Navigation room entering NOC 048 30 DARSAX SAXニ アウ encounter SA-X NOC SA-X encounter 049 31 DARSAXESC SAXカラ ニゲキル escape from SA-X Escaped NOC SA-X 050 32 BARILOSS バリア スワレル varia absorbed NOC data room destroyed 051 33 DOWNBOSS4 ナビヘ モドレ return to navigation Varia suit effect recovered 052 34 CXESCAPE コールドX ニゲル cold X flee Reached top of room after Mega-X [Blue X flee] 053 35 TOFREEZEM ゴッカンセクションヘ ムカエ go to cold section Navigation room leaving NOC 054 36 TOLV3KEY レベル3ヲ カイジョセヨ unlock level 3 Navigation room entering ARC 055 37 LV3KEY レベル3カイジョ level 3 unlocked Security Level 3 unlocked 056 38 TOFREEZEM2 アイスミサイルヲ ニュウシュセヨ obtain ice missiles Skipped by not talking to computer 057 39 DATAFRI データルームニ ハイル enter data room Entered ice missile data room 058 3A FREEZEM アイスミサイル カンリョウ completed ice missiles Ice effect added to missiles 059 3B TOENEBALL ネツボウソウ カイシ overheating start Navigation room leaving ARC 060 3C WIDEB コンソールヲ オセ use console Wide beam ability recovered 061 3D ENEBALL ナビヘ モドレ return to navigation Cooling unit operational 062 3E TOETEKON キョジュウクヘ ムカエ go to residential area Navigation room leaving PYR 063 3F ETEKON ナビヘ キュウシュツゴ to navigation after rescue Animals released 064 40 TOPBOM パワーボムヲ ニュウシュセヨ obtain power bombs Navigation room after animals 065 41 TOPBOM2 ゴッカン コウシン cold update Navigation room entering ARC 066 42 PBOM パワーボム カンリョウ completed ice missiles Power bomb data downloaded 067 43 FRISAX SAXニ デアウ encounter SA-X ARC SA-X encounter 068 44 FRISAXESC SAXカラ ニゲキル escape from SA-X Escaped ARC SA-X 069 45 TOSTARSHIP スペースシップヘ ムカエ to spaceship Navigation room leaving ARC 070 46 ENGDOWN スペースシップヘムカエ to spaceship Power outage 071 47 TODOURYOKU ホジョ デンゲンヲ イレロ turn on auxiliary power Entered ship 072 48 BOSS5ROOM ボス ヘヤ boss room Entered Yakuza’s room 073 49 DOWNBOSS5 ホジョデンゲンヲイレロ turn on auxiliary power Space jump ability recovered 074 4A SUBENG ホジョデンゲン カンリョウ completed auxiliary power Auxiliary power engaged 075 4B TOPLASMAB ネッタイセクションヘ ムカエ to tropical section Navigation room after Yakuza 076 4C TROSAX2 SAXニ デアウ encounter SA-X Engaged TRO SA-X 077 4D TROSAX2ESC SAXカラ ニゲキル escape from SA-X Escaped TRO SA-X 078 4E PLASMAB ドウリョク カイフク ナビヘ power restored, to navigation Plasma beam ability recovered 079 4F TOGOKAN ゴッカン ボスヲ タオセ defeat cold boss Navigation room leaving TRO 080 50 TOGOKAN2 ゴッカンナビデ コウシン cold navigation update Navigation room entering ARC 081 51 DOWNBOSS6 ボス タオス ナビヘ defeated boss, to navigation Gravity suit effect recovered 082 52 TOLV4KEY レベル4ヲ カイジョセヨ unlock level 4 Entered level 4 security room 083 53 LV4KEY レベル4カイジョ level 4 unlocked Security level 4 unlocked 084 54 TOKAKUSAN2 カクサンヲ ニュウシュセヨ2 obtain diffusion 2 Secret message 085 55 DATAWAT データルームニ ハイル enter data room Entered diffusion missile data room 086 56 KAKUSAN カクサン ニュウシュ ナビヘ diffusion obtained, to navigation Diffusion missile data downloaded 087 57 TOANKOKUOKU アンコク カクシヲ サガセ find dark hidden Navigation room leaving AQA 088 58 TOSHUTTER アンコクナビデ コウシン dark navigation update Navigation room entering NOC 089 59 SHUTTER アンコクノ オクヘ to dark interior Restricted Zone warning 090 5A SHUTTER2 シャッター ジシン shutter earthquake Triggered BOX 2 rumble 091 5B WAVEB アンコクノ オクヘ2 to dark interior 2 Wave beam ability recovered 092 5C TOGOKUHIKEN ゴクヒ デモ secrecy demo Restricted Laboratory explosion 093 5D RANSHA ランシャ アンド タイマー random shooting and timer 60 seconds to detachment 094 5E TOKIRIHANA キリハナシ detachment Escaped Restricted Laboratory 095 5F KIRIHANA カサイゴ コウシン after fire update Navigation room after Restricted Laboratory 096 60 DOWNBOSS7 ボス7 タオシ ダッシュツ defeated boss 7, escape Screw attack ability regained 097 61 TOOPE シンジツ truth Navigation room leaving SRX 098 62 TOOPEMONO モノローグ monologue End of first conversation 099 63 TOOPE2 キドウヲ カエロ change orbit Second conversation 100 64 TOOPE3 アダム サイド コウシン adam second update Skipped by not talking to computer 101 65 INTOOPE オペレーションニ ハイル enter operation Entered operations deck 102 66 DOWNSAX SAXヲ タオス defeated SA-X SA-X defeated 103 67 KIDOUKAE キドウヲ カエル orbit changed Orbit changed 104 68 ESCAPE キドウヘンコウゴ コウシン update after orbit change Skipped by not talking to computer [unused] 105 69 OMEGA メトロイド ト セントウ fight with metroid Entered ship room 106 6A DOWNSAX2 オメガ SAXヲ タオス omega killed SA-X SA-X killed by Omega Metroid 107 6B ICEBEAM アイスビーム カクトク ice beam aquired Ice beam ability recovered 108 6C DOWNOMEGA メトロイド ヲ タオス defeated Metroid Omega Metroid defeated 109 6D END エンド end Escaped on ship " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wiki.metroidfusion.run/game_data/events/" />
+
+<meta property="article:section" content="Game Data" />
+    <meta
+      property="article:modified_time"
+      content="2026-07-24T18:11:19+02:00"
+    />
+
+
+  <meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="List of Events" />
+  <meta name="twitter:description" content="A list of all event states in the game, with descriptions how they’re seen in the debug menu.
+The decompiled code can be found here: https://github.com/metroidret/mf/blob/main/include/constants/event.h
+Dec Hex Text Text Translation Description 000 00 TOHOKANKO トクベツホカンコヘ ムカエ go to special vault Start of game 001 01 TOHOKANKO2 トクベツホカンコノ チョウサ investigation of special vault Navigation room before quarantine bay 002 02 HOKANKO ナビヘ モドレ return to navigation Quarantine bay hornoad dead 003 03 TOMARUKARA キョダイセイブツヲ タオセ defeat huge creature Navigation room after quarantine bay [Level 0 unlocked] 004 04 TOMISSILE ミサイルヲ ニュウシュセヨ obtain missiles Navigation room before elevator 005 05 DATA3 トナリノ ヘヤヘ to next room Skipped by not talking to computer 006 06 TODATA データルームニ ハイル enter data room Entered missile data room 007 07 MISSILE データルームデ ミサイルヲ get missiles in data room Missile data downloaded 008 08 DOWNENE デンゲンガ オチタ power lost Entered navigation room [power outage] 009 09 TOMARUKARA2 キョダイセイブツヲ タオセ2 defeat huge creature 2 Navigation room after missiles 010 0A DOWNBOSS1 ナビヘ ムカエ go to navigation Morph ball ability recovered 011 0B TOKUTYOU SR388ヘ ムカエ go to SR388 Navigation room after morph ball 012 0C ELESTART エレデモ SR388ヘムカエ elevator demo, go to SR388 Entered elevator room 013 0D ELEEND デモエンド SR388ヘ demo end, to SR388 SA-X cutscene ends 014 0E TOKUTYOU2 クウチョウメロンヲ タオセ defeat air conditioning melon Navigation room entering SRX 015 0F POWERB コアXゴ ノコリハカイセヨ after core-x destroy remaining Charge beam ability recovered 016 10 KUTYOU ハカイゴ ナビヘ ムカエ after destroying go to navigation All stabilizers online 017 11 TOBOM ボムヲ ニュウシュセヨ obtain bombs Navigation room leaving SRX 018 12 TOLV1KEY レベル1ヲ カイジョセヨ unlock level 1 Navigation room entering TRO 019 13 LV1KEY レベル1カイジョ level 1 unlocked Security level 1 unlocked 020 14 TOBOM2 カイジョゴ ボムデータヘ after unlocked, to bomb data Skipped by not talking to computer 021 15 DATATRO データルームニ ハイル enter data room Entered bomb data room 022 16 BOM ネッタイカラ ダッシュツセヨ escape from tropics Bomb data downloaded 023 17 BOMQUAKE ボムゴ ジシン earthquake after bombs SA-X quake 024 18 BOMQUAKE2 ジシン シュウリョウ end of earthquake Left SA-X quake room 025 19 DOWNBOSS2 ボスノノチ ダッシュツ escape after boss Hi-jump ability recovered 026 1A TROSAX SAXカラ ニゲル escape from SA-X Escaped TRO SA-X 027 1B TOWATER スイチュウセクションヘ to underwater section Navigation room leaving TRO 028 1C WATER スイイヲ サゲロ lower water level Navigation room entering AQA 029 1D DOWNBOSS3 ボスノノチ スイイヲサゲロ lower water level after boss Speed booster power regained 030 1E TOWATSWITCH ダッシュノ セツメイ dash explanation Skipped by not talking to computer (“Empty”) 031 1F WATSWTROOM スイイヘンコウヘヤ change water level room Entered pump control unit 032 20 WATSWITCH スイイヘンコウ change water level Water level lowered 033 21 TOPWMISSILE パワーミサイルヲ テニイレロ obtain power missiles Navigation room leaving AQA 034 22 TOLV2KEY レベル2ヲ カイジョセヨ unlock level 2 Navigation room entering PYR 035 23 LV2KEY レベル2カイジョ level 2 unlocked Security level 2 unlocked 036 24 TOPWMISSILE2 Pミサイルヘ カイジョゴ to power missiles after unlock Skipped by not talking to computer 037 25 DATABUR データルームニ ハイル enter data room Entered super missile data room 038 26 PWMISSILE パワーミサイル カンリョウ completed power missiles Super missile data downloaded 039 27 DOTADOTA オートデモゴニ モドレ return after auto demo Triggered BOX rumble 040 28 DOWNBOSSA1 ボスA タオス defeated boss A BOX defeated 041 29 TOENEGAS アンコクセクションヘ ムカエ go to dark section Navigation room leaving PYR 042 2A ADAMRENPO アダム レンポウ Adam and federation Left navigation room 043 2B ADAMRENPODEMO アダムレンポウチュ during Adam and federation Secret conversation 044 2C ADAMRENPOEND アダムレンポエンド Adam and federation end Secret conversation over 045 2D TOANKOKU アンコク イガイデ コウシン except dark update Skipped by using NOC navigation room 046 2E DARNAVI アンコクナビニ ハイル enter dark navigation Entered NOC navigation room 047 2F TOENEGAS2 ボス4ヲ タオセ defeat boss 4 Navigation room entering NOC 048 30 DARSAX SAXニ アウ encounter SA-X NOC SA-X encounter 049 31 DARSAXESC SAXカラ ニゲキル escape from SA-X Escaped NOC SA-X 050 32 BARILOSS バリア スワレル varia absorbed NOC data room destroyed 051 33 DOWNBOSS4 ナビヘ モドレ return to navigation Varia suit effect recovered 052 34 CXESCAPE コールドX ニゲル cold X flee Reached top of room after Mega-X [Blue X flee] 053 35 TOFREEZEM ゴッカンセクションヘ ムカエ go to cold section Navigation room leaving NOC 054 36 TOLV3KEY レベル3ヲ カイジョセヨ unlock level 3 Navigation room entering ARC 055 37 LV3KEY レベル3カイジョ level 3 unlocked Security Level 3 unlocked 056 38 TOFREEZEM2 アイスミサイルヲ ニュウシュセヨ obtain ice missiles Skipped by not talking to computer 057 39 DATAFRI データルームニ ハイル enter data room Entered ice missile data room 058 3A FREEZEM アイスミサイル カンリョウ completed ice missiles Ice effect added to missiles 059 3B TOENEBALL ネツボウソウ カイシ overheating start Navigation room leaving ARC 060 3C WIDEB コンソールヲ オセ use console Wide beam ability recovered 061 3D ENEBALL ナビヘ モドレ return to navigation Cooling unit operational 062 3E TOETEKON キョジュウクヘ ムカエ go to residential area Navigation room leaving PYR 063 3F ETEKON ナビヘ キュウシュツゴ to navigation after rescue Animals released 064 40 TOPBOM パワーボムヲ ニュウシュセヨ obtain power bombs Navigation room after animals 065 41 TOPBOM2 ゴッカン コウシン cold update Navigation room entering ARC 066 42 PBOM パワーボム カンリョウ completed ice missiles Power bomb data downloaded 067 43 FRISAX SAXニ デアウ encounter SA-X ARC SA-X encounter 068 44 FRISAXESC SAXカラ ニゲキル escape from SA-X Escaped ARC SA-X 069 45 TOSTARSHIP スペースシップヘ ムカエ to spaceship Navigation room leaving ARC 070 46 ENGDOWN スペースシップヘムカエ to spaceship Power outage 071 47 TODOURYOKU ホジョ デンゲンヲ イレロ turn on auxiliary power Entered ship 072 48 BOSS5ROOM ボス ヘヤ boss room Entered Yakuza’s room 073 49 DOWNBOSS5 ホジョデンゲンヲイレロ turn on auxiliary power Space jump ability recovered 074 4A SUBENG ホジョデンゲン カンリョウ completed auxiliary power Auxiliary power engaged 075 4B TOPLASMAB ネッタイセクションヘ ムカエ to tropical section Navigation room after Yakuza 076 4C TROSAX2 SAXニ デアウ encounter SA-X Engaged TRO SA-X 077 4D TROSAX2ESC SAXカラ ニゲキル escape from SA-X Escaped TRO SA-X 078 4E PLASMAB ドウリョク カイフク ナビヘ power restored, to navigation Plasma beam ability recovered 079 4F TOGOKAN ゴッカン ボスヲ タオセ defeat cold boss Navigation room leaving TRO 080 50 TOGOKAN2 ゴッカンナビデ コウシン cold navigation update Navigation room entering ARC 081 51 DOWNBOSS6 ボス タオス ナビヘ defeated boss, to navigation Gravity suit effect recovered 082 52 TOLV4KEY レベル4ヲ カイジョセヨ unlock level 4 Entered level 4 security room 083 53 LV4KEY レベル4カイジョ level 4 unlocked Security level 4 unlocked 084 54 TOKAKUSAN2 カクサンヲ ニュウシュセヨ2 obtain diffusion 2 Secret message 085 55 DATAWAT データルームニ ハイル enter data room Entered diffusion missile data room 086 56 KAKUSAN カクサン ニュウシュ ナビヘ diffusion obtained, to navigation Diffusion missile data downloaded 087 57 TOANKOKUOKU アンコク カクシヲ サガセ find dark hidden Navigation room leaving AQA 088 58 TOSHUTTER アンコクナビデ コウシン dark navigation update Navigation room entering NOC 089 59 SHUTTER アンコクノ オクヘ to dark interior Restricted Zone warning 090 5A SHUTTER2 シャッター ジシン shutter earthquake Triggered BOX 2 rumble 091 5B WAVEB アンコクノ オクヘ2 to dark interior 2 Wave beam ability recovered 092 5C TOGOKUHIKEN ゴクヒ デモ secrecy demo Restricted Laboratory explosion 093 5D RANSHA ランシャ アンド タイマー random shooting and timer 60 seconds to detachment 094 5E TOKIRIHANA キリハナシ detachment Escaped Restricted Laboratory 095 5F KIRIHANA カサイゴ コウシン after fire update Navigation room after Restricted Laboratory 096 60 DOWNBOSS7 ボス7 タオシ ダッシュツ defeated boss 7, escape Screw attack ability regained 097 61 TOOPE シンジツ truth Navigation room leaving SRX 098 62 TOOPEMONO モノローグ monologue End of first conversation 099 63 TOOPE2 キドウヲ カエロ change orbit Second conversation 100 64 TOOPE3 アダム サイド コウシン adam second update Skipped by not talking to computer 101 65 INTOOPE オペレーションニ ハイル enter operation Entered operations deck 102 66 DOWNSAX SAXヲ タオス defeated SA-X SA-X defeated 103 67 KIDOUKAE キドウヲ カエル orbit changed Orbit changed 104 68 ESCAPE キドウヘンコウゴ コウシン update after orbit change Skipped by not talking to computer [unused] 105 69 OMEGA メトロイド ト セントウ fight with metroid Entered ship room 106 6A DOWNSAX2 オメガ SAXヲ タオス omega killed SA-X SA-X killed by Omega Metroid 107 6B ICEBEAM アイスビーム カクトク ice beam aquired Ice beam ability recovered 108 6C DOWNOMEGA メトロイド ヲ タオス defeated Metroid Omega Metroid defeated 109 6D END エンド end Escaped on ship " />
+
+
+  <script type="application/ld+json">
+  {
+      "@context": "http://schema.org",
+      "@type": "TechArticle",
+      "articleSection": "Game Data",
+      "name": "List of Events",
+      "url": "https://wiki.metroidfusion.run/game_data/events/",
+      "headline": "List of Events",
+      "description": "A list of all event states in the game, with descriptions how they’re seen in the debug menu.\nThe decompiled code can be found here: https:\/\/github.com\/metroidret\/mf\/blob\/main\/include\/constants\/event.h\nDec Hex Text Text Translation Description 000 00 TOHOKANKO トクベツホカンコヘ ムカエ go to special vault Start of game 001 01 TOHOKANKO2 トクベツホカンコノ チョウサ investigation of special vault Navigation room before quarantine bay 002 02 HOKANKO ナビヘ モドレ return to navigation Quarantine bay hornoad dead 003 03 TOMARUKARA キョダイセイブツヲ タオセ defeat huge creature Navigation room after quarantine bay [Level 0 unlocked] 004 04 TOMISSILE ミサイルヲ ニュウシュセヨ obtain missiles Navigation room before elevator 005 05 DATA3 トナリノ ヘヤヘ to next room Skipped by not talking to computer 006 06 TODATA データルームニ ハイル enter data room Entered missile data room 007 07 MISSILE データルームデ ミサイルヲ get missiles in data room Missile data downloaded 008 08 DOWNENE デンゲンガ オチタ power lost Entered navigation room [power outage] 009 09 TOMARUKARA2 キョダイセイブツヲ タオセ2 defeat huge creature 2 Navigation room after missiles 010 0A DOWNBOSS1 ナビヘ ムカエ go to navigation Morph ball ability recovered 011 0B TOKUTYOU SR388ヘ ムカエ go to SR388 Navigation room after morph ball 012 0C ELESTART エレデモ SR388ヘムカエ elevator demo, go to SR388 Entered elevator room 013 0D ELEEND デモエンド SR388ヘ demo end, to SR388 SA-X cutscene ends 014 0E TOKUTYOU2 クウチョウメロンヲ タオセ defeat air conditioning melon Navigation room entering SRX 015 0F POWERB コアXゴ ノコリハカイセヨ after core-x destroy remaining Charge beam ability recovered 016 10 KUTYOU ハカイゴ ナビヘ ムカエ after destroying go to navigation All stabilizers online 017 11 TOBOM ボムヲ ニュウシュセヨ obtain bombs Navigation room leaving SRX 018 12 TOLV1KEY レベル1ヲ カイジョセヨ unlock level 1 Navigation room entering TRO 019 13 LV1KEY レベル1カイジョ level 1 unlocked Security level 1 unlocked 020 14 TOBOM2 カイジョゴ ボムデータヘ after unlocked, to bomb data Skipped by not talking to computer 021 15 DATATRO データルームニ ハイル enter data room Entered bomb data room 022 16 BOM ネッタイカラ ダッシュツセヨ escape from tropics Bomb data downloaded 023 17 BOMQUAKE ボムゴ ジシン earthquake after bombs SA-X quake 024 18 BOMQUAKE2 ジシン シュウリョウ end of earthquake Left SA-X quake room 025 19 DOWNBOSS2 ボスノノチ ダッシュツ escape after boss Hi-jump ability recovered 026 1A TROSAX SAXカラ ニゲル escape from SA-X Escaped TRO SA-X 027 1B TOWATER スイチュウセクションヘ to underwater section Navigation room leaving TRO 028 1C WATER スイイヲ サゲロ lower water level Navigation room entering AQA 029 1D DOWNBOSS3 ボスノノチ スイイヲサゲロ lower water level after boss Speed booster power regained 030 1E TOWATSWITCH ダッシュノ セツメイ dash explanation Skipped by not talking to computer (“Empty”) 031 1F WATSWTROOM スイイヘンコウヘヤ change water level room Entered pump control unit 032 20 WATSWITCH スイイヘンコウ change water level Water level lowered 033 21 TOPWMISSILE パワーミサイルヲ テニイレロ obtain power missiles Navigation room leaving AQA 034 22 TOLV2KEY レベル2ヲ カイジョセヨ unlock level 2 Navigation room entering PYR 035 23 LV2KEY レベル2カイジョ level 2 unlocked Security level 2 unlocked 036 24 TOPWMISSILE2 Pミサイルヘ カイジョゴ to power missiles after unlock Skipped by not talking to computer 037 25 DATABUR データルームニ ハイル enter data room Entered super missile data room 038 26 PWMISSILE パワーミサイル カンリョウ completed power missiles Super missile data downloaded 039 27 DOTADOTA オートデモゴニ モドレ return after auto demo Triggered BOX rumble 040 28 DOWNBOSSA1 ボスA タオス defeated boss A BOX defeated 041 29 TOENEGAS アンコクセクションヘ ムカエ go to dark section Navigation room leaving PYR 042 2A ADAMRENPO アダム レンポウ Adam and federation Left navigation room 043 2B ADAMRENPODEMO アダムレンポウチュ during Adam and federation Secret conversation 044 2C ADAMRENPOEND アダムレンポエンド Adam and federation end Secret conversation over 045 2D TOANKOKU アンコク イガイデ コウシン except dark update Skipped by using NOC navigation room 046 2E DARNAVI アンコクナビニ ハイル enter dark navigation Entered NOC navigation room 047 2F TOENEGAS2 ボス4ヲ タオセ defeat boss 4 Navigation room entering NOC 048 30 DARSAX SAXニ アウ encounter SA-X NOC SA-X encounter 049 31 DARSAXESC SAXカラ ニゲキル escape from SA-X Escaped NOC SA-X 050 32 BARILOSS バリア スワレル varia absorbed NOC data room destroyed 051 33 DOWNBOSS4 ナビヘ モドレ return to navigation Varia suit effect recovered 052 34 CXESCAPE コールドX ニゲル cold X flee Reached top of room after Mega-X [Blue X flee] 053 35 TOFREEZEM ゴッカンセクションヘ ムカエ go to cold section Navigation room leaving NOC 054 36 TOLV3KEY レベル3ヲ カイジョセヨ unlock level 3 Navigation room entering ARC 055 37 LV3KEY レベル3カイジョ level 3 unlocked Security Level 3 unlocked 056 38 TOFREEZEM2 アイスミサイルヲ ニュウシュセヨ obtain ice missiles Skipped by not talking to computer 057 39 DATAFRI データルームニ ハイル enter data room Entered ice missile data room 058 3A FREEZEM アイスミサイル カンリョウ completed ice missiles Ice effect added to missiles 059 3B TOENEBALL ネツボウソウ カイシ overheating start Navigation room leaving ARC 060 3C WIDEB コンソールヲ オセ use console Wide beam ability recovered 061 3D ENEBALL ナビヘ モドレ return to navigation Cooling unit operational 062 3E TOETEKON キョジュウクヘ ムカエ go to residential area Navigation room leaving PYR 063 3F ETEKON ナビヘ キュウシュツゴ to navigation after rescue Animals released 064 40 TOPBOM パワーボムヲ ニュウシュセヨ obtain power bombs Navigation room after animals 065 41 TOPBOM2 ゴッカン コウシン cold update Navigation room entering ARC 066 42 PBOM パワーボム カンリョウ completed ice missiles Power bomb data downloaded 067 43 FRISAX SAXニ デアウ encounter SA-X ARC SA-X encounter 068 44 FRISAXESC SAXカラ ニゲキル escape from SA-X Escaped ARC SA-X 069 45 TOSTARSHIP スペースシップヘ ムカエ to spaceship Navigation room leaving ARC 070 46 ENGDOWN スペースシップヘムカエ to spaceship Power outage 071 47 TODOURYOKU ホジョ デンゲンヲ イレロ turn on auxiliary power Entered ship 072 48 BOSS5ROOM ボス ヘヤ boss room Entered Yakuza’s room 073 49 DOWNBOSS5 ホジョデンゲンヲイレロ turn on auxiliary power Space jump ability recovered 074 4A SUBENG ホジョデンゲン カンリョウ completed auxiliary power Auxiliary power engaged 075 4B TOPLASMAB ネッタイセクションヘ ムカエ to tropical section Navigation room after Yakuza 076 4C TROSAX2 SAXニ デアウ encounter SA-X Engaged TRO SA-X 077 4D TROSAX2ESC SAXカラ ニゲキル escape from SA-X Escaped TRO SA-X 078 4E PLASMAB ドウリョク カイフク ナビヘ power restored, to navigation Plasma beam ability recovered 079 4F TOGOKAN ゴッカン ボスヲ タオセ defeat cold boss Navigation room leaving TRO 080 50 TOGOKAN2 ゴッカンナビデ コウシン cold navigation update Navigation room entering ARC 081 51 DOWNBOSS6 ボス タオス ナビヘ defeated boss, to navigation Gravity suit effect recovered 082 52 TOLV4KEY レベル4ヲ カイジョセヨ unlock level 4 Entered level 4 security room 083 53 LV4KEY レベル4カイジョ level 4 unlocked Security level 4 unlocked 084 54 TOKAKUSAN2 カクサンヲ ニュウシュセヨ2 obtain diffusion 2 Secret message 085 55 DATAWAT データルームニ ハイル enter data room Entered diffusion missile data room 086 56 KAKUSAN カクサン ニュウシュ ナビヘ diffusion obtained, to navigation Diffusion missile data downloaded 087 57 TOANKOKUOKU アンコク カクシヲ サガセ find dark hidden Navigation room leaving AQA 088 58 TOSHUTTER アンコクナビデ コウシン dark navigation update Navigation room entering NOC 089 59 SHUTTER アンコクノ オクヘ to dark interior Restricted Zone warning 090 5A SHUTTER2 シャッター ジシン shutter earthquake Triggered BOX 2 rumble 091 5B WAVEB アンコクノ オクヘ2 to dark interior 2 Wave beam ability recovered 092 5C TOGOKUHIKEN ゴクヒ デモ secrecy demo Restricted Laboratory explosion 093 5D RANSHA ランシャ アンド タイマー random shooting and timer 60 seconds to detachment 094 5E TOKIRIHANA キリハナシ detachment Escaped Restricted Laboratory 095 5F KIRIHANA カサイゴ コウシン after fire update Navigation room after Restricted Laboratory 096 60 DOWNBOSS7 ボス7 タオシ ダッシュツ defeated boss 7, escape Screw attack ability regained 097 61 TOOPE シンジツ truth Navigation room leaving SRX 098 62 TOOPEMONO モノローグ monologue End of first conversation 099 63 TOOPE2 キドウヲ カエロ change orbit Second conversation 100 64 TOOPE3 アダム サイド コウシン adam second update Skipped by not talking to computer 101 65 INTOOPE オペレーションニ ハイル enter operation Entered operations deck 102 66 DOWNSAX SAXヲ タオス defeated SA-X SA-X defeated 103 67 KIDOUKAE キドウヲ カエル orbit changed Orbit changed 104 68 ESCAPE キドウヘンコウゴ コウシン update after orbit change Skipped by not talking to computer [unused] 105 69 OMEGA メトロイド ト セントウ fight with metroid Entered ship room 106 6A DOWNSAX2 オメガ SAXヲ タオス omega killed SA-X SA-X killed by Omega Metroid 107 6B ICEBEAM アイスビーム カクトク ice beam aquired Ice beam ability recovered 108 6C DOWNOMEGA メトロイド ヲ タオス defeated Metroid Omega Metroid defeated 109 6D END エンド end Escaped on ship ",
+      "wordCount": "1346",
+      "license": "CC BY-SA 4.0",
+      "inLanguage": "en",
+      "isFamilyFriendly": "true",
+      "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://wiki.metroidfusion.run/game_data/events/"
+      },
+      "copyrightHolder": "Metroid Fusion Wiki",
+      "copyrightYear": "0001",
+      "dateCreated": "0001-01-01T00:00:00.00Z",
+      "datePublished": "0001-01-01T00:00:00.00Z",
+      "dateModified": "2026-07-24T18:11:19.00Z",
+      "publisher":{
+          "@type":"Organization",
+          "name": "Metroid Fusion Wiki",
+          "url": "https://wiki.metroidfusion.run/",
+          "logo": {
+              "@type": "ImageObject",
+              "url": "https://wiki.metroidfusion.run/brand.svg",
+              "width":"32",
+              "height":"32"
+          }
+      }
+  }
+  </script>
+
+
+    
+  <script src="/js/colortheme-6c1bf822.bundle.min.js"></script>
+<script src="/js/main-1b467c45.bundle.min.js"></script>
+
+<link
+  rel="preload"
+  as="font"
+  href="/fonts/Metropolis.woff2"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+<link
+  rel="preload"
+  as="font"
+  href="/fonts/LiberationSans.woff2"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+<link
+  rel="preload"
+  href="/main-ce430795.min.css"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/main-ce430795.min.css"
+  media="all"
+/>
+
+<link
+  rel="preload"
+  href="/mobile-7885c8a8.min.css"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/mobile-7885c8a8.min.css"
+  media="screen and (max-width: 45rem)"
+/>
+
+<link
+  rel="preload"
+  href="/print-72068949.min.css"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/print-72068949.min.css"
+  media="print"
+/>
+
+<link
+  rel="preload"
+  href="/custom.css"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/custom.css"
+  media="all"
+/>
+  <link href="https://wiki.metroidfusion.run/game_data/events/" rel="canonical" type="text/html" />
+
+<!-- Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc -->
+
+    
+
+  </head>
+
+  <body itemscope itemtype="https://schema.org/WebPage">
+    <div class="w-full flex justify-center">
+      <a href="#main-content" id="gdoc-to-main" class="gdoc-markdown__link">Skip to main content</a>
+    </div>
+
+    
+  <!-- geekdoc include: /sprites/geekdoc.svg -->
+  <svg class="svg-sprite" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><svg viewBox="-7.27 -7.27 38.55 38.55" id="gdoc_arrow_back" xmlns="http://www.w3.org/2000/svg"><path d="M24 10.526v2.947H5.755l8.351 8.421-2.105 2.105-12-12 12-12 2.105 2.105-8.351 8.421H24z"/></svg><svg viewBox="-7.27 -7.27 38.55 38.55" id="gdoc_arrow_left_alt" xmlns="http://www.w3.org/2000/svg"><path d="M5.965 10.526V6.035L0 12l5.965 5.965v-4.491H24v-2.947H5.965z"/></svg><svg viewBox="-7.27 -7.27 38.55 38.55" id="gdoc_arrow_right_alt" xmlns="http://www.w3.org/2000/svg"><path d="M18.035 10.526V6.035L24 12l-5.965 5.965v-4.491H0v-2.947h18.035z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_bitbucket" xmlns="http://www.w3.org/2000/svg"><path d="M15.905 13.355c.189 1.444-1.564 2.578-2.784 1.839-1.375-.602-1.375-2.784-.034-3.403 1.151-.705 2.818.223 2.818 1.564zm1.907-.361c-.309-2.44-3.076-4.056-5.328-3.042-1.426.636-2.389 2.148-2.32 3.747.086 2.097 2.08 3.815 4.176 3.626s3.729-2.234 3.472-4.331zm4.108-9.315c-.756-.997-2.045-1.169-3.179-1.358-3.214-.516-6.513-.533-9.727.034-1.066.172-2.269.361-2.939 1.323 1.1 1.031 2.664 1.186 4.073 1.358 2.544.327 5.156.344 7.699.017 1.426-.172 3.008-.309 4.073-1.375zm.979 17.788c-.481 1.684-.206 3.953-1.994 4.932-3.076 1.701-6.806 1.89-10.191 1.289-1.787-.327-3.884-.894-4.864-2.578-.43-1.65-.705-3.334-.98-5.018l.103-.275.309-.155c5.121 3.386 12.288 3.386 17.427 0 .808.241.206 1.22.189 1.805zM26.01 4.951c-.584 3.764-1.255 7.51-1.908 11.257-.189 1.1-1.255 1.719-2.148 2.183-3.214 1.615-6.96 1.89-10.483 1.512-2.389-.258-4.829-.894-6.771-2.389-.911-.705-.911-1.908-1.083-2.922-.602-3.523-1.289-7.046-1.719-10.604.206-1.547 1.942-2.217 3.231-2.698C6.848.654 8.686.362 10.508.19c3.884-.378 7.854-.241 11.618.859 1.341.395 2.784.945 3.695 2.097.412.533.275 1.203.189 1.805z"/></svg><svg viewBox="-7.27 -7.27 38.55 38.55" id="gdoc_bookmark" xmlns="http://www.w3.org/2000/svg"><path d="M15.268 4.392q.868 0 1.532.638t.664 1.506v17.463l-7.659-3.268-7.608 3.268V6.536q0-.868.664-1.506t1.532-.638h10.876zm4.34 14.144V4.392q0-.868-.638-1.532t-1.506-.664H6.537q0-.868.664-1.532T8.733 0h10.876q.868 0 1.532.664t.664 1.532v17.412z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_brightness_auto" xmlns="http://www.w3.org/2000/svg"><path d="M16.846 18.938h2.382L15.22 7.785h-2.44L8.772 18.938h2.382l.871-2.44h3.95zm7.087-9.062L27.999 14l-4.066 4.124v5.809h-5.809L14 27.999l-4.124-4.066H4.067v-5.809L.001 14l4.066-4.124V4.067h5.809L14 .001l4.124 4.066h5.809v5.809zm-11.385 4.937L14 10.282l1.452 4.531h-2.904z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_brightness_dark" xmlns="http://www.w3.org/2000/svg"><path d="M14 21.435q3.079 0 5.257-2.178T21.435 14t-2.178-5.257T14 6.565q-1.51 0-3.079.697 1.917.871 3.108 2.701T15.22 14t-1.191 4.037-3.108 2.701q1.568.697 3.079.697zm9.933-11.559L27.999 14l-4.066 4.124v5.809h-5.809L14 27.999l-4.124-4.066H4.067v-5.809L.001 14l4.066-4.124V4.067h5.809L14 .001l4.124 4.066h5.809v5.809z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_brightness_light" xmlns="http://www.w3.org/2000/svg"><path d="M14 21.435q3.079 0 5.257-2.178T21.435 14t-2.178-5.257T14 6.565 8.743 8.743 6.565 14t2.178 5.257T14 21.435zm9.933-3.311v5.809h-5.809L14 27.999l-4.124-4.066H4.067v-5.809L.001 14l4.066-4.124V4.067h5.809L14 .001l4.124 4.066h5.809v5.809L27.999 14z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_check" xmlns="http://www.w3.org/2000/svg"><path d="M8.885 20.197 25.759 3.323l2.24 2.24L8.885 24.677 0 15.792l2.24-2.24z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_check_circle_outline" xmlns="http://www.w3.org/2000/svg"><path d="M14 25.239q4.601 0 7.92-3.319T25.239 14 21.92 6.08 14 2.761 6.08 6.08 2.761 14t3.319 7.92T14 25.239zM14 0q5.784 0 9.892 4.108T28 14t-4.108 9.892T14 28t-9.892-4.108T0 14t4.108-9.892T14 0zm6.441 7.822 1.972 1.972-11.239 11.239L4.207 14l1.972-1.972 4.995 4.995z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_cloud_off" xmlns="http://www.w3.org/2000/svg"><path d="M9.023 10.5H7q-1.914 0-3.281 1.395t-1.367 3.309 1.367 3.281T7 19.852h11.375zM3.5 4.976l1.477-1.477L24.5 23.022l-1.477 1.477-2.352-2.297H6.999q-2.898 0-4.949-2.051t-2.051-4.949q0-2.844 1.969-4.867t4.758-2.133zm19.086 5.578q2.242.164 3.828 1.832T28 16.351q0 3.008-2.461 4.758l-1.695-1.695q1.805-.984 1.805-3.063 0-1.422-1.039-2.461t-2.461-1.039h-1.75v-.602q0-2.68-1.859-4.539t-4.539-1.859q-1.531 0-2.953.711l-1.75-1.695Q11.431 3.5 14.001 3.5q2.953 0 5.496 2.078t3.09 4.977z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_code" xmlns="http://www.w3.org/2000/svg"><path d="M9.917 24.5a1.75 1.75 0 1 0-3.501.001 1.75 1.75 0 0 0 3.501-.001zm0-21a1.75 1.75 0 1 0-3.501.001A1.75 1.75 0 0 0 9.917 3.5zm11.666 2.333a1.75 1.75 0 1 0-3.501.001 1.75 1.75 0 0 0 3.501-.001zm1.75 0a3.502 3.502 0 0 1-1.75 3.026c-.055 6.581-4.721 8.039-7.82 9.023-2.898.911-3.846 1.349-3.846 3.117v.474a3.502 3.502 0 0 1 1.75 3.026c0 1.932-1.568 3.5-3.5 3.5s-3.5-1.568-3.5-3.5c0-1.294.711-2.424 1.75-3.026V6.526A3.502 3.502 0 0 1 4.667 3.5c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5a3.502 3.502 0 0 1-1.75 3.026v9.06c.93-.456 1.914-.766 2.807-1.039 3.391-1.075 5.323-1.878 5.359-5.687a3.502 3.502 0 0 1-1.75-3.026c0-1.932 1.568-3.5 3.5-3.5s3.5 1.568 3.5 3.5z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_copy" xmlns="http://www.w3.org/2000/svg"><path d="M23.502 25.438V7.626H9.562v17.812h13.94zm0-20.315q1.013 0 1.787.745t.774 1.757v17.812q0 1.013-.774 1.787t-1.787.774H9.562q-1.013 0-1.787-.774t-.774-1.787V7.625q0-1.013.774-1.757t1.787-.745h13.94zM19.689 0v2.562H4.438v17.812H1.936V2.562q0-1.013.745-1.787T4.438.001h15.251z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_dangerous" xmlns="http://www.w3.org/2000/svg"><path d="M21.802 19.833 15.969 14l5.833-5.833-1.969-1.969L14 12.031 8.167 6.198 6.198 8.167 12.031 14l-5.833 5.833 1.969 1.969L14 15.969l5.833 5.833zM19.833 0 28 8.167v11.666L19.833 28H8.167L0 19.833V8.167L8.167 0h11.666z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_date" xmlns="http://www.w3.org/2000/svg"><path d="M27.192 28.844V11.192H4.808v17.652h22.384zm0-25.689q1.277 0 2.253.976t.976 2.253v22.459q0 1.277-.976 2.216t-2.253.939H4.808q-1.352 0-2.291-.901t-.939-2.253V6.385q0-1.277.939-2.253t2.291-.976h1.577V.001h3.23v3.155h12.769V.001h3.23v3.155h1.577zm-3.155 11.267v3.155h-3.23v-3.155h3.23zm-6.46 0v3.155h-3.155v-3.155h3.155zm-6.384 0v3.155h-3.23v-3.155h3.23z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_download" xmlns="http://www.w3.org/2000/svg"><path d="M2.866 28.209h26.269v3.79H2.866v-3.79zm26.268-16.925L16 24.418 2.866 11.284h7.493V.001h11.283v11.283h7.493z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_email" xmlns="http://www.w3.org/2000/svg"><path d="M28.845 9.615v-3.23L16 14.422 3.155 6.385v3.23L16 17.577zm0-6.46q1.277 0 2.216.977T32 6.385v19.23q0 1.277-.939 2.253t-2.216.977H3.155q-1.277 0-2.216-.977T0 25.615V6.385q0-1.277.939-2.253t2.216-.977h25.69z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_error_outline" xmlns="http://www.w3.org/2000/svg"><path d="M14 25.239q4.601 0 7.92-3.319T25.239 14 21.92 6.08 14 2.761 6.08 6.08 2.761 14t3.319 7.92T14 25.239zM14 0q5.784 0 9.892 4.108T28 14t-4.108 9.892T14 28t-9.892-4.108T0 14t4.108-9.892T14 0zm-1.38 6.967h2.761v8.413H12.62V6.967zm0 11.239h2.761v2.826H12.62v-2.826z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_fire" xmlns="http://www.w3.org/2000/svg"><path d="M17.689 21.998q-.32.32-.8.576t-.864.384q-1.152.384-2.272.032t-1.888-.992q-.128-.128-.096-.256t.16-.192q1.216-.384 1.92-1.216t.96-1.792q.192-.896-.064-1.728t-.384-1.728q-.128-.704-.096-1.376t.288-1.312q0-.128.128-.128t.192.064q.384.832.992 1.472t1.28 1.216 1.216 1.248.672 1.568q.064.384.064.704.064.96-.32 1.92t-1.088 1.536zm3.84-10.944q-.768-.704-1.6-1.28t-1.6-1.344q-1.536-1.536-2.016-3.584t.16-4.16q.128-.32-.096-.544t-.544-.096q-.768.32-1.44.768t-1.312.896q-1.984 1.664-3.136 3.936T8.633 10.51t.8 5.088q0 .128.032.256t.032.256q0 .576-.512.832t-1.024-.192q-.128-.192-.192-.32-1.024-1.28-1.376-2.912t-.096-3.232q.064-.384-.288-.576t-.608.128q-1.28 1.664-1.856 3.68t-.448 4.064q0 .576.096 1.184t.288 1.184q.448 1.536 1.216 2.816 1.216 2.048 3.264 3.424t4.416 1.696q2.496.32 5.024-.256t4.448-2.304q1.408-1.344 2.208-3.104t.864-3.68-.704-3.712q-.064-.128-.096-.224t-.096-.224q-.576-1.088-1.28-1.984-.256-.384-.544-.704t-.672-.64z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_git" xmlns="http://www.w3.org/2000/svg"><path d="M27.472 12.753 15.247.529a1.803 1.803 0 0 0-2.55 0l-2.84 2.84 2.137 2.137a2.625 2.625 0 0 1 3.501 3.501l3.499 3.499a2.625 2.625 0 1 1-1.237 1.237l-3.499-3.499c-.083.04-.169.075-.257.106v7.3a2.626 2.626 0 1 1-1.75 0v-7.3a2.626 2.626 0 0 1-1.494-3.607L8.62 4.606l-8.09 8.09a1.805 1.805 0 0 0 0 2.551l12.225 12.224a1.803 1.803 0 0 0 2.55 0l12.168-12.168a1.805 1.805 0 0 0 0-2.551z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_gitea" xmlns="http://www.w3.org/2000/svg"><path d="M5.581 7.229c-2.46-.005-5.755 1.559-5.573 5.48.284 6.125 6.56 6.693 9.068 6.743.275 1.149 3.227 5.112 5.412 5.32h9.573c5.741-.381 10.04-17.363 6.853-17.427-5.271.248-8.395.373-11.073.395v5.3l-.835-.369-.005-4.928c-3.075-.001-5.781-.144-10.919-.397-.643-.004-1.539-.113-2.501-.116zm.348 2.166h.293c.349 3.14.917 4.976 2.067 7.781-2.933-.347-5.429-1.199-5.888-4.38-.237-1.647.563-3.365 3.528-3.401zm11.409 3.087c.2.003.404.04.596.128l.999.431-.716 1.305h-.007a.996.996 0 0 0-.321.053l.006-.002c-.349.114-.593.406-.593.749 0 .097.019.189.055.275l-.002-.006a.767.767 0 0 0 .151.233l-.001-.001-1.235 2.248a.99.99 0 0 0-.302.052l.006-.002c-.349.114-.593.406-.593.749 0 .097.019.189.055.275l-.002-.006c.128.31.457.527.843.527a.987.987 0 0 0 .31-.049l-.006.002c.348-.114.592-.406.592-.749 0-.097-.02-.19-.056-.277l.002.006a.784.784 0 0 0-.211-.293l1.203-2.189a.999.999 0 0 0 .397-.041l-.006.002a.942.942 0 0 0 .285-.15l-.001.001c.464.195.844.353 1.117.488.411.203.556.337.6.487.044.147-.004.429-.236.925-.173.369-.46.893-.799 1.511h-.02a.991.991 0 0 0-.321.053l.006-.002c-.349.114-.593.406-.593.749 0 .097.019.189.055.275l-.002-.006c.128.31.457.527.843.527a.987.987 0 0 0 .31-.049l-.006.002c.348-.114.592-.406.592-.749a.703.703 0 0 0-.055-.275l.002.006a.802.802 0 0 0-.183-.27l.001.001c.335-.611.623-1.136.808-1.531.251-.536.381-.935.267-1.32s-.467-.636-.933-.867c-.307-.151-.689-.311-1.147-.503a.723.723 0 0 0-.052-.324l.002.006a.792.792 0 0 0-.194-.279l.704-1.284 3.899 1.684c.704.305.995 1.053.653 1.68l-2.68 4.907c-.343.625-1.184.884-1.888.58l-5.516-2.384c-.704-.304-.996-1.053-.653-1.68l2.68-4.905c.235-.431.707-.687 1.207-.707z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_github" xmlns="http://www.w3.org/2000/svg"><path d="M16 .394c8.833 0 15.999 7.166 15.999 15.999 0 7.062-4.583 13.062-10.937 15.187-.813.146-1.104-.354-1.104-.771 0-.521.021-2.25.021-4.396 0-1.5-.5-2.458-1.083-2.958 3.562-.396 7.312-1.75 7.312-7.896 0-1.75-.625-3.167-1.646-4.291.167-.417.708-2.042-.167-4.25-1.333-.417-4.396 1.646-4.396 1.646a15.032 15.032 0 0 0-8 0S8.937 6.602 7.603 7.018c-.875 2.208-.333 3.833-.167 4.25-1.021 1.125-1.646 2.542-1.646 4.291 0 6.125 3.729 7.5 7.291 7.896-.458.417-.875 1.125-1.021 2.146-.917.417-3.25 1.125-4.646-1.333-.875-1.521-2.458-1.646-2.458-1.646-1.562-.021-.104.979-.104.979 1.042.479 1.771 2.333 1.771 2.333.938 2.854 5.396 1.896 5.396 1.896 0 1.333.021 2.583.021 2.979 0 .417-.292.917-1.104.771C4.582 29.455-.001 23.455-.001 16.393-.001 7.56 7.165.394 15.998.394zM6.063 23.372c.042-.083-.021-.187-.146-.25-.125-.042-.229-.021-.271.042-.042.083.021.187.146.25.104.062.229.042.271-.042zm.646.709c.083-.062.062-.208-.042-.333-.104-.104-.25-.146-.333-.062-.083.062-.062.208.042.333.104.104.25.146.333.062zm.625.937c.104-.083.104-.25 0-.396-.083-.146-.25-.208-.354-.125-.104.062-.104.229 0 .375s.271.208.354.146zm.875.875c.083-.083.042-.271-.083-.396-.146-.146-.333-.167-.417-.062-.104.083-.062.271.083.396.146.146.333.167.417.062zm1.187.521c.042-.125-.083-.271-.271-.333-.167-.042-.354.021-.396.146s.083.271.271.312c.167.062.354 0 .396-.125zm1.313.104c0-.146-.167-.25-.354-.229-.187 0-.333.104-.333.229 0 .146.146.25.354.229.187 0 .333-.104.333-.229zm1.208-.208c-.021-.125-.187-.208-.375-.187-.187.042-.312.167-.292.312.021.125.187.208.375.167s.312-.167.292-.292z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_gitlab" xmlns="http://www.w3.org/2000/svg"><path d="M1.629 11.034 14 26.888.442 17.048a1.09 1.09 0 0 1-.39-1.203l1.578-4.811zm7.217 0h10.309l-5.154 15.854zM5.753 1.475l3.093 9.559H1.63l3.093-9.559a.548.548 0 0 1 1.031 0zm20.618 9.559 1.578 4.811c.141.437-.016.922-.39 1.203l-13.558 9.84 12.371-15.854zm0 0h-7.216l3.093-9.559a.548.548 0 0 1 1.031 0z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_heart" xmlns="http://www.w3.org/2000/svg"><path d="M16 29.714a1.11 1.11 0 0 1-.786-.321L4.072 18.643c-.143-.125-4.071-3.714-4.071-8 0-5.232 3.196-8.357 8.535-8.357 3.125 0 6.053 2.464 7.464 3.857 1.411-1.393 4.339-3.857 7.464-3.857 5.339 0 8.535 3.125 8.535 8.357 0 4.286-3.928 7.875-4.089 8.035L16.785 29.392c-.214.214-.5.321-.786.321z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_home" xmlns="http://www.w3.org/2000/svg"><path d="M24.003 15.695v8.336c0 .608-.504 1.111-1.111 1.111h-6.669v-6.669h-4.446v6.669H5.108a1.119 1.119 0 0 1-1.111-1.111v-8.336c0-.035.017-.069.017-.104L14 7.359l9.986 8.232a.224.224 0 0 1 .017.104zm3.873-1.198-1.077 1.285a.578.578 0 0 1-.365.191h-.052a.547.547 0 0 1-.365-.122L14 5.831 1.983 15.851a.594.594 0 0 1-.417.122.578.578 0 0 1-.365-.191L.124 14.497a.57.57 0 0 1 .069-.781L12.679 3.314c.729-.608 1.91-.608 2.64 0l4.237 3.543V3.471c0-.313.243-.556.556-.556h3.334c.313 0 .556.243.556.556v7.085l3.803 3.161c.226.191.26.556.069.781z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_info_outline" xmlns="http://www.w3.org/2000/svg"><path d="M12.62 9.793V6.967h2.761v2.826H12.62zM14 25.239q4.601 0 7.92-3.319T25.239 14 21.92 6.08 14 2.761 6.08 6.08 2.761 14t3.319 7.92T14 25.239zM14 0q5.784 0 9.892 4.108T28 14t-4.108 9.892T14 28t-9.892-4.108T0 14t4.108-9.892T14 0zm-1.38 21.033V12.62h2.761v8.413H12.62z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_keyboard_arrow_down" xmlns="http://www.w3.org/2000/svg"><path d="M3.281 5.36 14 16.079 24.719 5.36 28 8.641l-14 14-14-14z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_keyboard_arrow_left" xmlns="http://www.w3.org/2000/svg"><path d="M25.875 28.25 22.125 32 6.126 16.001 22.125.002l3.75 3.75-12.25 12.25z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_keyboard_arrow_right" xmlns="http://www.w3.org/2000/svg"><path d="M6.125 28.25 18.375 16 6.125 3.75 9.875 0l15.999 15.999L9.875 31.998z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_keyboard_arrow_up" xmlns="http://www.w3.org/2000/svg"><path d="M24.719 22.64 14 11.921 3.281 22.64 0 19.359l14-14 14 14z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_language" xmlns="http://www.w3.org/2000/svg"><path d="M20.112 16.826h4.732q.394-1.84.394-2.826t-.394-2.826h-4.732q.197 1.38.197 2.826t-.197 2.826zm-2.497 7.756q1.643-.526 3.418-2.005t2.695-2.991h-4.141q-.657 2.629-1.972 4.995zm-.329-7.756q.197-1.38.197-2.826t-.197-2.826h-6.573q-.197 1.38-.197 2.826t.197 2.826h6.573zM14 25.173q1.84-2.695 2.695-5.587h-5.39q.854 2.892 2.695 5.587zM8.413 8.413q.789-2.826 1.972-4.995-1.643.526-3.451 2.005T4.272 8.414h4.141zM4.272 19.587q.854 1.512 2.662 2.991t3.451 2.005q-1.315-2.366-1.972-4.995H4.272zm-1.117-2.761h4.732Q7.69 15.446 7.69 14t.197-2.826H3.155q-.394 1.84-.394 2.826t.394 2.826zM14 2.826q-1.84 2.695-2.695 5.587h5.39Q15.841 5.521 14 2.826zm9.727 5.587q-.92-1.512-2.695-2.991t-3.418-2.005q1.183 2.169 1.972 4.995h4.141zM14 0q5.784 0 9.892 4.108T28 14t-4.108 9.892T14 28t-9.892-4.108T0 14t4.108-9.892T14 0z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_link" xmlns="http://www.w3.org/2000/svg"><path d="M24.037 7.963q3.305 0 5.634 2.366T32 16t-2.329 5.671-5.634 2.366h-6.46v-3.08h6.46q2.028 0 3.493-1.465t1.465-3.493-1.465-3.493-3.493-1.465h-6.46v-3.08h6.46zM9.615 17.578v-3.155h12.77v3.155H9.615zM3.005 16q0 2.028 1.465 3.493t3.493 1.465h6.46v3.08h-6.46q-3.305 0-5.634-2.366T0 16.001t2.329-5.671 5.634-2.366h6.46v3.08h-6.46q-2.028 0-3.493 1.465t-1.465 3.493z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_mastodon" xmlns="http://www.w3.org/2000/svg"><path d="M30.924 10.506c0-6.941-4.548-8.976-4.548-8.976C24.083.477 20.144.034 16.054.001h-.101C11.862.034 7.926.477 5.633 1.53c0 0-4.548 2.035-4.548 8.976 0 1.589-.031 3.491.02 5.505.165 6.79 1.245 13.479 7.522 15.14 2.893.765 5.379.927 7.38.816 3.629-.2 5.667-1.296 5.667-1.296l-.12-2.633s-2.593.817-5.505.719c-2.887-.099-5.932-.311-6.399-3.855a7.069 7.069 0 0 1-.064-.967v-.028.001s2.833.693 6.423.857c2.195.1 4.253-.129 6.344-.377 4.009-.479 7.5-2.949 7.939-5.207.689-3.553.633-8.676.633-8.676zm-5.366 8.945h-3.329v-8.159c0-1.72-.724-2.592-2.171-2.592-1.6 0-2.403 1.035-2.403 3.083v4.465h-3.311v-4.467c0-2.048-.803-3.083-2.403-3.083-1.447 0-2.171.873-2.171 2.592v8.159H6.441v-8.404c0-1.719.437-3.084 1.316-4.093.907-1.011 2.092-1.528 3.565-1.528 1.704 0 2.995.655 3.848 1.965l.828 1.391.829-1.391c.853-1.311 2.144-1.965 3.848-1.965 1.472 0 2.659.517 3.565 1.528.877 1.009 1.315 2.375 1.315 4.093z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_matrix" xmlns="http://www.w3.org/2000/svg"><path d="M.843.734v30.532H3.04v.733H0V0h3.04v.733zm9.391 9.68v1.543h.044a4.417 4.417 0 0 1 1.489-1.365c.577-.327 1.248-.487 2-.487.72 0 1.377.143 1.975.419.597.277 1.047.776 1.36 1.477.339-.499.8-.941 1.379-1.323.579-.383 1.267-.573 2.061-.573.604 0 1.163.075 1.68.223a3.34 3.34 0 0 1 1.324.707c.368.327.652.745.861 1.268.203.523.307 1.151.307 1.889v7.637h-3.132v-6.468c0-.381-.013-.745-.043-1.083a2.315 2.315 0 0 0-.246-.893l.006.013a1.484 1.484 0 0 0-.577-.593l-.007-.004c-.259-.147-.609-.221-1.047-.221-.443 0-.8.085-1.071.252-.267.166-.483.39-.635.656l-.005.009a2.558 2.558 0 0 0-.307.915l-.002.013a7.156 7.156 0 0 0-.08 1.044v6.359h-3.133v-6.4c0-.339-.005-.671-.024-1.003a2.772 2.772 0 0 0-.197-.936l.007.019a1.41 1.41 0 0 0-.548-.667l-.006-.003c-.259-.167-.635-.253-1.139-.253-.148 0-.345.032-.585.099-.24.068-.48.191-.707.376-.228.184-.425.449-.585.793-.16.345-.24.8-.24 1.36v6.621H7.279v-11.42zm20.923 20.852V.734H28.96V.001H32V32h-3.04v-.733z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_menu" xmlns="http://www.w3.org/2000/svg"><path d="M.001 5.334h31.998v3.583H.001V5.334zm0 12.416v-3.5h31.998v3.5H.001zm0 8.916v-3.583h31.998v3.583H.001z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_notification" xmlns="http://www.w3.org/2000/svg"><path d="m22.615 19.384 2.894 2.894v1.413H2.49v-1.413l2.894-2.894V12.25q0-3.365 1.716-5.856t4.745-3.231v-1.01q0-.875.606-1.514T13.999 0t1.548.639.606 1.514v1.01q3.029.74 4.745 3.231t1.716 5.856v7.134zM14 27.999q-1.211 0-2.053-.808t-.841-2.019h5.788q0 1.144-.875 1.986T14 27.999z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_path" xmlns="http://www.w3.org/2000/svg"><path d="M28 12.62h-9.793V8.414h-2.826v11.173h2.826v-4.206H28V26.62h-9.793v-4.206H12.62v-14H9.794v4.206H.001V1.381h9.793v4.206h8.413V1.381H28V12.62z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_person" xmlns="http://www.w3.org/2000/svg"><path d="M16 20.023q5.052 0 10.526 2.199t5.473 5.754v4.023H0v-4.023q0-3.555 5.473-5.754t10.526-2.199zM16 16q-3.275 0-5.614-2.339T8.047 8.047t2.339-5.661T16 0t5.614 2.386 2.339 5.661-2.339 5.614T16 16z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_search" xmlns="http://www.w3.org/2000/svg"><path d="M11.925 20.161q3.432 0 5.834-2.402t2.402-5.834-2.402-5.834-5.834-2.402-5.834 2.402-2.402 5.834 2.402 5.834 5.834 2.402zm10.981 0L32 29.255 29.255 32l-9.094-9.094v-1.458l-.515-.515q-3.26 2.831-7.721 2.831-4.976 0-8.45-3.432T.001 11.925t3.474-8.45 8.45-3.474 8.407 3.474 3.432 8.45q0 1.802-.858 4.075t-1.973 3.646l.515.515h1.458z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_shield" xmlns="http://www.w3.org/2000/svg"><path d="M22.167 15.166V3.5h-8.166v20.726c.93-.492 2.424-1.349 3.883-2.497 1.95-1.531 4.284-3.919 4.284-6.562zm3.499-13.999v14c0 7.674-10.737 12.523-11.192 12.724-.146.073-.31.109-.474.109s-.328-.036-.474-.109c-.456-.201-11.192-5.049-11.192-12.724v-14C2.334.529 2.863 0 3.501 0H24.5c.638 0 1.167.529 1.167 1.167z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_star" xmlns="http://www.w3.org/2000/svg"><path d="M14 22.052 5.324 27.31l2.3-9.859L0 10.813l10.056-.854L14 .692l3.944 9.267L28 10.813l-7.624 6.638 2.3 9.859z"/></svg><svg viewBox="-7.27 -7.27 42.55 42.55" id="gdoc_tag" xmlns="http://www.w3.org/2000/svg"><path d="M17.52 17.52v-7.041h-7.041v7.041h7.041zM28 10.479h-7.041v7.041H28v3.439h-7.041V28H17.52v-7.041h-7.041V28H7.04v-7.041H-.001V17.52H7.04v-7.041H-.001V7.04H7.04V-.001h3.439V7.04h7.041V-.001h3.439V7.04H28v3.439z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_timer" xmlns="http://www.w3.org/2000/svg"><path d="M16 29q4.428 0 7.536-3.143t3.107-7.571-3.107-7.536T16 7.643 8.464 10.75t-3.107 7.536 3.107 7.571T16 29zM26.714 9.786q1.214 1.571 2.107 4.036t.893 4.464q0 5.643-4 9.678T16 32t-9.714-4.036-4-9.678 4-9.678T16 4.572q1.929 0 4.464.929t4.107 2.143l2.143-2.214q1.143.929 2.143 2.143zM14.5 19.857v-9.143h3v9.143h-3zM20.571.001v3.071h-9.143V.001h9.143z"/></svg><svg viewBox="-7.27 -7.27 46.55 46.55" id="gdoc_xmpp" xmlns="http://www.w3.org/2000/svg"><path d="M31.995 4.237c-.449.175-1.12.433-1.936.745-1.544.591-2.328.891-2.924 1.093-.613.208-1.287.409-2.635.813-.911.272-1.672.495-2.212.651-.031.875 0 2.177-.292 3.635a21.837 21.837 0 0 1-2.016 5.765c-1.496 2.944-3.236 4.817-3.88 5.476-.056-.059-.112-.117-.168-.179-.707-.763-2.403-2.703-3.815-5.683-1.053-2.223-1.484-4.044-1.605-4.584-.356-1.589-.427-2.955-.427-4.117 0-.075-.036-.129-.101-.149-.721-.223-1.765-.519-2.887-.853-1.271-.379-2.193-.744-3.408-1.2-.493-.185-1.409-.547-2.217-.859C.723 4.499.113 4.236.041 4.236c-.005 0-.015 0-.023.012a.131.131 0 0 0-.019.076c.009.593.08 1.361.256 2.365.615 3.503 2.688 7.061 4.36 9.244 0 0 3.717 5.035 9.128 8.144l.303.176c-.009.008-.02.015-.028.021-1.717 1.316-3.201 1.977-3.579 2.14a15.71 15.71 0 0 1-2.219.772v.407a25.31 25.31 0 0 0 2.72-.487 26.72 26.72 0 0 0 5.075-1.792c.136.067.276.136.42.204 1.527.725 3.571 1.627 6.073 2.048.613.103 1.136.165 1.507.195a.109.109 0 0 0 .115-.091.55.55 0 0 0 .004-.217.107.107 0 0 0-.063-.073c-.505-.209-1.201-.4-1.983-.719-.935-.381-2.241-1.067-3.648-2.128a13.528 13.528 0 0 1-.367-.287c4.64-2.656 7.989-6.588 7.989-6.588 1.735-2.036 4.441-5.623 5.431-9.795.349-1.473.539-2.741.5-3.628z"/></svg></defs></svg>
+
+
+
+
+    <div
+      class="wrapper "
+    >
+      
+      <header class="gdoc-header">
+  <div class="container flex align-center justify-between">
+    
+      <label for="menu-control" class="gdoc-nav__control">
+        <div tabindex="0" role="button" aria-pressed="false">
+          <input type="checkbox" class="hidden" id="menu-control" />
+
+          <svg class="gdoc-icon gdoc_menu">
+            <title>Open Navigation</title>
+            <use xlink:href="#gdoc_menu"></use>
+          </svg>
+          <svg class="gdoc-icon gdoc_arrow_back">
+            <title>Close Navigation</title>
+            <use xlink:href="#gdoc_arrow_back"></use>
+          </svg>
+        </div>
+      </label>
+    
+    <div>
+      <a class="gdoc-brand gdoc-header__link flex gap-16 align-center" href="https://wiki.metroidfusion.run/">
+        <img
+          class="gdoc-brand__img"
+          src="/brand.svg"
+          alt=""
+        />
+        <div>
+          <div class="gdoc-brand__title">Metroid Fusion Wiki</div>
+          
+        </div>
+      </a>
+    </div>
+    <div class="gdoc-menu-header flex gap-16">
+      <span class="gdoc-menu-header__items">
+        
+          
+
+  
+  
+  
+  
+
+  
+    
+      
+      
+      
+
+      
+      
+
+      
+
+      
+        <span>
+          <a
+            href="https://github.com/metroid-fusion-info/wiki"
+            class="gdoc-header__link"
+            
+          >
+            <svg class="gdoc-icon gdoc_github">
+              <title>GitHub</title>
+              <use xlink:href="#gdoc_github"></use>
+            </svg>
+          </a>
+        </span>
+      
+    
+  
+
+
+
+
+
+
+        
+
+
+        <span id="gdoc-color-theme" tabindex="0" role="button" aria-pressed="false">
+          <svg class="gdoc-icon gdoc_brightness_dark">
+            <title>Toggle Dark/Light/Auto mode</title>
+            <use xlink:href="#gdoc_brightness_dark"></use>
+          </svg>
+          <svg class="gdoc-icon gdoc_brightness_light">
+            <title>Toggle Dark/Light/Auto mode</title>
+            <use xlink:href="#gdoc_brightness_light"></use>
+          </svg>
+          <svg class="gdoc-icon gdoc_brightness_auto">
+            <title>Toggle Dark/Light/Auto mode</title>
+            <use xlink:href="#gdoc_brightness_auto"></use>
+          </svg>
+        </span>
+
+        <span class="gdoc-menu-header__home">
+          <a href="https://wiki.metroidfusion.run/" class="gdoc-header__link">
+            <svg class="gdoc-icon gdoc_home">
+              <title>Back to homepage</title>
+              <use xlink:href="#gdoc_home"></use>
+            </svg>
+          </a>
+        </span>
+
+        
+
+      </span>
+      <span class="gdoc-menu-header__control">
+        <label for="menu-header-control">
+          <div tabindex="0" role="button" aria-pressed="false">
+            <input type="checkbox" class="hidden" id="menu-header-control" />
+
+            <svg class="gdoc-icon gdoc_keyboard_arrow_right">
+              <use xlink:href="#gdoc_keyboard_arrow_right"></use>
+              <title>Close Menu Bar</title>
+            </svg>
+
+            <svg class="gdoc-icon gdoc_keyboard_arrow_left">
+              <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+              <title>Open Menu Bar</title>
+            </svg>
+          </div>
+        </label>
+      </span>
+    </div>
+  </div>
+</header>
+
+
+
+      <main class="container flex flex-even">
+        
+          <aside class="gdoc-nav">
+            <nav>
+  
+  <script defer src="/js/search-14869ba5.bundle.min.js"></script><div class="gdoc-search flex align-center">
+    <svg class="gdoc-icon gdoc_search"><use xlink:href="#gdoc_search"></use></svg>
+    <input
+      type="text"
+      id="gdoc-search-input"
+      class="gdoc-search__input"
+      placeholder="Search..."
+      aria-label="Search"
+      maxlength="64"
+      data-site-base-url="https://wiki.metroidfusion.run/"
+      data-site-lang="en"
+    />
+    <ul id="gdoc-search-results" class="gdoc-search__list"></ul>
+  </div>
+
+
+
+
+  <section class="gdoc-nav--main">
+    <h2>Navigation</h2>
+    
+      
+
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/game_data/"
+                    class="gdoc-nav__entry"
+                  >
+                    Fusion Game Data
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/bosses/"
+                    class="gdoc-nav__entry"
+                  >
+                    List of Bosses
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/enemies/"
+                    class="gdoc-nav__entry"
+                  >
+                    List of Enemies
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/mechanics/"
+                    class="gdoc-nav__entry"
+                  >
+                    List of Mechanics
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/rooms/"
+                    class="gdoc-nav__entry"
+                  >
+                    List of Rooms
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/randomizers/"
+                    class="gdoc-nav__entry"
+                  >
+                    Randomizers
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+
+
+
+
+
+    
+  </section>
+
+  
+
+
+  <section class="gdoc-nav--more">
+    
+  </section>
+</nav>
+
+          </aside>
+        
+
+
+        <div class="gdoc-page">
+          
+  
+
+
+  
+
+
+
+
+
+
+<div
+  class="gdoc-page__header flex flex-wrap
+  
+    justify-between
+  
+  
+  "
+  itemprop="breadcrumb"
+>
+  
+    <div>
+      <svg class="gdoc-icon gdoc_path hidden-mobile"><use xlink:href="#gdoc_path"></use></svg>
+      <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+        
+        
+        
+  
+  
+    
+    
+    
+    
+  
+  
+    
+    
+    
+    
+  
+  
+    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'>Metroid Fusion Wiki</span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/game_data/' href='/game_data/'><span itemprop='name'>Fusion Game Data</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>List of Events</span><meta itemprop='position' content='3' /></li>
+  
+
+  
+
+  
+
+      </ol>
+    </div>
+  
+  
+    <div>
+      <span class="editpage">
+        <svg class="gdoc-icon gdoc_code"><use xlink:href="#gdoc_code"></use></svg>
+        <a
+          href="https://github.com/metroid-fusion-info/wiki/edit/main/content/game_data/events/_index.md"
+          rel="edit"
+        >
+          Edit page
+        </a>
+      </span>
+    </div>
+  
+</div>
+
+
+
+  <article
+    class="gdoc-markdown gdoc-markdown__align--left"
+    id="main-content" tabindex="-1"
+  >
+    <h1>List of Events</h1>
+    <span class="flex align-center no-wrap">
+    <svg class="gdoc-icon gdoc_date"><use xlink:href="#gdoc_date"></use></svg>
+    <time datetime="2026-07-24T18:11:19&#43;02:00">
+        
+        Updated on
+        
+        Jul 24, 2026
+    </time>
+</span>
+    <p>A list of all event states in the game, with descriptions how they&rsquo;re seen in the debug menu.<br>
+The decompiled code can be found here: <a
+  class="gdoc-markdown__link"
+  href="https://github.com/metroidret/mf/blob/main/include/constants/event.h"
+>https://github.com/metroidret/mf/blob/main/include/constants/event.h</a></p>
+<div class="table-wrap"> <table>
+	<thead>
+			<tr>
+					<th>Dec</th>
+					<th>Hex</th>
+					<th>Text</th>
+					<th>Text</th>
+					<th>Translation</th>
+					<th>Description</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>000</td>
+					<td>00</td>
+					<td>TOHOKANKO</td>
+					<td>トクベツホカンコヘ ムカエ</td>
+					<td>go to special vault</td>
+					<td>Start of game</td>
+			</tr>
+			<tr>
+					<td>001</td>
+					<td>01</td>
+					<td>TOHOKANKO2</td>
+					<td>トクベツホカンコノ チョウサ</td>
+					<td>investigation of special vault</td>
+					<td>Navigation room before quarantine bay</td>
+			</tr>
+			<tr>
+					<td>002</td>
+					<td>02</td>
+					<td>HOKANKO</td>
+					<td>ナビヘ モドレ</td>
+					<td>return to navigation</td>
+					<td>Quarantine bay hornoad dead</td>
+			</tr>
+			<tr>
+					<td>003</td>
+					<td>03</td>
+					<td>TOMARUKARA</td>
+					<td>キョダイセイブツヲ タオセ</td>
+					<td>defeat huge creature</td>
+					<td>Navigation room after quarantine bay [Level 0 unlocked]</td>
+			</tr>
+			<tr>
+					<td>004</td>
+					<td>04</td>
+					<td>TOMISSILE</td>
+					<td>ミサイルヲ ニュウシュセヨ</td>
+					<td>obtain missiles</td>
+					<td>Navigation room before elevator</td>
+			</tr>
+			<tr>
+					<td>005</td>
+					<td>05</td>
+					<td>DATA3</td>
+					<td>トナリノ ヘヤヘ</td>
+					<td>to next room</td>
+					<td>Skipped by not talking to computer</td>
+			</tr>
+			<tr>
+					<td>006</td>
+					<td>06</td>
+					<td>TODATA</td>
+					<td>データルームニ ハイル</td>
+					<td>enter data room</td>
+					<td>Entered missile data room</td>
+			</tr>
+			<tr>
+					<td>007</td>
+					<td>07</td>
+					<td>MISSILE</td>
+					<td>データルームデ ミサイルヲ</td>
+					<td>get missiles in data room</td>
+					<td>Missile data downloaded</td>
+			</tr>
+			<tr>
+					<td>008</td>
+					<td>08</td>
+					<td>DOWNENE</td>
+					<td>デンゲンガ オチタ</td>
+					<td>power lost</td>
+					<td>Entered navigation room [power outage]</td>
+			</tr>
+			<tr>
+					<td>009</td>
+					<td>09</td>
+					<td>TOMARUKARA2</td>
+					<td>キョダイセイブツヲ タオセ2</td>
+					<td>defeat huge creature 2</td>
+					<td>Navigation room after missiles</td>
+			</tr>
+			<tr>
+					<td>010</td>
+					<td>0A</td>
+					<td>DOWNBOSS1</td>
+					<td>ナビヘ ムカエ</td>
+					<td>go to navigation</td>
+					<td>Morph ball ability recovered</td>
+			</tr>
+			<tr>
+					<td>011</td>
+					<td>0B</td>
+					<td>TOKUTYOU</td>
+					<td>SR388ヘ ムカエ</td>
+					<td>go to SR388</td>
+					<td>Navigation room after morph ball</td>
+			</tr>
+			<tr>
+					<td>012</td>
+					<td>0C</td>
+					<td>ELESTART</td>
+					<td>エレデモ SR388ヘムカエ</td>
+					<td>elevator demo, go to SR388</td>
+					<td>Entered elevator room</td>
+			</tr>
+			<tr>
+					<td>013</td>
+					<td>0D</td>
+					<td>ELEEND</td>
+					<td>デモエンド SR388ヘ</td>
+					<td>demo end, to SR388</td>
+					<td>SA-X cutscene ends</td>
+			</tr>
+			<tr>
+					<td>014</td>
+					<td>0E</td>
+					<td>TOKUTYOU2</td>
+					<td>クウチョウメロンヲ タオセ</td>
+					<td>defeat air conditioning melon</td>
+					<td>Navigation room entering SRX</td>
+			</tr>
+			<tr>
+					<td>015</td>
+					<td>0F</td>
+					<td>POWERB</td>
+					<td>コアXゴ ノコリハカイセヨ</td>
+					<td>after core-x destroy remaining</td>
+					<td>Charge beam ability recovered</td>
+			</tr>
+			<tr>
+					<td>016</td>
+					<td>10</td>
+					<td>KUTYOU</td>
+					<td>ハカイゴ ナビヘ ムカエ</td>
+					<td>after destroying go to navigation</td>
+					<td>All stabilizers online</td>
+			</tr>
+			<tr>
+					<td>017</td>
+					<td>11</td>
+					<td>TOBOM</td>
+					<td>ボムヲ ニュウシュセヨ</td>
+					<td>obtain bombs</td>
+					<td>Navigation room leaving SRX</td>
+			</tr>
+			<tr>
+					<td>018</td>
+					<td>12</td>
+					<td>TOLV1KEY</td>
+					<td>レベル1ヲ カイジョセヨ</td>
+					<td>unlock level 1</td>
+					<td>Navigation room entering TRO</td>
+			</tr>
+			<tr>
+					<td>019</td>
+					<td>13</td>
+					<td>LV1KEY</td>
+					<td>レベル1カイジョ</td>
+					<td>level 1 unlocked</td>
+					<td>Security level 1 unlocked</td>
+			</tr>
+			<tr>
+					<td>020</td>
+					<td>14</td>
+					<td>TOBOM2</td>
+					<td>カイジョゴ ボムデータヘ</td>
+					<td>after unlocked, to bomb data</td>
+					<td>Skipped by not talking to computer</td>
+			</tr>
+			<tr>
+					<td>021</td>
+					<td>15</td>
+					<td>DATATRO</td>
+					<td>データルームニ ハイル</td>
+					<td>enter data room</td>
+					<td>Entered bomb data room</td>
+			</tr>
+			<tr>
+					<td>022</td>
+					<td>16</td>
+					<td>BOM</td>
+					<td>ネッタイカラ ダッシュツセヨ</td>
+					<td>escape from tropics</td>
+					<td>Bomb data downloaded</td>
+			</tr>
+			<tr>
+					<td>023</td>
+					<td>17</td>
+					<td>BOMQUAKE</td>
+					<td>ボムゴ ジシン</td>
+					<td>earthquake after bombs</td>
+					<td>SA-X quake</td>
+			</tr>
+			<tr>
+					<td>024</td>
+					<td>18</td>
+					<td>BOMQUAKE2</td>
+					<td>ジシン シュウリョウ</td>
+					<td>end of earthquake</td>
+					<td>Left SA-X quake room</td>
+			</tr>
+			<tr>
+					<td>025</td>
+					<td>19</td>
+					<td>DOWNBOSS2</td>
+					<td>ボスノノチ ダッシュツ</td>
+					<td>escape after boss</td>
+					<td>Hi-jump ability recovered</td>
+			</tr>
+			<tr>
+					<td>026</td>
+					<td>1A</td>
+					<td>TROSAX</td>
+					<td>SAXカラ ニゲル</td>
+					<td>escape from SA-X</td>
+					<td>Escaped TRO SA-X</td>
+			</tr>
+			<tr>
+					<td>027</td>
+					<td>1B</td>
+					<td>TOWATER</td>
+					<td>スイチュウセクションヘ</td>
+					<td>to underwater section</td>
+					<td>Navigation room leaving TRO</td>
+			</tr>
+			<tr>
+					<td>028</td>
+					<td>1C</td>
+					<td>WATER</td>
+					<td>スイイヲ サゲロ</td>
+					<td>lower water level</td>
+					<td>Navigation room entering AQA</td>
+			</tr>
+			<tr>
+					<td>029</td>
+					<td>1D</td>
+					<td>DOWNBOSS3</td>
+					<td>ボスノノチ スイイヲサゲロ</td>
+					<td>lower water level after boss</td>
+					<td>Speed booster power regained</td>
+			</tr>
+			<tr>
+					<td>030</td>
+					<td>1E</td>
+					<td>TOWATSWITCH</td>
+					<td>ダッシュノ セツメイ</td>
+					<td>dash explanation</td>
+					<td>Skipped by not talking to computer (&ldquo;Empty&rdquo;)</td>
+			</tr>
+			<tr>
+					<td>031</td>
+					<td>1F</td>
+					<td>WATSWTROOM</td>
+					<td>スイイヘンコウヘヤ</td>
+					<td>change water level room</td>
+					<td>Entered pump control unit</td>
+			</tr>
+			<tr>
+					<td>032</td>
+					<td>20</td>
+					<td>WATSWITCH</td>
+					<td>スイイヘンコウ</td>
+					<td>change water level</td>
+					<td>Water level lowered</td>
+			</tr>
+			<tr>
+					<td>033</td>
+					<td>21</td>
+					<td>TOPWMISSILE</td>
+					<td>パワーミサイルヲ テニイレロ</td>
+					<td>obtain power missiles</td>
+					<td>Navigation room leaving AQA</td>
+			</tr>
+			<tr>
+					<td>034</td>
+					<td>22</td>
+					<td>TOLV2KEY</td>
+					<td>レベル2ヲ カイジョセヨ</td>
+					<td>unlock level 2</td>
+					<td>Navigation room entering PYR</td>
+			</tr>
+			<tr>
+					<td>035</td>
+					<td>23</td>
+					<td>LV2KEY</td>
+					<td>レベル2カイジョ</td>
+					<td>level 2 unlocked</td>
+					<td>Security level 2 unlocked</td>
+			</tr>
+			<tr>
+					<td>036</td>
+					<td>24</td>
+					<td>TOPWMISSILE2</td>
+					<td>Pミサイルヘ カイジョゴ</td>
+					<td>to power missiles after unlock</td>
+					<td>Skipped by not talking to computer</td>
+			</tr>
+			<tr>
+					<td>037</td>
+					<td>25</td>
+					<td>DATABUR</td>
+					<td>データルームニ ハイル</td>
+					<td>enter data room</td>
+					<td>Entered super missile data room</td>
+			</tr>
+			<tr>
+					<td>038</td>
+					<td>26</td>
+					<td>PWMISSILE</td>
+					<td>パワーミサイル カンリョウ</td>
+					<td>completed power missiles</td>
+					<td>Super missile data downloaded</td>
+			</tr>
+			<tr>
+					<td>039</td>
+					<td>27</td>
+					<td>DOTADOTA</td>
+					<td>オートデモゴニ モドレ</td>
+					<td>return after auto demo</td>
+					<td>Triggered BOX rumble</td>
+			</tr>
+			<tr>
+					<td>040</td>
+					<td>28</td>
+					<td>DOWNBOSSA1</td>
+					<td>ボスA タオス</td>
+					<td>defeated boss A</td>
+					<td>BOX defeated</td>
+			</tr>
+			<tr>
+					<td>041</td>
+					<td>29</td>
+					<td>TOENEGAS</td>
+					<td>アンコクセクションヘ ムカエ</td>
+					<td>go to dark section</td>
+					<td>Navigation room leaving PYR</td>
+			</tr>
+			<tr>
+					<td>042</td>
+					<td>2A</td>
+					<td>ADAMRENPO</td>
+					<td>アダム レンポウ</td>
+					<td>Adam and federation</td>
+					<td>Left navigation room</td>
+			</tr>
+			<tr>
+					<td>043</td>
+					<td>2B</td>
+					<td>ADAMRENPODEMO</td>
+					<td>アダムレンポウチュ</td>
+					<td>during Adam and federation</td>
+					<td>Secret conversation</td>
+			</tr>
+			<tr>
+					<td>044</td>
+					<td>2C</td>
+					<td>ADAMRENPOEND</td>
+					<td>アダムレンポエンド</td>
+					<td>Adam and federation end</td>
+					<td>Secret conversation over</td>
+			</tr>
+			<tr>
+					<td>045</td>
+					<td>2D</td>
+					<td>TOANKOKU</td>
+					<td>アンコク イガイデ コウシン</td>
+					<td>except dark update</td>
+					<td>Skipped by using NOC navigation room</td>
+			</tr>
+			<tr>
+					<td>046</td>
+					<td>2E</td>
+					<td>DARNAVI</td>
+					<td>アンコクナビニ ハイル</td>
+					<td>enter dark navigation</td>
+					<td>Entered NOC navigation room</td>
+			</tr>
+			<tr>
+					<td>047</td>
+					<td>2F</td>
+					<td>TOENEGAS2</td>
+					<td>ボス4ヲ タオセ</td>
+					<td>defeat boss 4</td>
+					<td>Navigation room entering NOC</td>
+			</tr>
+			<tr>
+					<td>048</td>
+					<td>30</td>
+					<td>DARSAX</td>
+					<td>SAXニ アウ</td>
+					<td>encounter SA-X</td>
+					<td>NOC SA-X encounter</td>
+			</tr>
+			<tr>
+					<td>049</td>
+					<td>31</td>
+					<td>DARSAXESC</td>
+					<td>SAXカラ ニゲキル</td>
+					<td>escape from SA-X</td>
+					<td>Escaped NOC SA-X</td>
+			</tr>
+			<tr>
+					<td>050</td>
+					<td>32</td>
+					<td>BARILOSS</td>
+					<td>バリア スワレル</td>
+					<td>varia absorbed</td>
+					<td>NOC data room destroyed</td>
+			</tr>
+			<tr>
+					<td>051</td>
+					<td>33</td>
+					<td>DOWNBOSS4</td>
+					<td>ナビヘ モドレ</td>
+					<td>return to navigation</td>
+					<td>Varia suit effect recovered</td>
+			</tr>
+			<tr>
+					<td>052</td>
+					<td>34</td>
+					<td>CXESCAPE</td>
+					<td>コールドX ニゲル</td>
+					<td>cold X flee</td>
+					<td>Reached top of room after Mega-X [Blue X flee]</td>
+			</tr>
+			<tr>
+					<td>053</td>
+					<td>35</td>
+					<td>TOFREEZEM</td>
+					<td>ゴッカンセクションヘ ムカエ</td>
+					<td>go to cold section</td>
+					<td>Navigation room leaving NOC</td>
+			</tr>
+			<tr>
+					<td>054</td>
+					<td>36</td>
+					<td>TOLV3KEY</td>
+					<td>レベル3ヲ カイジョセヨ</td>
+					<td>unlock level 3</td>
+					<td>Navigation room entering ARC</td>
+			</tr>
+			<tr>
+					<td>055</td>
+					<td>37</td>
+					<td>LV3KEY</td>
+					<td>レベル3カイジョ</td>
+					<td>level 3 unlocked</td>
+					<td>Security Level 3 unlocked</td>
+			</tr>
+			<tr>
+					<td>056</td>
+					<td>38</td>
+					<td>TOFREEZEM2</td>
+					<td>アイスミサイルヲ ニュウシュセヨ</td>
+					<td>obtain ice missiles</td>
+					<td>Skipped by not talking to computer</td>
+			</tr>
+			<tr>
+					<td>057</td>
+					<td>39</td>
+					<td>DATAFRI</td>
+					<td>データルームニ ハイル</td>
+					<td>enter data room</td>
+					<td>Entered ice missile data room</td>
+			</tr>
+			<tr>
+					<td>058</td>
+					<td>3A</td>
+					<td>FREEZEM</td>
+					<td>アイスミサイル カンリョウ</td>
+					<td>completed ice missiles</td>
+					<td>Ice effect added to missiles</td>
+			</tr>
+			<tr>
+					<td>059</td>
+					<td>3B</td>
+					<td>TOENEBALL</td>
+					<td>ネツボウソウ カイシ</td>
+					<td>overheating start</td>
+					<td>Navigation room leaving ARC</td>
+			</tr>
+			<tr>
+					<td>060</td>
+					<td>3C</td>
+					<td>WIDEB</td>
+					<td>コンソールヲ オセ</td>
+					<td>use console</td>
+					<td>Wide beam ability recovered</td>
+			</tr>
+			<tr>
+					<td>061</td>
+					<td>3D</td>
+					<td>ENEBALL</td>
+					<td>ナビヘ モドレ</td>
+					<td>return to navigation</td>
+					<td>Cooling unit operational</td>
+			</tr>
+			<tr>
+					<td>062</td>
+					<td>3E</td>
+					<td>TOETEKON</td>
+					<td>キョジュウクヘ ムカエ</td>
+					<td>go to residential area</td>
+					<td>Navigation room leaving PYR</td>
+			</tr>
+			<tr>
+					<td>063</td>
+					<td>3F</td>
+					<td>ETEKON</td>
+					<td>ナビヘ キュウシュツゴ</td>
+					<td>to navigation after rescue</td>
+					<td>Animals released</td>
+			</tr>
+			<tr>
+					<td>064</td>
+					<td>40</td>
+					<td>TOPBOM</td>
+					<td>パワーボムヲ ニュウシュセヨ</td>
+					<td>obtain power bombs</td>
+					<td>Navigation room after animals</td>
+			</tr>
+			<tr>
+					<td>065</td>
+					<td>41</td>
+					<td>TOPBOM2</td>
+					<td>ゴッカン コウシン</td>
+					<td>cold update</td>
+					<td>Navigation room entering ARC</td>
+			</tr>
+			<tr>
+					<td>066</td>
+					<td>42</td>
+					<td>PBOM</td>
+					<td>パワーボム カンリョウ</td>
+					<td>completed ice missiles</td>
+					<td>Power bomb data downloaded</td>
+			</tr>
+			<tr>
+					<td>067</td>
+					<td>43</td>
+					<td>FRISAX</td>
+					<td>SAXニ デアウ</td>
+					<td>encounter SA-X</td>
+					<td>ARC SA-X encounter</td>
+			</tr>
+			<tr>
+					<td>068</td>
+					<td>44</td>
+					<td>FRISAXESC</td>
+					<td>SAXカラ ニゲキル</td>
+					<td>escape from SA-X</td>
+					<td>Escaped ARC SA-X</td>
+			</tr>
+			<tr>
+					<td>069</td>
+					<td>45</td>
+					<td>TOSTARSHIP</td>
+					<td>スペースシップヘ ムカエ</td>
+					<td>to spaceship</td>
+					<td>Navigation room leaving ARC</td>
+			</tr>
+			<tr>
+					<td>070</td>
+					<td>46</td>
+					<td>ENGDOWN</td>
+					<td>スペースシップヘムカエ</td>
+					<td>to spaceship</td>
+					<td>Power outage</td>
+			</tr>
+			<tr>
+					<td>071</td>
+					<td>47</td>
+					<td>TODOURYOKU</td>
+					<td>ホジョ デンゲンヲ イレロ</td>
+					<td>turn on auxiliary power</td>
+					<td>Entered ship</td>
+			</tr>
+			<tr>
+					<td>072</td>
+					<td>48</td>
+					<td>BOSS5ROOM</td>
+					<td>ボス ヘヤ</td>
+					<td>boss room</td>
+					<td>Entered Yakuza&rsquo;s room</td>
+			</tr>
+			<tr>
+					<td>073</td>
+					<td>49</td>
+					<td>DOWNBOSS5</td>
+					<td>ホジョデンゲンヲイレロ</td>
+					<td>turn on auxiliary power</td>
+					<td>Space jump ability recovered</td>
+			</tr>
+			<tr>
+					<td>074</td>
+					<td>4A</td>
+					<td>SUBENG</td>
+					<td>ホジョデンゲン カンリョウ</td>
+					<td>completed auxiliary power</td>
+					<td>Auxiliary power engaged</td>
+			</tr>
+			<tr>
+					<td>075</td>
+					<td>4B</td>
+					<td>TOPLASMAB</td>
+					<td>ネッタイセクションヘ ムカエ</td>
+					<td>to tropical section</td>
+					<td>Navigation room after Yakuza</td>
+			</tr>
+			<tr>
+					<td>076</td>
+					<td>4C</td>
+					<td>TROSAX2</td>
+					<td>SAXニ デアウ</td>
+					<td>encounter SA-X</td>
+					<td>Engaged TRO SA-X</td>
+			</tr>
+			<tr>
+					<td>077</td>
+					<td>4D</td>
+					<td>TROSAX2ESC</td>
+					<td>SAXカラ ニゲキル</td>
+					<td>escape from SA-X</td>
+					<td>Escaped TRO SA-X</td>
+			</tr>
+			<tr>
+					<td>078</td>
+					<td>4E</td>
+					<td>PLASMAB</td>
+					<td>ドウリョク カイフク ナビヘ</td>
+					<td>power restored, to navigation</td>
+					<td>Plasma beam ability recovered</td>
+			</tr>
+			<tr>
+					<td>079</td>
+					<td>4F</td>
+					<td>TOGOKAN</td>
+					<td>ゴッカン ボスヲ タオセ</td>
+					<td>defeat cold boss</td>
+					<td>Navigation room leaving TRO</td>
+			</tr>
+			<tr>
+					<td>080</td>
+					<td>50</td>
+					<td>TOGOKAN2</td>
+					<td>ゴッカンナビデ コウシン</td>
+					<td>cold navigation update</td>
+					<td>Navigation room entering ARC</td>
+			</tr>
+			<tr>
+					<td>081</td>
+					<td>51</td>
+					<td>DOWNBOSS6</td>
+					<td>ボス タオス ナビヘ</td>
+					<td>defeated boss, to navigation</td>
+					<td>Gravity suit effect recovered</td>
+			</tr>
+			<tr>
+					<td>082</td>
+					<td>52</td>
+					<td>TOLV4KEY</td>
+					<td>レベル4ヲ カイジョセヨ</td>
+					<td>unlock level 4</td>
+					<td>Entered level 4 security room</td>
+			</tr>
+			<tr>
+					<td>083</td>
+					<td>53</td>
+					<td>LV4KEY</td>
+					<td>レベル4カイジョ</td>
+					<td>level 4 unlocked</td>
+					<td>Security level 4 unlocked</td>
+			</tr>
+			<tr>
+					<td>084</td>
+					<td>54</td>
+					<td>TOKAKUSAN2</td>
+					<td>カクサンヲ ニュウシュセヨ2</td>
+					<td>obtain diffusion 2</td>
+					<td>Secret message</td>
+			</tr>
+			<tr>
+					<td>085</td>
+					<td>55</td>
+					<td>DATAWAT</td>
+					<td>データルームニ ハイル</td>
+					<td>enter data room</td>
+					<td>Entered diffusion missile data room</td>
+			</tr>
+			<tr>
+					<td>086</td>
+					<td>56</td>
+					<td>KAKUSAN</td>
+					<td>カクサン ニュウシュ ナビヘ</td>
+					<td>diffusion obtained, to navigation</td>
+					<td>Diffusion missile data downloaded</td>
+			</tr>
+			<tr>
+					<td>087</td>
+					<td>57</td>
+					<td>TOANKOKUOKU</td>
+					<td>アンコク カクシヲ サガセ</td>
+					<td>find dark hidden</td>
+					<td>Navigation room leaving AQA</td>
+			</tr>
+			<tr>
+					<td>088</td>
+					<td>58</td>
+					<td>TOSHUTTER</td>
+					<td>アンコクナビデ コウシン</td>
+					<td>dark navigation update</td>
+					<td>Navigation room entering NOC</td>
+			</tr>
+			<tr>
+					<td>089</td>
+					<td>59</td>
+					<td>SHUTTER</td>
+					<td>アンコクノ オクヘ</td>
+					<td>to dark interior</td>
+					<td>Restricted Zone warning</td>
+			</tr>
+			<tr>
+					<td>090</td>
+					<td>5A</td>
+					<td>SHUTTER2</td>
+					<td>シャッター ジシン</td>
+					<td>shutter earthquake</td>
+					<td>Triggered BOX 2 rumble</td>
+			</tr>
+			<tr>
+					<td>091</td>
+					<td>5B</td>
+					<td>WAVEB</td>
+					<td>アンコクノ オクヘ2</td>
+					<td>to dark interior 2</td>
+					<td>Wave beam ability recovered</td>
+			</tr>
+			<tr>
+					<td>092</td>
+					<td>5C</td>
+					<td>TOGOKUHIKEN</td>
+					<td>ゴクヒ デモ</td>
+					<td>secrecy demo</td>
+					<td>Restricted Laboratory explosion</td>
+			</tr>
+			<tr>
+					<td>093</td>
+					<td>5D</td>
+					<td>RANSHA</td>
+					<td>ランシャ アンド タイマー</td>
+					<td>random shooting and timer</td>
+					<td>60 seconds to detachment</td>
+			</tr>
+			<tr>
+					<td>094</td>
+					<td>5E</td>
+					<td>TOKIRIHANA</td>
+					<td>キリハナシ</td>
+					<td>detachment</td>
+					<td>Escaped Restricted Laboratory</td>
+			</tr>
+			<tr>
+					<td>095</td>
+					<td>5F</td>
+					<td>KIRIHANA</td>
+					<td>カサイゴ コウシン</td>
+					<td>after fire update</td>
+					<td>Navigation room after Restricted Laboratory</td>
+			</tr>
+			<tr>
+					<td>096</td>
+					<td>60</td>
+					<td>DOWNBOSS7</td>
+					<td>ボス7 タオシ ダッシュツ</td>
+					<td>defeated boss 7, escape</td>
+					<td>Screw attack ability regained</td>
+			</tr>
+			<tr>
+					<td>097</td>
+					<td>61</td>
+					<td>TOOPE</td>
+					<td>シンジツ</td>
+					<td>truth</td>
+					<td>Navigation room leaving SRX</td>
+			</tr>
+			<tr>
+					<td>098</td>
+					<td>62</td>
+					<td>TOOPEMONO</td>
+					<td>モノローグ</td>
+					<td>monologue</td>
+					<td>End of first conversation</td>
+			</tr>
+			<tr>
+					<td>099</td>
+					<td>63</td>
+					<td>TOOPE2</td>
+					<td>キドウヲ カエロ</td>
+					<td>change orbit</td>
+					<td>Second conversation</td>
+			</tr>
+			<tr>
+					<td>100</td>
+					<td>64</td>
+					<td>TOOPE3</td>
+					<td>アダム サイド コウシン</td>
+					<td>adam second update</td>
+					<td>Skipped by not talking to computer</td>
+			</tr>
+			<tr>
+					<td>101</td>
+					<td>65</td>
+					<td>INTOOPE</td>
+					<td>オペレーションニ ハイル</td>
+					<td>enter operation</td>
+					<td>Entered operations deck</td>
+			</tr>
+			<tr>
+					<td>102</td>
+					<td>66</td>
+					<td>DOWNSAX</td>
+					<td>SAXヲ タオス</td>
+					<td>defeated SA-X</td>
+					<td>SA-X defeated</td>
+			</tr>
+			<tr>
+					<td>103</td>
+					<td>67</td>
+					<td>KIDOUKAE</td>
+					<td>キドウヲ カエル</td>
+					<td>orbit changed</td>
+					<td>Orbit changed</td>
+			</tr>
+			<tr>
+					<td>104</td>
+					<td>68</td>
+					<td>ESCAPE</td>
+					<td>キドウヘンコウゴ コウシン</td>
+					<td>update after orbit change</td>
+					<td>Skipped by not talking to computer [unused]</td>
+			</tr>
+			<tr>
+					<td>105</td>
+					<td>69</td>
+					<td>OMEGA</td>
+					<td>メトロイド ト セントウ</td>
+					<td>fight with metroid</td>
+					<td>Entered ship room</td>
+			</tr>
+			<tr>
+					<td>106</td>
+					<td>6A</td>
+					<td>DOWNSAX2</td>
+					<td>オメガ SAXヲ タオス</td>
+					<td>omega killed SA-X</td>
+					<td>SA-X killed by Omega Metroid</td>
+			</tr>
+			<tr>
+					<td>107</td>
+					<td>6B</td>
+					<td>ICEBEAM</td>
+					<td>アイスビーム カクトク</td>
+					<td>ice beam aquired</td>
+					<td>Ice beam ability recovered</td>
+			</tr>
+			<tr>
+					<td>108</td>
+					<td>6C</td>
+					<td>DOWNOMEGA</td>
+					<td>メトロイド ヲ タオス</td>
+					<td>defeated Metroid</td>
+					<td>Omega Metroid defeated</td>
+			</tr>
+			<tr>
+					<td>109</td>
+					<td>6D</td>
+					<td>END</td>
+					<td>エンド</td>
+					<td>end</td>
+					<td>Escaped on ship</td>
+			</tr>
+	</tbody>
+</table> </div>
+
+  </article>
+
+
+
+          
+          
+          <div class="gdoc-page__footer flex flex-wrap justify-between">
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+    
+
+    
+      
+    
+
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+
+  
+
+
+
+
+<span class="gdoc-page__nav">
+  
+</span>
+<span class="gdoc-page__nav">
+  
+</span>
+
+            
+          </div>
+          
+        </div>
+      </main>
+
+      <footer class="gdoc-footer">
+  <nav class="container flex">
+    <div>
+      <section class="flex flex-wrap align-center">
+        <span class="gdoc-footer__item gdoc-footer__item--row">
+          Built with <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> and <svg class="gdoc-icon gdoc_heart"><use xlink:href="#gdoc_heart"></use></svg>
+
+        </span>
+        
+        
+      </section>
+      
+        <section class="flex flex-wrap align-center">
+          <span class="gdoc-footer__item">
+            Content licensed under
+
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="gdoc-footer__link no-wrap">CC BY-SA 4.0</a>
+          </span>
+        </section>
+      
+    </div>
+    
+      <div class="flex flex-25 justify-end">
+        <span class="gdoc-footer__item text-right">
+          <a class="gdoc-footer__link fake-link" href="#" aria-label="Back to top">
+            <svg class="gdoc-icon gdoc_keyboard_arrow_up">
+              <use xlink:href="#gdoc_keyboard_arrow_up"></use>
+            </svg>
+            <span class="hidden-mobile">Back to top</span>
+          </a>
+        </span>
+      </div>
+    
+  </nav>
+</footer>
+
+    </div>
+
+    
+  </body>
+</html>
