@@ -1,5 +1,5 @@
 ---
-title: Back Door to Sector 6 (NOC)
+title: Restricted Back Door
 resources:
     - name: "0x3E.png"
       src: "0x3E.png"

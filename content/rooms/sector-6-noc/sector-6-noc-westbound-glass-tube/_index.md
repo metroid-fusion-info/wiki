@@ -1,5 +1,5 @@
 ---
-title: Glass Tube to Sector 4 (AQA)
+title: Sector 6 (NOC) Westbound Glass Tube
 resources:
     - name: "0x24.png"
       src: "0x24.png"
