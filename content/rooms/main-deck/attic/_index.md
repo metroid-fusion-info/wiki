@@ -16,3 +16,6 @@ This room is sometimes also referred to as "Arachnus Alcove".
 Internal Room ID: 0x54  
 Adjacent Rooms:
 - [Arachnus Arena](../arachnus-arena/) (left)
+
+### Items
+- Energy Tank
