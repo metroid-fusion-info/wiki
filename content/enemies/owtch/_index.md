@@ -8,7 +8,8 @@ resources:
 
 {{< columns >}}
 
-Owtches crawl along walls and slopes. If they hit a corner, then they will continue crawling alongside the corner.
+Owtches crawl along walls and slopes. If they hit a corner, then they will continue crawling alongside the corner.  
+They have [unused animations](https://youtu.be/WGnwul2oWMc?t=703) for moving at a different speed.
 
 Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/owtch.c
 

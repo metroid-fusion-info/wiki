@@ -1,14 +1,20 @@
 ---
 title: Powamp
+resources:
+    - name: "powamp.png"
+      src: "powamp.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Powamp
+Powamps hover around in place, inflating or deflating their head depending on whether Samus is near them or not.
 
-TODO: writeup, image
+They have an [unused inflated animation](https://youtu.be/WGnwul2oWMc?t=1044) which is missing spikes on the sides, as well as for an unused spike projectile, indicating that they may have been intended to be more aggressive than their final version.
 
 <--->
+
+{{< img name="powamp.png" size="origin" >}}
 
 {{< columns >}}
 
