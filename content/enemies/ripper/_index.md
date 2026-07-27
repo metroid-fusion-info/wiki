@@ -1,14 +1,18 @@
 ---
 title: Ripper
+resources:
+    - name: "ripper.png"
+      src: "ripper.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Ripper
-
-TODO: writeup, image
+Rippers fly back and forth in a straight line, turning around when they hit a wall.
 
 <--->
+
+{{< img name="ripper.png" size="origin" >}}
 
 {{< columns >}}
 
