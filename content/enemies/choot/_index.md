@@ -1,14 +1,27 @@
 ---
 title: Choot
+resources:
+    - name: "choot.png"
+      src: "choot.png"
+      title: ""
+    - name: "spit.png"
+      src: "spit.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Choot
+Choot's lay still until Samus gets near them, at which point they rise up ~7 tiles into the air, and then spit underneath them approximately every second.
 
-TODO: writeup, images
+Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/choot.c
 
 <--->
+
+{{< tabs "choot-data" >}}
+
+{{< tab "Choot" >}}
+
+{{< img name="choot.png" size="origin" >}}
 
 {{< columns >}}
 
@@ -45,9 +58,10 @@ TODO: writeup, images
 
 {{</ columns >}}
 
-{{< center >}}
-**Spit**
-{{</ center >}}
+{{< /tab >}}
+{{< tab "Spit" >}}
+
+{{< img name="spit.png" size="origin" >}}
 
 |                   |      |
 |-------------------|-----:|
@@ -58,6 +72,10 @@ TODO: writeup, images
 | Internal ID       |0x3E (Secondary)|
 | Weaknesses        | None |
 
+{{< /tab >}}
+{{< /tabs >}}
 
 {{</ columns >}}
+
+
 
