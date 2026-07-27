@@ -6,7 +6,7 @@ title: Namihe
 
 Namihe
 
-TODO: writeup, image
+TODO: writeup, images
 
 <--->
 

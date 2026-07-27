@@ -6,7 +6,7 @@ title: Memu
 
 Memu
 
-TODO: writeup, image
+TODO: writeup, image, naming
 
 <--->
 

@@ -6,7 +6,7 @@ title: Moto
 
 Moto
 
-TODO: writeup, image
+TODO: writeup, images
 
 <--->
 

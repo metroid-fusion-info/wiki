@@ -6,7 +6,7 @@ title: Geruboss
 
 Geruboss
 
-TODO: writeup, image
+TODO: writeup, image, naming
 
 <--->
 
