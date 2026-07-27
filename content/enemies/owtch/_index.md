@@ -1,14 +1,20 @@
 ---
 title: Owtch
+resources:
+    - name: "owtch.png"
+      src: "owtch.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Owtch
+Owtches crawl along walls and slopes. If they hit a corner, then they will continue crawling alongside the corner.
 
-TODO: writeup, image
+Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/owtch.c
 
 <--->
+
+{{< img name="owtch.png" size="origin" >}}
 
 {{< columns >}}
 
