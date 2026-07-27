@@ -123,3 +123,8 @@ enableRobotsTXT = true
   [params.geekdocContentLicense]
     name = "CC BY-SA 4.0"
     link = "https://creativecommons.org/licenses/by-sa/4.0/"
+
+
+[params.render_hooks.link]
+errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+highlightBroken = true # true or false (default)

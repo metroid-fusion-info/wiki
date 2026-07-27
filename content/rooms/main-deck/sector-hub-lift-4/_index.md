@@ -13,4 +13,4 @@ Internal Room ID: 0x1A
 Adjacent Rooms:
 - [Sector Hub Lift 2](../sector-hub-lift-2/) (left)
 - [Sector Hub Lift 6](../sector-hub-lift-6/) (right)
-- [Sector 4 - Sector 4 (AQA) Entrance Elevator](../../sector-4-aqa/sector-4-(aqa)-entrance-elevator/) (bottom)
+- [Sector 4 - Sector 4 (AQA) Entrance Elevator](../../sector-4-aqa/sector-4-aqa-entrance-elevator/) (bottom)

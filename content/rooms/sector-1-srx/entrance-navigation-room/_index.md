@@ -11,5 +11,5 @@ resources:
 ### Metadata
 Internal Room ID: 0x2  
 Adjacent Rooms:
-- [Sector 1 (SRX) Entrance Elevator](../sector-1-(srx)-entrance-elevator/) (left)
+- [Sector 1 (SRX) Entrance Elevator](../sector-1-srx-entrance-elevator/) (left)
 - [Entrance Save Room](../entrance-save-room/) (right)

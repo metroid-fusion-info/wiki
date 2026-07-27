@@ -12,4 +12,4 @@ resources:
 Internal Room ID: 0x2  
 Adjacent Rooms:
 - [Entrance Save Room](../entrance-save-room/) (left)
-- [Sector 4 (AQA) Entrance Elevator](../sector-4-(aqa)-entrance-elevator/) (right)
+- [Sector 4 (AQA) Entrance Elevator](../sector-4-aqa-entrance-elevator/) (right)

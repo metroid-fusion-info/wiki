@@ -12,4 +12,4 @@ resources:
 Internal Room ID: 0x1B  
 Adjacent Rooms:
 - [Sector Hub Lift 4](../sector-hub-lift-4/) (left)
-- [Sector 6 - Sector 6 (NOC) Entrance Elevator](../../sector-6-noc/sector-6-(noc)-entrance-elevator/) (bottom)
+- [Sector 6 - Sector 6 (NOC) Entrance Elevator](../../sector-6-noc/sector-6-noc-entrance-elevator/) (bottom)
