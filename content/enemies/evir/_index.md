@@ -4,7 +4,7 @@ title: Evir
 
 {{< columns size=large >}}
 
-Evir TODO: whats the difference between main and collision?
+Evir TODO: whats the difference between main and collision? Also cleanup, writeup, images
 
 <--->
 

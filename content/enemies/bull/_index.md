@@ -6,6 +6,8 @@ title: Bull
 
 Bull
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}

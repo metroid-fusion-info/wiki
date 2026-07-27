@@ -6,6 +6,8 @@ title: Zombie
 
 Zombie
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

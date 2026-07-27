@@ -6,6 +6,8 @@ title: Choot
 
 Choot
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}

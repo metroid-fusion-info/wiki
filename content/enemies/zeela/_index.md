@@ -7,6 +7,8 @@ title: Zeela
 
 Zeela
 
+TODO: writeup, images, think how to treat red zeela. likely tabbed?
+
 <--->
 
 {{< columns >}}

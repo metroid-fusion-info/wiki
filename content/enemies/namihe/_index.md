@@ -6,6 +6,8 @@ title: Namihe
 
 Namihe
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

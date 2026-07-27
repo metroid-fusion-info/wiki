@@ -6,6 +6,8 @@ title: Ripper
 
 Ripper
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

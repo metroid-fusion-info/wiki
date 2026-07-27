@@ -6,6 +6,8 @@ title: Geruda
 
 Geruda
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}

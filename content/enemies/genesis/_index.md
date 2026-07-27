@@ -6,6 +6,8 @@ title: Genesis
 
 Genesis
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}

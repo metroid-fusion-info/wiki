@@ -6,6 +6,8 @@ title: Moto
 
 Moto
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

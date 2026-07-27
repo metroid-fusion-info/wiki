@@ -6,6 +6,8 @@ title: Geruboss
 
 Geruboss
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

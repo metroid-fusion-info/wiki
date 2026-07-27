@@ -6,6 +6,8 @@ title: Lava Plume
 
 Lava plume
 
+TODO: writeup, iamge
+
 <--->
 
 {{< center >}}

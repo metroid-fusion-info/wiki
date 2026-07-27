@@ -6,6 +6,8 @@ title: Zozoro
 
 Zozoro
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

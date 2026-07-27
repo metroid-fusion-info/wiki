@@ -6,6 +6,8 @@ title: Atmospheric Stabilizer
 
 Atmospheric Stabilizer Parasite
 
+TODO: writeup, cleanup, images
+
 <--->
 
 {{< columns >}}

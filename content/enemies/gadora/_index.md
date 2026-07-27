@@ -6,6 +6,8 @@ title: Gadora
 
 Gadora
 
+TODO: wirteup, cleanup, iamges
+
 <--->
 
 {{< center >}}

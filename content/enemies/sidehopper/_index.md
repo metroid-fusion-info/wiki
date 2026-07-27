@@ -6,6 +6,8 @@ title: Sidehopper
 
 Sidehopper
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

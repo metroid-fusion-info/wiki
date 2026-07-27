@@ -6,6 +6,8 @@ title: Missile Tank Mimic
 
 Fake missile tank
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

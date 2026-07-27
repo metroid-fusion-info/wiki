@@ -2,7 +2,7 @@
 title: Skultera
 ---
 
-TODO: get proper difference between the two small skulteras
+TODO: get proper difference between the two small skulteras. Also writeup, clenaup and images.
 
 {{< columns size=large >}}
 

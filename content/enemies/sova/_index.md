@@ -6,6 +6,8 @@ title: Sova
 
 Sova
 
+TODO: writeup, imagees
+
 <--->
 
 {{< columns >}}

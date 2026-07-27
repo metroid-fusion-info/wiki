@@ -6,6 +6,8 @@ title: Puyo
 
 Puyo
 
+TODO: writeup, image
+
 <--->
 
 {{< columns >}}

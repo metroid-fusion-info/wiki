@@ -6,6 +6,8 @@ title: Zoro
 
 Zoro
 
+TODO: rename, this one is called zero, writeup, images, tab in?
+
 <--->
 
 {{< columns >}}

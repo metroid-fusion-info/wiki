@@ -6,6 +6,8 @@ title: Energy Tank Mimic
 
 Fake energy tank
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}

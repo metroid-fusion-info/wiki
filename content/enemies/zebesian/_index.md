@@ -2,7 +2,7 @@
 title: Zebesian
 ---
 
-TODO: 
+TODO: cleanup, get proper names, potentially split, writeup, images.
 
 {{< columns size=large >}}
 

@@ -6,6 +6,8 @@ title: Power Bomb Geron
 
 Power Bomb Geron
 
+TODO: writeup, images, cleanup.
+
 <--->
 
 {{< columns >}}

@@ -6,6 +6,8 @@ title: Missile Geron
 
 Missile Geron
 
+TODO: writeup, internal id naming, images
+
 <--->
 
 {{< columns >}}

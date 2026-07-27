@@ -2,7 +2,7 @@
 title: Kihunter
 ---
 
-TODO: sort this out
+TODO: sort this out. naming, cleanup, images and writing.
 
 {{< columns size=large >}}
 

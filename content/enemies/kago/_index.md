@@ -6,6 +6,8 @@ title: Kago
 
 Kago
 
+TODO: writeup, images
+
 <--->
 
 {{< columns >}}
