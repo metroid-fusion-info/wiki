@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>X-B.O.X. on Metroid Fusion Wiki</title>
-		<link>https://wiki.metroidfusion.run/bosses/x-b.o.x./</link>
+		<link>https://wiki.metroidfusion.run/bosses/x-b.o.x2/</link>
 		<description>Recent content in X-B.O.X. on Metroid Fusion Wiki</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://wiki.metroidfusion.run/bosses/x-b.o.x./index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://wiki.metroidfusion.run/bosses/x-b.o.x2/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
