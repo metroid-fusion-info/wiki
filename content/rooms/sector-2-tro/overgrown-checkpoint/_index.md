@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x39, 0x3A  
+Internal Room IDs: 0x39, 0x3A\
 Adjacent Rooms:
 - [Broom Closet](../broom-closet/) (top left)
 - [Overgrown Hallway](../overgrown-hallway/) (top right)

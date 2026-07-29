@@ -9,7 +9,7 @@ resources:
 {{< img name="0x50.png" size=tiny >}}
 
 ### Metadata
-Internal Room IDs: 0x50  
+Internal Room IDs: 0x50\
 Adjacent Rooms:
 - [Restricted Laboratory Shaft](../restricted-laboratory-shaft/) (top right)
 - [Restricted Laboratory Shaft](../restricted-laboratory-shaft/) (bottom right)

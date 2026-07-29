@@ -29,7 +29,7 @@ resources:
 This room is sometimes also known as "Blue Zorro Room".
 
 ### Metadata
-Internal Room ID: 0xA  
+Internal Room ID: 0xA\
 Adjacent Rooms:
 - [Maintenance Wing](../maintenance-wing/) (top left)
 - [Puyo Corridor](../puyo-corridor/) (bottom right)

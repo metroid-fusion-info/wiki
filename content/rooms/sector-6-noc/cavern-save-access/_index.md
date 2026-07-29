@@ -9,7 +9,7 @@ resources:
 {{< img name="0x28.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x28  
+Internal Room ID: 0x28\
 Adjacent Rooms:
 - [Clogged Cavern](../clogged-cavern/) (left)
 - [Cavern Save Room](../cavern-save-room/) (right)

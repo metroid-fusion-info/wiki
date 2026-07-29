@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x27, 0x28  
+Internal Room ID: 0x27, 0x28\
 Adjacent Rooms:
 - [Security Shaft East](../security-shaft-east/) (left)
 - [Cellar Save Room](../cellar-save-room/) (right)

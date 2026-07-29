@@ -29,12 +29,12 @@ B.O.X. is the fifth boss fought in a normal playthrough and is one of the two bo
 
 ### Jumping
 
-B.O.X. will jump at the start of the fight, as well as after being attacked or after skidding from ramming. If Samus is above it, it will start to throw a bomb.  
+B.O.X. will jump at the start of the fight, as well as after being attacked or after skidding from ramming. If Samus is above it, it will start to throw a bomb.\
 Samus is unable to be hit by its jumping while on the monkey bars.
 
 ### Throwing a Bomb
 
-B.O.X. throws a bomb in an arc. The bomb will explode after a few seconds and spawn two flame columns from its side which will move in an alternating high-low pattern to the walls of the room. Being in the center of the bomb when it explodes lets you dodge the flames.  
+B.O.X. throws a bomb in an arc. The bomb will explode after a few seconds and spawn two flame columns from its side which will move in an alternating high-low pattern to the walls of the room. Being in the center of the bomb when it explodes lets you dodge the flames.\
 After throwing a bomb, B.O.X. will throw another bomb if Samus if above it. If not, it will either go back to jumping or start ramming.
 
 ### Ramming
@@ -143,7 +143,7 @@ After B.O.X. has been defeated, it will slowly crawl over to the right side of t
 <--->
 
 {{< center >}}
-**Weaknesses**  
+**Weaknesses**\
 The bomb is immune to projectiles and thus this data goes unused
 {{</ center >}}
 
@@ -218,8 +218,8 @@ This video goes into both of them. Relevant timestamps are:
 
 ### Monkey Bar Strat
 
-Start the fight by jumping up and shooting a Charge Beam shot at the peak of your jump followed by a Super Missile. Then jump onto the far right of the monkey bar, and shoot at it until it starts preparing to throw a bomb. Move to the left to not get hit by it when it launches, and keep shooting until it does.  
-Should it manage to do another jump, move towards the far right of the monkey bar and wait for it to jump beneath you before finishing it off. This is because the jump takes far less time than the slow crawling of the death animation.  
+Start the fight by jumping up and shooting a Charge Beam shot at the peak of your jump followed by a Super Missile. Then jump onto the far right of the monkey bar, and shoot at it until it starts preparing to throw a bomb. Move to the left to not get hit by it when it launches, and keep shooting until it does.\
+Should it manage to do another jump, move towards the far right of the monkey bar and wait for it to jump beneath you before finishing it off. This is because the jump takes far less time than the slow crawling of the death animation.\
 Below are some reference images for positioning:
 {{< columns >}}
 
@@ -236,9 +236,9 @@ Below are some reference images for positioning:
 
 Commonly also referred to as "Quick Kill".
 
-This strat has risk for quite a lot of damage if not practiced well with it.  
-Start the fight by jumping into B.O.X. and shooting to Super Missiles straight down into it. Get damage boosted, shoot once diagonally down, then keep shooting straight into it, while you're in the right side of his shell hitbox. Jump out to the right wall when your i-frames are close to running out. Then Walljump, shoot 2 Missiles down and repeat.  
-An ideal fight lasts 2 rounds. If you don't manage to kill it in that time, you can switch up the strategy where instead of jumping above it and getting damage boosted, you wait on the right side to get hit by the bomb and move into its shell hitbox during your i-frames. It is a bit slower but will make you take approximately half as much damage.  
+This strat has risk for quite a lot of damage if not practiced well with it.\
+Start the fight by jumping into B.O.X. and shooting to Super Missiles straight down into it. Get damage boosted, shoot once diagonally down, then keep shooting straight into it, while you're in the right side of his shell hitbox. Jump out to the right wall when your i-frames are close to running out. Then Walljump, shoot 2 Missiles down and repeat.\
+An ideal fight lasts 2 rounds. If you don't manage to kill it in that time, you can switch up the strategy where instead of jumping above it and getting damage boosted, you wait on the right side to get hit by the bomb and move into its shell hitbox during your i-frames. It is a bit slower but will make you take approximately half as much damage.\
 Below are some reference images for positioning:
 {{< columns >}}
 
@@ -270,13 +270,13 @@ In MFOR, B.O.X. spawn behaviour has been changed to appear once you have unlocke
 
 ### MARS
 
-In randomizers based off of MARS, B.O.X. will always be spawned, but has its spawn position moved further to the left. This makes it impossible to perform the standard speedrunning strats on it.  
+In randomizers based off of MARS, B.O.X. will always be spawned, but has its spawn position moved further to the left. This makes it impossible to perform the standard speedrunning strats on it.\
 However, a variation of the [damage boost strat](#damage-boost-strat) is possible. You can see a video demonstrating it here: 
 {{< youtube GMi0jtqOZqw >}}
 
-Start by doing a neutral jump near the activation trigger of B.O.X. and shooting a Charge Beam and a Missile at a downwards angle. When it’s preparing to jump again, do a neutral jump while moving Samus towards B.O.X. in mid air and shoot another Missile at a downwards angle. This is done twice.  
-If your starting shot at it was fast enough where it didn't move to the left, then its third jump to the right will make it bump against the wall, which is when you should be switching to the Quick Kill strat by spin jumping and shooting Missiles down at it from straight above. If your initial shot was too slow, then start the Quick Kill strat after B.O.X. jumps one more time.  
-From there on, you continue with the pattern of going into the shell hitbox to directly shoot at the weak spot, and jumping out of it before running out of i-frames. It's recommended to use the fire bombs for damage boosting into it, since they do less contact damage than B.O.X. itself, and you won't necessarily have a lot of health.  
+Start by doing a neutral jump near the activation trigger of B.O.X. and shooting a Charge Beam and a Missile at a downwards angle. When it’s preparing to jump again, do a neutral jump while moving Samus towards B.O.X. in mid air and shoot another Missile at a downwards angle. This is done twice.\
+If your starting shot at it was fast enough where it didn't move to the left, then its third jump to the right will make it bump against the wall, which is when you should be switching to the Quick Kill strat by spin jumping and shooting Missiles down at it from straight above. If your initial shot was too slow, then start the Quick Kill strat after B.O.X. jumps one more time.\
+From there on, you continue with the pattern of going into the shell hitbox to directly shoot at the weak spot, and jumping out of it before running out of i-frames. It's recommended to use the fire bombs for damage boosting into it, since they do less contact damage than B.O.X. itself, and you won't necessarily have a lot of health.\
 Below some reference images for positioning:
 {{< columns >}}
 

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x21.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x21  
+Internal Room ID: 0x21\
 Adjacent Rooms:
 - [Twin Junctions West](../twin-junctions-west/) (top left)
 - [Twin Junctions Save Room](../twin-junctions-save-room/) (top right)

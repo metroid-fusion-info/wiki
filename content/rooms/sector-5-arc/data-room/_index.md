@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x5, 0x10  
+Internal Room ID: 0x5, 0x10\
 Adjacent Rooms:
 - [Crow's Nest](../crows-nest/) (top left)
 - [Ruined Corridor](../ruined-corridor/) (top right)

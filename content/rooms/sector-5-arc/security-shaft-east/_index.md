@@ -22,7 +22,7 @@ resources:
 This room is sometimes also known as "Security Access".
 
 ### Metadata
-Internal Room IDs: 0x16, 0x15  
+Internal Room IDs: 0x16, 0x15\
 Adjacent Rooms:
 - [Ripper's Treasure](../rippers-treasure/) (top right)
 - [Level 3 Security Room](../level-3-security-room/) (middle left)

@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x5  
+Internal Room ID: 0x5\
 Adjacent Rooms:
 - [Bob's Abode](../bob's-abode/) (top left)
 - [Entrance Lobby](../entrance-lobby/) (bottom left)

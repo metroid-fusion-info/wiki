@@ -9,7 +9,7 @@ resources:
 {{< img name="0x40.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x40  
+Internal Room ID: 0x40\
 Adjacent Rooms:
 - [Restricted Corridor](../restricted-corridor/) (left)
 - [Restricted Back Door](../restricted-back-door/) (right)

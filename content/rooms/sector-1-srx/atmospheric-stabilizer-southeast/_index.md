@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xF  
+Internal Room ID: 0xF\
 Adjacent Rooms:
 - [Stabilizer Storage](../stabilizer-storage/) (top left)
 - [Tourian Trapdoor](../tourian-trapdoor/) (bottom left)

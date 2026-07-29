@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x2E  
+Internal Room ID: 0x2E\
 Adjacent Rooms:
 - [Main Elevator Ventilation](../main-elevator-ventilation/) (left)
 - [Dark Stairwell](../dark-stairwell/) (right)

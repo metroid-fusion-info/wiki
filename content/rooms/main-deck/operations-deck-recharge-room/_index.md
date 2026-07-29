@@ -9,7 +9,7 @@ resources:
 {{< img name="0x51.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x51  
+Internal Room ID: 0x51\
 Adjacent Rooms:
 - [Operations Deck Save Room](../operations-deck-save-room/) (left)
 - [Operations Deck](../operations-deck/) (right)

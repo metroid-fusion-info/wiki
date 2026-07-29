@@ -9,7 +9,7 @@ resources:
 {{< img name="0x28.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x28  
+Internal Room ID: 0x28\
 Adjacent Rooms:
 - [Charge Core Upper Access](../charge-core-upper-access/) (top right)
 - [Charge Core Lower Access](../charge-core-lower-access/) (bottom right)

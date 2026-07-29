@@ -9,7 +9,7 @@ resources:
 {{< img name="0x1B.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x1B  
+Internal Room ID: 0x1B\
 Adjacent Rooms:
 - [Neo-Ridley Arena Access](../neo-ridley-arena-access/) (right)
 

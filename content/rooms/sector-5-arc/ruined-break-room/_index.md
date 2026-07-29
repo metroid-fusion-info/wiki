@@ -11,7 +11,7 @@ resources:
 This room is sometimes also known as "Crab Room".
 
 ### Metadata
-Internal Room ID: 0x2F  
+Internal Room ID: 0x2F\
 Adjacent Rooms:
 - [Nightmare Hub](../nightmare-hub/) (right)
 

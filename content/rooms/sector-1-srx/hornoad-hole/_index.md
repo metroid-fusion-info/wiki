@@ -22,7 +22,7 @@ This room is sometimes also referred to as "Entry Hallway".
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x5  
+Internal Room ID: 0x5\
 Adjacent Rooms:
 - [Atmospheric Stabilizer Northwest](../atmospheric-stabilizer-northwest/) (left)
 - [Twin Junctions West](../twin-junctions-west/) (right)

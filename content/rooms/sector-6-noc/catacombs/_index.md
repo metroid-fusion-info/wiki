@@ -11,7 +11,7 @@ resources:
 This room is sometimes also referred to as "Free E-Tank Room" or "Power Bomb Wall".
 
 ### Metadata
-Internal Room ID: 0x1A  
+Internal Room ID: 0x1A\
 Adjacent Rooms:
 - [Clogged Cavern](../clogged-cavern/) (top right)
 - [Weapons Testing Grounds](../weapons-testing-grounds/) (bottom right)

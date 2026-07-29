@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x2A, 0x29  
+Internal Room IDs: 0x2A, 0x29\
 Adjacent Rooms:
 - [Main Elevator](../main-elevator/) (left)
 - [Quarantine Junction](../quarantine-junction/) (right)

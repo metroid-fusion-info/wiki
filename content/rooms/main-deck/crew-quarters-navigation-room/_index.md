@@ -9,7 +9,7 @@ resources:
 {{< img name="0x9.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x9  
+Internal Room ID: 0x9\
 Adjacent Rooms:
 - [Concourse](../concourse/) (left)
 - [Crew Quarters West](../crew-quarters-west/) (right)

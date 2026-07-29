@@ -9,7 +9,7 @@ resources:
 {{< img name="0x32.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x32  
+Internal Room ID: 0x32\
 Adjacent Rooms:
 - [Cathedral](../cathedral/) (right)
 

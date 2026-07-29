@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x18  
+Internal Room ID: 0x18\
 Adjacent Rooms:
 - [Main Elevator Shaft](../main-elevator-shaft/) (top)
 - [Sector Hub Lift 1](../sector-hub-lift-1/) (left)

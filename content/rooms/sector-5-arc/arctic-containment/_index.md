@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x7, 0xF  
+Internal Room IDs: 0x7, 0xF\
 Adjacent Rooms:
 - [Training Grounds](../training-grounds/) (top left)
 - [Crow's Nest](../crows-nest/) (top right)

@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0xD, 0x2E  
+Internal Room IDs: 0xD, 0x2E\
 Adjacent Rooms:
 - [Reo Room](../reo-room/) (top right)
 - [Ripper Tower](../ripper-tower/) (upper middle left)

@@ -9,6 +9,6 @@ resources:
 {{< img name="0x27.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x27  
+Internal Room ID: 0x27\
 Adjacent Rooms:
 - [Aquarium Shaft](../aquarium-shaft/) (left)

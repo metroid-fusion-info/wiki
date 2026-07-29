@@ -9,6 +9,6 @@ resources:
 {{< img name="0x49.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x49  
+Internal Room ID: 0x49\
 Adjacent Rooms:
 - [Main Elevator](../main-elevator/) (right)

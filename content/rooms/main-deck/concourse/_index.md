@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x15  
+Internal Room ID: 0x15\
 Adjacent Rooms:
 - [Crew Quarters Navigation Room](../crew-quarters-navigation-room/) (top right)
 - [Concourse Recharge Room](../concourse-recharge-room/) (middle right)

@@ -11,6 +11,6 @@ resources:
 A beta variant of [Neo-Ridley Arena](../../neo-ridley-arena/).
 
 ### Metadata
-Internal Room ID: 0x35  
+Internal Room ID: 0x35\
 Adjacent Rooms:
 - [Neo-Ridley Arena Access](../../neo-ridley-arena-access/)

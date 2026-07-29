@@ -9,7 +9,7 @@ resources:
 {{< img name="0x29.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x29  
+Internal Room ID: 0x29\
 Adjacent Rooms:
 - [Arctic Underside](../arctic-underside/) (left)
 - [Cellar](../cellar/) (right)

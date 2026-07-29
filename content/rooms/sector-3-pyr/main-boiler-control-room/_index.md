@@ -9,7 +9,7 @@ resources:
 {{< img name="0x19.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x19  
+Internal Room ID: 0x19\
 Adjacent Rooms:
 - [Main Boiler](../main-boiler/) (right)
 

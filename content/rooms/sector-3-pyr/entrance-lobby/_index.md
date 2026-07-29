@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x0  
+Internal Room ID: 0x0\
 Adjacent Rooms:
 - [Entrance Recharge Room](../entrance-recharge-room/) (top left)
 - [Alcove](../alcove/) (top right)

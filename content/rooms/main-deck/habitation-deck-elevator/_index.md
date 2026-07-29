@@ -9,7 +9,7 @@ resources:
 {{< img name="0x4C.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x4C  
+Internal Room ID: 0x4C\
 Adjacent Rooms:
 - [Habitation Deck Entrance](../habitation-deck-entrance/) (left)
 - [Habitation Deck Save Room](../habitation-deck-save-room/) (right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x25.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x25  
+Internal Room ID: 0x25\
 Adjacent Rooms:
 - [Charge Core Arena](../charge-core-arena/) (top left)
 - [Scizer Playground](../sciser-playground/) (top right)

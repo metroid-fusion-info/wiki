@@ -9,6 +9,6 @@ resources:
 {{< img name="0x31.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x31  
+Internal Room ID: 0x31\
 Adjacent Rooms:
 - [Nightmare Hub](../nightmare-hub/) (left)

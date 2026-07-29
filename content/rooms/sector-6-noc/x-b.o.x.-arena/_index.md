@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x10  
+Internal Room ID: 0x10\
 Adjacent Rooms:
 - [X-B.O.X. Arena Access](../x-b.o.x.-arena-access/) (top left)
 - [X-B.O.X. Garage](../x-b.o.x.-garage/) (top right)

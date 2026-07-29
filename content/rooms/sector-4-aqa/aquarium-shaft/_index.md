@@ -9,7 +9,7 @@ resources:
 {{< img name="0xE.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0xE  
+Internal Room ID: 0xE\
 Adjacent Rooms:
 - [Cargo Hold](../cargo-hold/) (top left)
 - [Save Room West](../aquarium-save-room-west/) (top right)

@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xA  
+Internal Room ID: 0xA\
 Adjacent Rooms:
 - [Bob's Abode](../bob's-abode/) (top left)
 - [Namihe's Lair](../namihes-lair/) (middle left)

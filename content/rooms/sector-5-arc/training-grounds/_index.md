@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x3, 0x6  
+Internal Room IDs: 0x3, 0x6\
 Adjacent Rooms:
 - [Training Aerie](../training-aerie/) (top left)
 - [Entrance Lobby](../entrance-lobby/) (middle left)

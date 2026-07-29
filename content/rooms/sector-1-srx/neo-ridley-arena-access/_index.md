@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x1A  
+Internal Room ID: 0x1A\
 Adjacent Rooms:
 - [Neo-Ridley Arena](../neo-ridley-arena/) (left)
 - [Tourian Westen Hub](../tourian-western-hub/) (right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x2E.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x2E  
+Internal Room ID: 0x2E\
 Adjacent Rooms:
 - [Flooded Access](../flooded-access/) (top left)
 - [Flooded Tower](../flooded-tower/) (bottom left)

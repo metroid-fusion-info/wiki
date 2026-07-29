@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x14  
+Internal Room ID: 0x14\
 Adjacent Rooms:
 - [Pump Control Access](../pump-control-access/) (top left)
 - [Breeding Tank Access](../breeding-tank-access/) (top middle)

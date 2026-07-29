@@ -3,7 +3,7 @@ title: List of Events
 
 ---
 
-A list of all event states in the game, with descriptions how they're seen in the debug menu.  
+A list of all event states in the game, with descriptions how they're seen in the debug menu.\
 The decompiled code can be found here: https://github.com/metroidret/mf/blob/main/include/constants/event.h
 
 | Dec | Hex | Text          | Text             | Translation                       | Description                                             |

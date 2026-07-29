@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x18, 0x24  
+Internal Room IDs: 0x18, 0x24\
 Adjacent Rooms:
 - [Main Deck - Silo Tunnel](../../main-deck/silo-tunnel/) (top right)
 - [Overgrown Hallway](../overgrown-hallway/) (bottom left)

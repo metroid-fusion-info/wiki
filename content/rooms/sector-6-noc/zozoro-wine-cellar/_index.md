@@ -11,7 +11,7 @@ resources:
 This room is sometimes also referred to as "Data Access Alcove".
 
 ### Metadata
-Internal Room ID: 0xF  
+Internal Room ID: 0xF\
 Adjacent Rooms:
 - [Warehouse](../warehouse/) (right)
 

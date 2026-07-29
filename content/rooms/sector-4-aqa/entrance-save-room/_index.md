@@ -9,7 +9,7 @@ resources:
 {{< img name="0x1.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x1  
+Internal Room ID: 0x1\
 Adjacent Rooms:
 - [Entrance Recharge Room](../entrance-recharge-room/) (left)
 - [Entrance Navigation Room](../entrance-navigation-room/) (right)

@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x3, 0x1E  
+Internal Room IDs: 0x3, 0x1E\
 Adjacent Rooms:
 - [Courtyard Access](../courtyard-access/) (left)
 - [Entrance Lobby](../entrance-lobby/) (right)

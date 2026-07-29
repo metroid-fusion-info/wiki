@@ -9,7 +9,7 @@ resources:
 {{< img name="0xC.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0xC  
+Internal Room ID: 0xC\
 Adjacent Rooms:
 - [Warehouse](../warehouse/) (left)
 - [Data Room](../data-room/) (right)

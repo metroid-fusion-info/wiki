@@ -9,6 +9,6 @@ resources:
 {{< img name="0x37.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x37  
+Internal Room ID: 0x37\
 Adjacent Rooms:
 - [Zazabi Arena](../zazabi-arena/) (left)

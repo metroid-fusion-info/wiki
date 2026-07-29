@@ -11,7 +11,7 @@ resources:
 This room is sometimes also known as "Screw Block Alcove".
 
 ### Metadata
-Internal Room ID: 0x17  
+Internal Room ID: 0x17\
 Adjacent Rooms:
 - [Pump Control Access](../pump-control-access/) (top left)
 - [Aquarium Shaft](../aquarium-shaft/) (top right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x1A.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x1A  
+Internal Room ID: 0x1A\
 Adjacent Rooms:
 - [Sector Hub Lift 2](../sector-hub-lift-2/) (left)
 - [Sector Hub Lift 6](../sector-hub-lift-6/) (right)

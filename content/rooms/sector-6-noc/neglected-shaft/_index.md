@@ -9,7 +9,7 @@ resources:
 {{< img name="0x14.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x14  
+Internal Room ID: 0x14\
 Adjacent Rooms:
 - [Bull Bend](../bull-bend/) (top right)
 - [Neglected Save Room](../neglected-save-room/) (middle right)

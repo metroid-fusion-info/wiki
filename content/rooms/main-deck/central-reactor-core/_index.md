@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x31, 0x3B  
+Internal Room IDs: 0x31, 0x3B\
 Adjacent Rooms:
 - [Silo Entry](../silo-entry/) (top left)
 - [Silo Tunnel](../silo-tunnel/) (upper middle left)

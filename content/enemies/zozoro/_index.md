@@ -8,7 +8,7 @@ resources:
 
 {{< columns >}}
 
-Zozoros are simple insects that crawl along walls and slopes, and will turn around once they hit a 90° corner. If they're being damaged while they're not on the floor, they will fall down until the hit the floor and then start crawling faster.  
+Zozoros are simple insects that crawl along walls and slopes, and will turn around once they hit a 90° corner. If they're being damaged while they're not on the floor, they will fall down until the hit the floor and then start crawling faster.\
 Zozoro's have several [unused animations](https://youtu.be/WGnwul2oWMc?t=1059), primarily for crawling at different speeds.
 
 Not to be confused with a [Zero](../zoro/).

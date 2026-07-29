@@ -36,7 +36,7 @@ resources:
 This room is sometimes also known as "Before Data Room" or "Data Room Access".
 
 ### Metadata
-Internal Room IDs: 0x1F, 0x7  
+Internal Room IDs: 0x1F, 0x7\
 Adjacent Rooms:
 - [Data Room](../data-room/) (top left)
 - [Courtyard Access](../courtyard-access/) (middle right)

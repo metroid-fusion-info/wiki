@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xC  
+Internal Room ID: 0xC\
 Adjacent Rooms:
 - [Crew Quarters Elevator](../crew-quarters-elevator/) (top right)
 - [Crew Quarters Navigation Room](../crew-quarters-navigation-room/) (bottom left)

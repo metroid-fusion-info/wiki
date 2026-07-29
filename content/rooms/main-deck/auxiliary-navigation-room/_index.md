@@ -9,7 +9,7 @@ resources:
 {{< img name="0x38.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x38  
+Internal Room ID: 0x38\
 Adjacent Rooms:
 - [Silo Checkpoint](../silo-checkpoint/) (left)
 - [Auxiliary Power Station](../auxiliary-power-station/) (right)

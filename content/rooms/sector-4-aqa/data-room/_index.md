@@ -9,6 +9,6 @@ resources:
 {{< img name="0x4.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x4  
+Internal Room ID: 0x4\
 Adjacent Rooms:
 - [Powamp Playhouse](../powamp-playhouse/) (left)

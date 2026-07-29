@@ -9,7 +9,7 @@ resources:
 {{< img name="0x16.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x16  
+Internal Room ID: 0x16\
 Adjacent Rooms:
 - [Tourian Western Hub](../tourian-western-hub/) (left)
 - [Tourian Eastern Hub](../tourian-eastern-hub/) (right)

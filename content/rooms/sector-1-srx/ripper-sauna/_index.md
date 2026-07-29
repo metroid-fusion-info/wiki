@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x24  
+Internal Room ID: 0x24\
 Adjacent Rooms:
 - [Tourian Tower](../tourian-tower/) (left)
 - [Tourian Trapdoor](../tourian-trapdoor/) (right)

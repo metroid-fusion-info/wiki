@@ -9,7 +9,7 @@ resources:
 {{< img name="0xA.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0xA  
+Internal Room ID: 0xA\
 Adjacent Rooms:
 - [Crab Rave](../crab-rave/) (top left)
 - [Atmospheric Stabilizer Central](../atmospheric-stabilizer-central/) (top right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x6.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x6  
+Internal Room ID: 0x6\
 Adjacent Rooms:
 - [Hornoad Hole](../hornoad-hole/) (top left)
 - [Atmospheric Stabilizer Northeast](../atmospheric-stabilizer-northeast/) (top right)

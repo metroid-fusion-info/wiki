@@ -34,7 +34,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x5  
+Internal Room ID: 0x5\
 Adjacent Rooms:
 - [Nocturnal Access](../nocturnal-access/) (top left)
 - [Sector 6 (NOC) Eastbound Glass Tube](../sector-6-noc-eastbound-glass-tube/) (top right)

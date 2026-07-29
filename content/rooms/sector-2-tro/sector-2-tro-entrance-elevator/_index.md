@@ -9,7 +9,7 @@ resources:
 {{< img name="0x1D.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x1D  
+Internal Room ID: 0x1D\
 Adjacent Rooms:
 - [Main Deck - Sector Hub Lift 2](../../main-deck/sector-hub-lift-2/) (top)
 - [Entrance Navigation Room](../entrance-navigation-room/) (right)

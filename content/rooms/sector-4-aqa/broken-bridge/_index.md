@@ -11,7 +11,7 @@ resources:
 This room is sometimes also known as "Collapsed Ceiling".
 
 ### Metadata
-Internal Room ID: 0xA  
+Internal Room ID: 0xA\
 Adjacent Rooms:
 - [Serris Arena](../serris-arena/) (top right)
 - [Breeding Tank](../breeding-tank/) (bottom left)

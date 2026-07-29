@@ -22,7 +22,7 @@ resources:
 Since not all entrances in Arachnus Arena are hatches, this is one of the rare instances where you can leave the fight with a Boss.
 
 ### Metadata
-Internal Room ID: 0x26  
+Internal Room ID: 0x26\
 Adjacent Rooms:
 - [Crew Quarters East](../crew-quarters-east/) (top left)
 - [Attic](../attic/) (top right)

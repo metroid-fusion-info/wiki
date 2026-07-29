@@ -11,6 +11,6 @@ resources:
 A beta variant of [Yakuza Arena](../../yakuza-arena/). Left side does not contain any door objects.
 
 ### Metadata
-Internal Room ID: 0x35  
+Internal Room ID: 0x35\
 Adjacent Rooms:
 - [Silo Scaffolding](../../silo-scaffolding/)

@@ -11,7 +11,7 @@ resources:
 This room is sometimes also referred to as "BOX Attic".
 
 ### Metadata
-Internal Room ID: 0x9  
+Internal Room ID: 0x9\
 Adjacent Rooms:
 - [Sector 3 (PYR) Eastbound Glass Tube](../sector-3-pyr-eastbound-glass-tube/) (top right)
 - [Alcove](../alcove/) (bottom left)

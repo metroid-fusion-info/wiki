@@ -34,7 +34,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xA  
+Internal Room ID: 0xA\
 Adjacent Rooms:
 - [Data Save Room](../data-save-room/) (top left)
 - [Warehouse Access](../warehouse-access/) (top right)

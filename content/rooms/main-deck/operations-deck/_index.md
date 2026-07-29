@@ -34,7 +34,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0xD, 0x4A, 0x55  
+Internal Room IDs: 0xD, 0x4A, 0x55\
 Adjacent Rooms:
 - [Operations Room](../operations-room/) (top left)
 - [Operations Deck Navigation Room](../operations-deck-navigation-room/) (middle left)

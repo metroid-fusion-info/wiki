@@ -9,7 +9,7 @@ resources:
 {{< img name="0x1F.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x1F  
+Internal Room ID: 0x1F\
 Adjacent Rooms:
 - [Sector 6 - Sector 6 (NOC) Eastbound Glass Tube](../../sector-6-noc/sector-6-noc-eastbound-glass-tube) (left)
 - [Magic Box](../magic-box/) (right)

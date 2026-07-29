@@ -9,6 +9,6 @@ resources:
 {{< img name="0x2F.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x2F  
+Internal Room ID: 0x2F\
 Adjacent Rooms:
 - [Aquarium Hub](../aquarium-hub/) (left)

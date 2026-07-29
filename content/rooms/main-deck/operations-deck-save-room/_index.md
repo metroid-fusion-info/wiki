@@ -9,6 +9,6 @@ resources:
 {{< img name="0x2C.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x2C  
+Internal Room ID: 0x2C\
 Adjacent Rooms:
 - [Operations Deck Recharge Room](../operations-deck-recharge-room/) (right)

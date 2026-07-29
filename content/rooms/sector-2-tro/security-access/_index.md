@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x5  
+Internal Room ID: 0x5\
 Adjacent Rooms:
 - [Level 1 Security Room](../level-1-security-room/) (top left)
 - [Level 1 Security Room](../level-1-security-room/) (middle left)

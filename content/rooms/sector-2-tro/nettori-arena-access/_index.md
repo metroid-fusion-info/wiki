@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x14, 0x22  
+Internal Room IDs: 0x14, 0x22\
 Adjacent Rooms:
 - [Nettori Arena](../nettori-arena/) (top right)
 - [Overgrown Spire](../overgrown-spire/) (bottom left)

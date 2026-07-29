@@ -14,7 +14,7 @@ The name "Cheddar Bay" comes from the Evir "guarding" the item and an associatio
 This room is sometimes also known as "Security Access", not to be confused with the [actual Security Access](../security-access/).
 
 ### Metadata
-Internal Room ID: 0x18  
+Internal Room ID: 0x18\
 Adjacent Rooms:
 - [Security Bypass](../security-bypass/) (top left)
 - [Security Access](../security-access/) (bottom left)

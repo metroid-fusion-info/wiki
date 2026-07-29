@@ -9,7 +9,7 @@ resources:
 {{< img name="0x26.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x26  
+Internal Room ID: 0x26\
 Adjacent Rooms:
 - [Kago Roadblock](../kago-roadblock/) (left)
 - [Cellar](../cellar/) (right)

@@ -11,7 +11,7 @@ resources:
 This room is sometimes also known as "Crab Battle".
 
 ### Metadata
-Internal Room ID: 0x29  
+Internal Room ID: 0x29\
 Adjacent Rooms:
 - [Sciser Sanctuary](../sciser-sanctuary/) (left)
 

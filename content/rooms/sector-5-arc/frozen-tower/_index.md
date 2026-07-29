@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xD, 0x2C  
+Internal Room ID: 0xD, 0x2C\
 Adjacent Rooms:
 - [Data Room](../data-room/) (top left)
 - [E-Tank Mimic Den](../e-tank-mimic-den/) (middle left)

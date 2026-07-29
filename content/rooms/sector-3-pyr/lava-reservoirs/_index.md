@@ -9,7 +9,7 @@ resources:
 {{< img name="0xB.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0xB  
+Internal Room ID: 0xB\
 Adjacent Rooms:
 - [Lava Maze](../lava-maze/) (left)
 - [Red Tower](../red-tower/) (right)

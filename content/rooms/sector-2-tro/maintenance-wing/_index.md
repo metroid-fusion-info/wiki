@@ -9,7 +9,7 @@ resources:
 {{< img name="0x2B.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x2B  
+Internal Room ID: 0x2B\
 Adjacent Rooms:
 - [Zig-Zag-Zone](../zig-zag-zone/) (top right)
 - [Cultivation Station](../cultivation-station/) (bottom right)

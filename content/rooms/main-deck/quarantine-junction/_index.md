@@ -9,7 +9,7 @@ resources:
 {{< img name="0x17.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x17  
+Internal Room ID: 0x17\
 Adjacent Rooms:
 - [Main Elevator Access](../main-elevator-access/) (left)
 - [Dark Stairwell](../dark-stairwell/) (right)

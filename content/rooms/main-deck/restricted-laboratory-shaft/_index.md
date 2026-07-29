@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x4E, 0x4F  
+Internal Room IDs: 0x4E, 0x4F\
 Adjacent Rooms:
 - [Restricted Airlock](../restricted-airlock/) (top right)
 - [Restricted Laboratory Staircase](../restricted-laboratory-staircase/) (middle left)

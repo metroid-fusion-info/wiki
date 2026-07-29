@@ -22,7 +22,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x12  
+Internal Room ID: 0x12\
 Adjacent Rooms:
 - [Nexus Elevator](../nexus-elevator/) (top left)
 - [Nexus Storage](../nexus-storage/) (top right)

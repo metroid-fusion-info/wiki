@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x3  
+Internal Room ID: 0x3\
 Adjacent Rooms:
 - [Entrance Lobby](../entrance-lobby/) (top left)
 - [Nocturnal Access](../nocturnal-access/) (top right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0x4B.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x4B  
+Internal Room ID: 0x4B\
 Adjacent Rooms:
 - [Habitation Deck Elevator](../habitation-deck-elevator/) (top)
 - [Central Nexus](../central-nexus/) (right)

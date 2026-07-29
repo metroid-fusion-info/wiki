@@ -10,7 +10,7 @@ resources:
 
 Blue-X are sometimes called Cold-X. 
 
-If Samus does not have the Varia Suit, then the Blue-X will fly towards her and cause damage upon absorption. When she does have it, then they will flee and heal her when absorbed.  
+If Samus does not have the Varia Suit, then the Blue-X will fly towards her and cause damage upon absorption. When she does have it, then they will flee and heal her when absorbed.\
 They can be stunned with any weapon, and will be stunned for 4 seconds.
 
 Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/blue_x.c

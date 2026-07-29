@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x4  
+Internal Room ID: 0x4\
 Adjacent Rooms:
 - [Entrance Lobby](../entrance-lobby/) (left)
 - [Security Access](../security-access/) (right)

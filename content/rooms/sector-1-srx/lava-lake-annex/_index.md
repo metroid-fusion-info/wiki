@@ -34,7 +34,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x14  
+Internal Room ID: 0x14\
 Adjacent Rooms:
 - [Sector 1 (SRX) Westbound Glass Tube](../sector-1-srx-westbound-glass-tube/) (top left)
 - [Entrance Lobby](../entrance-lobby/) (top right)

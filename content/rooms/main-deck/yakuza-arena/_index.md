@@ -9,7 +9,7 @@ resources:
 {{< img name="0x56.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x56  
+Internal Room ID: 0x56\
 Adjacent Rooms:
 - [Auxiliary Power Station](../auxiliary-power-station/) (left)
 - [Silo Scaffolding](../silo-scaffolding/) (right)

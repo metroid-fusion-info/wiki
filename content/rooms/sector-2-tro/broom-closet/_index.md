@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x3B  
+Internal Room ID: 0x3B\
 Adjacent Rooms:
 - [Overgrown Checkpoint](../overgrown-checkpoint) (right)
 

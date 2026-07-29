@@ -9,7 +9,7 @@ If you just want to contribute small edits, then all you need is to have a GitHu
 
 However, the recommended workflow entails editing the wiki locally, for which you'd also need git, Hugo and VSCode. You can install [git](https://git-scm.com/install/) and [VSCode](https://code.visualstudio.com/download) at their respective download links, if they aren't installed already. The setup for Hugo is a little more involved and will be explained in more detail further down.
 
-This writeup will assume that you have a little experience with git already. So fork the repo first and clone it locally.  
+This writeup will assume that you have a little experience with git already. So fork the repo first and clone it locally.\
 Afterwards you can head to installing hugo:
 
 {{< tabs "installing-hugo" >}}
@@ -30,8 +30,8 @@ To be filled out by someone who uses macos :)
 
 {{< /tabs >}}
 
-Afterwards you can open your cloned folder in VSCode. You should also mark it as a trusted folder if it asks you about it.  
-Then, in the Menu Bar at the top, click `Terminal` -> `New Terminal`.  
+Afterwards you can open your cloned folder in VSCode. You should also mark it as a trusted folder if it asks you about it.\
+Then, in the Menu Bar at the top, click `Terminal` -> `New Terminal`.\
 Entering the following command opens a local webhost and prints the URL (typically `http://localhost:1313/`). You can open it in a web browser and then see feedback on your changes in real time.
 {{< tabs "hugo-serve" >}}
 

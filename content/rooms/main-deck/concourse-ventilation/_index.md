@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0xE  
+Internal Room ID: 0xE\
 Adjacent Rooms:
 - [Concourse](../concourse/) (left)
 - [Arachnus Arena](../arachnus-arena/) (right)

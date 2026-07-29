@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x20, 0x23  
+Internal Room IDs: 0x20, 0x23\
 Adjacent Rooms:
 - [Kihunter Hallway](../kihunter-hallway/) (top left)
 - [Overgrown Cache](../overgrown-cache/) (top right)

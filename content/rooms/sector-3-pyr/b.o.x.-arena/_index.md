@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x17, 0x12  
+Internal Room IDs: 0x17, 0x12\
 Adjacent Rooms:
 - [Deserted Runway](../deserted-runway/) (top)
 - [B.O.X Arena Access](../b.o.x.-arena-access/) (bottom left)

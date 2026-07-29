@@ -9,7 +9,7 @@ resources:
 {{< img name="0x31.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x31  
+Internal Room ID: 0x31\
 Adjacent Rooms:
 - [Sector 3 - Sector 3 (PYR) Eastbound Glass Tube](../../sector-3-pyr/sector-3-pyr-eastbound-glass-tube/) (left)
 - [Lava Lake Annex](../lava-lake-annex/) (right)

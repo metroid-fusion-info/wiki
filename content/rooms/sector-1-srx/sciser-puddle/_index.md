@@ -20,7 +20,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x2D  
+Internal Room ID: 0x2D\
 Adjacent Rooms:
 - [Zebesian Zig](../zebesian-zig/) (left)
 - [Atmospheric Stabilizer Southwest](../atmospheric-stabilizer-southwest/) (right)

@@ -9,7 +9,7 @@ resources:
 {{< img name="0xF.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0xF  
+Internal Room ID: 0xF\
 Adjacent Rooms:
 - [Habitation Deck](../habitation-deck/) (top left)
 - [Habitation Deck](../habitation-deck/) (middle left)

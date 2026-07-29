@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x18  
+Internal Room ID: 0x18\
 Adjacent Rooms:
 - [Waver Ward](../waver-ward/) (top left)
 - [Kago Speedway](../kago-speedway/) (upper middle left)

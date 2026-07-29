@@ -11,6 +11,6 @@ This room is sometimes also referred to as "Baby's first Wall Jumps" or "Wall Ju
 {{< img name="0x32.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x32  
+Internal Room ID: 0x32\
 Adjacent Rooms:
 - [Twin Junctions Save Room](../twin-junctions-save-room/) (left)

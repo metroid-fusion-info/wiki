@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x6  
+Internal Room ID: 0x6\
 Adjacent Rooms:
 - [Station Entrance](../station-entrance/) (top left)
 - [Beta Hangar Access Hall](../unused/beta-hangar-access-hall/) (top right, unreachable)

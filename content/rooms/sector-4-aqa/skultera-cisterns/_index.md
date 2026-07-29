@@ -9,7 +9,7 @@ resources:
 {{< img name="0x7.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x7  
+Internal Room ID: 0x7\
 Adjacent Rooms:
 - [Bridge Access](../bridge-access/) (top left)
 - [Reservoir East](../reservoir-east/) (top right)

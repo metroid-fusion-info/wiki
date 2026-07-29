@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room ID: 0x13  
+Internal Room ID: 0x13\
 Adjacent Rooms:
 - [Puyo Palace](../puyo-palace/) (top left)
 - [Overgrown Spire](../overgrown-spire/) (top right)

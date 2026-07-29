@@ -9,7 +9,7 @@ resources:
 {{< img name="0x13.png" size=tiny >}}
 
 ### Metadata
-Internal Room ID: 0x13  
+Internal Room ID: 0x13\
 Adjacent Rooms:
 - [Nightmare Nook](../nightmare-nook/) (top right)
 - [Nightmare Hub](../nightmare-hub/) (bottom left)

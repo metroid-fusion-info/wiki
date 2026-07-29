@@ -27,7 +27,7 @@ resources:
 {{< /columns >}}
 
 ### Metadata
-Internal Room IDs: 0x6, 0x18  
+Internal Room IDs: 0x6, 0x18\
 Adjacent Rooms:
 - [Checkpoint Crossing](../checkpoint-crossing/) (top left)
 - [B.O.X Arena Access](../b.o.x.-arena-access/) (top right)
