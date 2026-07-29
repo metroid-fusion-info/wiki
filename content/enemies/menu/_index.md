@@ -1,14 +1,20 @@
 ---
-title: Memu
+title: Menu
+resources:
+    - name: "menu.png"
+      src: "menu.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Memu
+While the canonical name is Menu, they are often called Memu instead to differentiate it from any in-game menus.
 
-TODO: writeup, image, naming
+Behaviour wise, Menus only fly slowly towards Samus. You can abuse that behaviour to have 2 Menus push onto one from above, causing the lower one to clip through collision.
 
 <--->
+
+{{< img name="menu.png" size="origin" >}}
 
 {{< columns >}}
 
