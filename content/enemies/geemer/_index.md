@@ -1,14 +1,20 @@
 ---
 title: Geemer
+resources:
+    - name: "geemer.png"
+      src: "geemer.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Geemer
+The Geemer walks back and forth. When Samus is nearby and a button is pressed, it will hide in its shell for several seconds before coming out again.
 
-TODO: writeup, image
+It has a lot of [unused animations](https://youtu.be/WGnwul2oWMc?t=370), including hiding and emerging to a shell without spikes, shaking, pushing its shell outwards and having its center glow. Likely intended for more complex behaviour before settling on the current one.
 
 <--->
+
+{{< img name="geemer.png" size="origin" >}}
 
 {{< columns >}}
 
