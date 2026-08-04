@@ -10,6 +10,8 @@ resources:
 
 Rippers fly back and forth in a straight line, turning around when they hit a wall.
 
+Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/ripper.c
+
 <--->
 
 {{< img name="ripper.png" size="origin" >}}

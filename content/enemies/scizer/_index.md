@@ -6,6 +6,8 @@ title: Scizer
 
 Sciser
 
+TODO: writeup, iamges. Split up golden enemies? Or maybe just have a tab interface here for the general/drops.
+
 <--->
 
 {{< columns >}}
