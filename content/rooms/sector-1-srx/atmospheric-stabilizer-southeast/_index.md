@@ -3,12 +3,11 @@ title: Atmospheric Stabilizer Southeast
 resources:
     - name: "0xF-layer0.png"
       src: "0xF-layer0.png"
-      title: ""
+      title: "Room 0xF, Layer 0"
     - name: "0xF-layer1.png"
       src: "0xF-layer1.png"
-      title: ""
+      title: "Room 0xF, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0xF-layer0.png" size=tiny >}}

@@ -3,12 +3,11 @@ title: Frozen Tower
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"
-      title: ""
+      title: "Room 0x2C"
     - name: "0xD.png"
       src: "0xD.png"
-      title: ""
+      title: "Room 0xD"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2C.png" size=tiny >}}

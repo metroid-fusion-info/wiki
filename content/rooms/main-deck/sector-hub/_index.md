@@ -3,12 +3,11 @@ title: Sector Hub
 resources:
     - name: "0x18-layer0.png"
       src: "0x18-layer0.png"
-      title: ""
+      title: "Room 0x18, Layer 0"
     - name: "0x18-layer1.png"
       src: "0x18-layer1.png"
-      title: ""
+      title: "Room 0x18, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x18-layer0.png" size=tiny >}}

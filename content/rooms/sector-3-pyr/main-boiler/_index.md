@@ -3,12 +3,11 @@ title: Main Boiler
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"
-      title: ""
+      title: "Room 0x1D"
     - name: "0x11.png"
       src: "0x11.png"
-      title: ""
+      title: "Room 0x11"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1D.png" size=tiny >}}

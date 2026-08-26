@@ -3,12 +3,11 @@ title: Silo Tunnel
 resources:
     - name: "0x37.png"
       src: "0x37.png"
-      title: ""
+      title: "Room 0x37"
     - name: "0x44.png"
       src: "0x44.png"
-      title: ""
+      title: "Room 0x44"
 ---
-
 {{< columns >}}
 
 {{< img name="0x37.png" size=tiny >}}

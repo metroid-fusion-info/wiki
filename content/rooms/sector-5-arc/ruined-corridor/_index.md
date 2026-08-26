@@ -3,9 +3,8 @@ title: Ruined Corridor
 resources:
     - name: "0x11.png"
       src: "0x11.png"
-      title: ""
+      title: "Room 0x11"
 ---
-
 {{< img name="0x11.png" size=tiny >}}
 
 ### Metadata

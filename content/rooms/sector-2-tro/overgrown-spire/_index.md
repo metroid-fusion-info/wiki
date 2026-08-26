@@ -3,15 +3,14 @@ title: Overgrown Spire
 resources:
     - name: "0x20.png"
       src: "0x20.png"
-      title: ""
+      title: "Room 0x20"
     - name: "0x20-nobreakable.png"
       src: "0x20-nobreakable.png"
-      title: ""
+      title: "Room 0x20"
     - name: "0x23.png"
       src: "0x23.png"
-      title: ""
+      title: "Room 0x23"
 ---
-
 {{< columns >}}
 
 {{< img name="0x20.png" size=tiny >}}

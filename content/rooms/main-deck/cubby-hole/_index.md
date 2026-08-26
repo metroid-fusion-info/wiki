@@ -3,9 +3,8 @@ title: Cubby Hole
 resources:
     - name: "0x48.png"
       src: "0x48.png"
-      title: ""
+      title: "Room 0x48"
 ---
-
 {{< img name="0x48.png" size=tiny >}}
 
 This room is sometimes also referred to as "Quarantine Bay Morph Tunnel".

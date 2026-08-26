@@ -3,9 +3,8 @@ title: Restricted Back Door
 resources:
     - name: "0x3E.png"
       src: "0x3E.png"
-      title: ""
+      title: "Room 0x3E"
 ---
-
 {{< img name="0x3E.png" size=tiny >}}
 
 ### Metadata

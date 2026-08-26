@@ -3,12 +3,11 @@ title: Overgrown Hallway
 resources:
     - name: "0x3C.png"
       src: "0x3C.png"
-      title: ""
+      title: "Room 0x3C"
     - name: "0x38.png"
       src: "0x38.png"
-      title: ""
+      title: "Room 0x38"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3C.png" size=tiny >}}

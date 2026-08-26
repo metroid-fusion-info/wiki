@@ -3,12 +3,11 @@ title: Restricted Laboratory Shaft
 resources:
     - name: "0x4E.png"
       src: "0x4E.png"
-      title: ""
+      title: "Room 0x4E"
     - name: "0x4F.png"
       src: "0x4F.png"
-      title: ""
+      title: "Room 0x4F"
 ---
-
 {{< columns >}}
 
 {{< img name="0x4E.png" size=tiny >}}

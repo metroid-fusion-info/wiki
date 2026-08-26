@@ -3,18 +3,17 @@ title: Data Courtyard
 resources:
     - name: "0x1F-layer0.png"
       src: "0x1F-layer0.png"
-      title: ""
+      title: "Room 0x1F, Layer 0"
     - name: "0x1F-layer1.png"
       src: "0x1F-layer1.png"
-      title: ""
+      title: "Room 0x1F, Layer 1"
     - name: "0x1F-layer2.png"
       src: "0x1F-layer2.png"
-      title: ""
+      title: "Room 0x1F, Layer 2"
     - name: "0x7.png"
       src: "0x7.png"
-      title: ""
+      title: "Room 0x7"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1F-layer0.png" size=tiny >}}

@@ -3,12 +3,11 @@ title: Ripper Sauna
 resources:
     - name: "0x24.png"
       src: "0x24.png"
-      title: ""
+      title: "Room 0x24"
     - name: "0x24-bg0.png"
       src: "0x24-bg0.png"
-      title: ""
+      title: "Room 0x24"
 ---
-
 {{< columns >}}
 
 {{< img name="0x24.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Habitation Deck
 resources:
     - name: "0x45.png"
       src: "0x45.png"
-      title: ""
+      title: "Room 0x45"
 ---
-
 {{< img name="0x45.png" size=tiny >}}
 
 This room is sometimes also referred to as just "Animals".

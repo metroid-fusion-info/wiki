@@ -3,12 +3,11 @@ title: X-B.O.X. Arena
 resources:
     - name: "0x10-layer0.png"
       src: "0x10-layer0.png"
-      title: ""
+      title: "Room 0x10, Layer 0"
     - name: "0x10-layer1.png"
       src: "0x10-layer1.png"
-      title: ""
+      title: "Room 0x10, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x10-layer0.png" size=tiny >}}

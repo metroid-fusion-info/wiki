@@ -3,12 +3,11 @@ title: Main Elevator
 resources:
     - name: "0x13.png"
       src: "0x13.png"
-      title: ""
+      title: "Room 0x13"
     - name: "0x28.png"
       src: "0x28.png"
-      title: ""
+      title: "Room 0x28"
 ---
-
 {{< columns >}}
 
 {{< img name="0x13.png" size=tiny >}}

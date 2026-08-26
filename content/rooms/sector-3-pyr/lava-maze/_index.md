@@ -3,12 +3,11 @@ title: Lava Maze
 resources:
     - name: "0xC.png"
       src: "0xC.png"
-      title: ""
+      title: "Room 0xC"
     - name: "0xC-BG0.png"
       src: "0xC-BG0.png"
-      title: ""
+      title: "Room 0xC"
 ---
-
 {{< columns >}}
 
 {{< img name="0xC.png" size=tiny >}}

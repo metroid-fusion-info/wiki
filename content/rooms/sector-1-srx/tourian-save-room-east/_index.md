@@ -3,9 +3,8 @@ title: Tourian Save Room East
 resources:
     - name: "0x13.png"
       src: "0x13.png"
-      title: ""
+      title: "Room 0x13"
 ---
-
 {{< img name="0x13.png" size=tiny >}}
 
 ### Metadata

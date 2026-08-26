@@ -3,9 +3,8 @@ title: Sector Hub Lift 5
 resources:
     - name: "0x1E.png"
       src: "0x1E.png"
-      title: ""
+      title: "Room 0x1E"
 ---
-
 {{< img name="0x1E.png" size=tiny >}}
 
 ### Metadata

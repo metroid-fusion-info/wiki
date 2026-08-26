@@ -3,9 +3,8 @@ title: Yakuza Arena
 resources:
     - name: "0x56.png"
       src: "0x56.png"
-      title: ""
+      title: "Room 0x56"
 ---
-
 {{< img name="0x56.png" size=tiny >}}
 
 ### Metadata

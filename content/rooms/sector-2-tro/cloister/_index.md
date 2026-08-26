@@ -3,15 +3,14 @@ title: Cloister
 resources:
     - name: "0x13-layer0.png"
       src: "0x13-layer0.png"
-      title: ""
+      title: "Room 0x13, Layer 0"
     - name: "0x13-layer1.png"
       src: "0x13-layer1.png"
-      title: ""
+      title: "Room 0x13, Layer 1"
     - name: "0x13-layer2.png"
       src: "0x13-layer2.png"
-      title: ""
+      title: "Room 0x13, Layer 2"
 ---
-
 {{< columns >}}
 
 {{< img name="0x13-layer0.png" size=tiny >}}

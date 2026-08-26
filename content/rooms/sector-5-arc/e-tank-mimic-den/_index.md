@@ -3,9 +3,8 @@ title: E-Tank Mimic Den
 resources:
     - name: "0xC.png"
       src: "0xC.png"
-      title: ""
+      title: "Room 0xC"
 ---
-
 {{< img name="0xC.png" size=tiny >}}
 
 ### Metadata

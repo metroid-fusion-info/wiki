@@ -3,9 +3,8 @@ title: Pyrochamber
 resources:
     - name: "0xF.png"
       src: "0xF.png"
-      title: ""
+      title: "Room 0xF"
 ---
-
 {{< img name="0xF.png" size=tiny >}}
 
 ### Metadata

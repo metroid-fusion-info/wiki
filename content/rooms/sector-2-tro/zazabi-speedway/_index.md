@@ -3,9 +3,8 @@ title: Zazabi Speedway
 resources:
     - name: "0x37.png"
       src: "0x37.png"
-      title: ""
+      title: "Room 0x37"
 ---
-
 {{< img name="0x37.png" size=tiny >}}
 
 ### Metadata

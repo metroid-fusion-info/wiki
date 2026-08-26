@@ -3,12 +3,11 @@ title: Yameba Pool
 resources:
     - name: "0x1D-bg0.png"
       src: "0x1D-bg0.png"
-      title: ""
+      title: "Room 0x1D"
     - name: "0x1D.png"
       src: "0x1D.png"
-      title: ""
+      title: "Room 0x1D"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1D.png" size=tiny >}}

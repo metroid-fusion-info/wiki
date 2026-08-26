@@ -3,9 +3,8 @@ title: Maintenance Wing
 resources:
     - name: "0x2B.png"
       src: "0x2B.png"
-      title: ""
+      title: "Room 0x2B"
 ---
-
 {{< img name="0x2B.png" size=tiny >}}
 
 ### Metadata

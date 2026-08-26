@@ -3,9 +3,8 @@ title: Operations Ventilation Storage
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"
-      title: ""
+      title: "Room 0x2D"
 ---
-
 {{< img name="0x2D.png" size=tiny >}}
 
 This room is sometimes also referred to as "Second Missile Room", due to it having the second Missile Tank you

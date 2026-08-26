@@ -3,9 +3,8 @@ title: Sector 3 (PYR) Entrance Elevator
 resources:
     - name: "0x14.png"
       src: "0x14.png"
-      title: ""
+      title: "Room 0x14"
 ---
-
 {{< img name="0x14.png" size=tiny >}}
 
 ### Metadata

@@ -3,12 +3,11 @@ title: Watering Hole
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"
-      title: ""
+      title: "Room 0x2F"
     - name: "0x2F-bg0.png"
       src: "0x2F-bg0.png"
-      title: ""
+      title: "Room 0x2F"
 ---
-
 This room is sometimes also referred to as "Gravity Well".
 
 {{< columns >}}

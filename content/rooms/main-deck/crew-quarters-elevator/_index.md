@@ -3,9 +3,8 @@ title: Crew Quarters Elevator
 resources:
     - name: "0x3D.png"
       src: "0x3D.png"
-      title: ""
+      title: "Room 0x3D"
 ---
-
 {{< img name="0x3D.png" size=tiny >}}
 
 ### Metadata

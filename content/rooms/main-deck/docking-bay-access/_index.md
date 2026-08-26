@@ -3,12 +3,11 @@ title: Docking Bay Access
 resources:
     - name: "0x3.png"
       src: "0x3.png"
-      title: ""
+      title: "Room 0x3"
     - name: "0x4.png"
       src: "0x4.png"
-      title: ""
+      title: "Room 0x4"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Entrance Lobby
 resources:
     - name: "0x0.png"
       src: "0x0.png"
-      title: ""
+      title: "Room 0x0"
 ---
-
 {{< img name="0x0.png" size=tiny >}}
 
 ### Metadata

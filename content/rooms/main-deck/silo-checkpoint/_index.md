@@ -3,9 +3,8 @@ title: Silo Checkpoint
 resources:
     - name: "0x34.png"
       src: "0x34.png"
-      title: ""
+      title: "Room 0x34"
 ---
-
 {{< img name="0x34.png" size=tiny >}}
 
 ### Metadata

@@ -3,7 +3,7 @@ title: Auxiliary Navigation Room
 resources:
     - name: "0x38.png"
       src: "0x38.png"
-      title: ""
+      title: "Room 0x38"
 ---
 
 {{< img name="0x38.png" size=tiny >}}

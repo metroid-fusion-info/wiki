@@ -3,12 +3,11 @@ title: Overgrown Checkpoint
 resources:
     - name: "0x3A.png"
       src: "0x3A.png"
-      title: ""
+      title: "Room 0x3A"
     - name: "0x39.png"
       src: "0x39.png"
-      title: ""
+      title: "Room 0x39"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3A.png" size=tiny >}}

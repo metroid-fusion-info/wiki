@@ -3,12 +3,11 @@ title: Moto Manor
 resources:
     - name: "0xC-layer0.png"
       src: "0xC-layer0.png"
-      title: ""
+      title: "Room 0xC, Layer 0"
     - name: "0xC-layer1.png"
       src: "0xC-layer1.png"
-      title: ""
+      title: "Room 0xC, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0xC-layer0.png" size=tiny >}}

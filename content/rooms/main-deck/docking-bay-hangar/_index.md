@@ -3,12 +3,11 @@ title: Docking Bay Hangar
 resources:
     - name: "0x0.png"
       src: "0x0.png"
-      title: ""
+      title: "Room 0x0"
     - name: "0x3F.png"
       src: "0x3F.png"
-      title: ""
+      title: "Room 0x3F"
 ---
-
 {{< columns >}}
 
 {{< img name="0x0.png" size=tiny >}}

@@ -3,15 +3,14 @@ title: Nettori Arena Access
 resources:
     - name: "0x14.png"
       src: "0x14.png"
-      title: ""
+      title: "Room 0x14"
     - name: "0x14-nobreakable.png"
       src: "0x14-nobreakable.png"
-      title: ""
+      title: "Room 0x14"
     - name: "0x22.png"
       src: "0x22.png"
-      title: ""
+      title: "Room 0x22"
 ---
-
 {{< columns >}}
 
 {{< img name="0x14.png" size=tiny >}}

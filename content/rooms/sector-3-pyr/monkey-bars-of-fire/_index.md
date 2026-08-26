@@ -3,12 +3,11 @@ title: Monkey Bars of Fire
 resources:
     - name: "0x1B-layer0.png"
       src: "0x1B-layer0.png"
-      title: ""
+      title: "Room 0x1B, Layer 0"
     - name: "0x1B-layer1.png"
       src: "0x1B-layer1.png"
-      title: ""
+      title: "Room 0x1B, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1B-layer0.png" size=tiny >}}

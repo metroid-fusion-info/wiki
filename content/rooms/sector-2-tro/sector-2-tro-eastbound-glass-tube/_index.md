@@ -3,9 +3,8 @@ title: Sector 2 (TRO) Eastbound Glass Tube
 resources:
     - name: "0x35.png"
       src: "0x35.png"
-      title: ""
+      title: "Room 0x35"
 ---
-
 {{< img name="0x35.png" size=tiny >}}
 
 ### Metadata

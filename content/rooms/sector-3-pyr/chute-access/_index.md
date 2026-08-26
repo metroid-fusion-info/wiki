@@ -3,9 +3,8 @@ title: Chute Access
 resources:
     - name: "0x24.png"
       src: "0x24.png"
-      title: ""
+      title: "Room 0x24"
 ---
-
 {{< img name="0x24.png" size=tiny >}}
 
 ### Metadata

@@ -3,9 +3,8 @@ title: Operations Room
 resources:
     - name: "0x52.png"
       src: "0x52.png"
-      title: ""
+      title: "Room 0x52"
 ---
-
 {{< img name="0x52.png" size=tiny >}}
 
 ### Metadata

@@ -3,12 +3,11 @@ title: Aquarium Kago Storage
 resources:
     - name: "0x26-layer0.png"
       src: "0x26-layer0.png"
-      title: ""
+      title: "Room 0x26, Layer 0"
     - name: "0x26-layer1.png"
       src: "0x26-layer1.png"
-      title: ""
+      title: "Room 0x26, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x26-layer0.png" size=tiny >}}

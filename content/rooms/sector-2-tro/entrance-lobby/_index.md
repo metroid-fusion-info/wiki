@@ -3,15 +3,14 @@ title: Entrance Lobby
 resources:
     - name: "0x0-layer0.png"
       src: "0x0-layer0.png"
-      title: ""
+      title: "Room 0x0, Layer 0"
     - name: "0x0-layer1.png"
       src: "0x0-layer1.png"
-      title: ""
+      title: "Room 0x0, Layer 1"
     - name: "0x0-layer2.png"
       src: "0x0-layer2.png"
-      title: ""
+      title: "Room 0x0, Layer 2"
 ---
-
 {{< columns >}}
 
 {{< img name="0x0-layer0.png" size=tiny >}}

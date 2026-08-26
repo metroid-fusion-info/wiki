@@ -3,9 +3,8 @@ title: Twin Junctions East
 resources:
     - name: "0x21.png"
       src: "0x21.png"
-      title: ""
+      title: "Room 0x21"
 ---
-
 {{< img name="0x21.png" size=tiny >}}
 
 ### Metadata

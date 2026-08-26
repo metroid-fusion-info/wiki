@@ -3,9 +3,8 @@ title: Entrance Save Room
 resources:
     - name: "0x1.png"
       src: "0x1.png"
-      title: ""
+      title: "Room 0x1"
 ---
-
 {{< img name="0x1.png" size=tiny >}}
 
 ### Metadata

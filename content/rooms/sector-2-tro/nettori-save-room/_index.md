@@ -3,9 +3,8 @@ title: Nettori Save Room
 resources:
     - name: "0x31.png"
       src: "0x31.png"
-      title: ""
+      title: "Room 0x31"
 ---
-
 {{< img name="0x31.png" size=tiny >}}
 
 ### Metadata

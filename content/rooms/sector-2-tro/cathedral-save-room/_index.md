@@ -3,9 +3,8 @@ title: Cathedral Save Room
 resources:
     - name: "0x10.png"
       src: "0x10.png"
-      title: ""
+      title: "Room 0x10"
 ---
-
 {{< img name="0x10.png" size=tiny >}}
 
 ### Metadata

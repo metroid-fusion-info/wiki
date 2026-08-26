@@ -3,9 +3,8 @@ title: Skultera Cisterns
 resources:
     - name: "0x7.png"
       src: "0x7.png"
-      title: ""
+      title: "Room 0x7"
 ---
-
 {{< img name="0x7.png" size=tiny >}}
 
 ### Metadata

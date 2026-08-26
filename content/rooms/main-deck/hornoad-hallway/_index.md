@@ -3,12 +3,11 @@ title: Hornoad Hallway
 resources:
     - name: "0x46-layer0.png"
       src: "0x46-layer0.png"
-      title: ""
+      title: "Room 0x46, Layer 0"
     - name: "0x46-layer1.png"
       src: "0x46-layer1.png"
-      title: ""
+      title: "Room 0x46, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x46-layer0.png" size=tiny >}}

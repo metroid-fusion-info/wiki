@@ -3,9 +3,8 @@ title: Nightmare Lower Access
 resources:
     - name: "0x1B.png"
       src: "0x1B.png"
-      title: ""
+      title: "Room 0x1B"
 ---
-
 {{< img name="0x1B.png" size=tiny >}}
 
 ### Metadata

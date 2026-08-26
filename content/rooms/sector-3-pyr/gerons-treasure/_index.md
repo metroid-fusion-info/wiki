@@ -3,9 +3,8 @@ title: Geron's Treasure
 resources:
     - name: "0x21.png"
       src: "0x21.png"
-      title: ""
+      title: "Room 0x21"
 ---
-
 {{< img name="0x21.png" size=tiny >}}
 
 This room is sometimes also referred to as "Under Box" or "Box Basement".

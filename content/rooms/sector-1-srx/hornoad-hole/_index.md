@@ -3,12 +3,11 @@ title: Hornoad Hole
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"
-      title: ""
+      title: "Room 0x5, Layer 0"
     - name: "0x5-layer1.png"
       src: "0x5-layer1.png"
-      title: ""
+      title: "Room 0x5, Layer 1"
 ---
-
 This room is sometimes also referred to as "Entry Hallway".
 
 {{< columns >}}

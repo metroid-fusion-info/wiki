@@ -3,15 +3,14 @@ title: Courtyard Access
 resources:
     - name: "0x1E-layer0.png"
       src: "0x1E-layer0.png"
-      title: ""
+      title: "Room 0x1E, Layer 0"
     - name: "0x1E-layer1.png"
       src: "0x1E-layer1.png"
-      title: ""
+      title: "Room 0x1E, Layer 1"
     - name: "0x3.png"
       src: "0x3.png"
-      title: ""
+      title: "Room 0x3"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1E-layer0.png" size=tiny >}}

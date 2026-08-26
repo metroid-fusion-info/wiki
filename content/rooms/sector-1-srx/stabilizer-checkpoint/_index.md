@@ -3,9 +3,8 @@ title: Stabilizer Checkpoint
 resources:
     - name: "0xE.png"
       src: "0xE.png"
-      title: ""
+      title: "Room 0xE"
 ---
-
 {{< img name="0xE.png" size=tiny >}}
 
 ### Metadata

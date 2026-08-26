@@ -3,9 +3,8 @@ title: Sector 5 (ARC) Westbound Glass Tube
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"
-      title: ""
+      title: "Room 0x1F"
 ---
-
 {{< img name="0x1F.png" size=tiny >}}
 
 ### Metadata

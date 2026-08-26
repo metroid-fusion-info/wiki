@@ -3,9 +3,8 @@ title: Pillar Highway
 resources:
     - name: "0x26.png"
       src: "0x26.png"
-      title: ""
+      title: "Room 0x26"
 ---
-
 {{< img name="0x26.png" size=tiny >}}
 
 ### Metadata

@@ -3,9 +3,8 @@ title: Silo Save Room
 resources:
     - name: "0x3A.png"
       src: "0x3A.png"
-      title: ""
+      title: "Room 0x3A"
 ---
-
 {{< img name="0x3A.png" size=tiny >}}
 
 ### Metadata

@@ -2,10 +2,9 @@
 title: Beta Ridley Arena
 resources:
     - name: "0x35.png"
-      src: 0x35.png
-      title: ""
+      src: "0x35.png"
+      title: "Room 0x35"
 ---
-
 {{< img name="0x35.png" size=tiny >}}
 
 A beta variant of [Neo-Ridley Arena](../../neo-ridley-arena/).

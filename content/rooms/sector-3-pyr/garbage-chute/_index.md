@@ -3,9 +3,8 @@ title: Garbage Chute
 resources:
     - name: "0x23.png"
       src: "0x23.png"
-      title: ""
+      title: "Room 0x23"
 ---
-
 {{< img name="0x23.png" size=tiny >}}
 
 This room is sometimes also called "Trash Chute".

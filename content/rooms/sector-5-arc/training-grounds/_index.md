@@ -3,12 +3,11 @@ title: Training Grounds
 resources:
     - name: "0x3.png"
       src: "0x3.png"
-      title: ""
+      title: "Room 0x3"
     - name: "0x6.png"
       src: "0x6.png"
-      title: ""
+      title: "Room 0x6"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3.png" size=tiny >}}

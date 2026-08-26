@@ -3,15 +3,14 @@ title: Cathedral Corridor
 resources:
     - name: "0x2C-layer0.png"
       src: "0x2C-layer0.png"
-      title: ""
+      title: "Room 0x2C, Layer 0"
     - name: "0x2C-layer1.png"
       src: "0x2C-layer1.png"
-      title: ""
+      title: "Room 0x2C, Layer 1"
     - name: "0xE.png"
       src: "0xE.png"
-      title: ""
+      title: "Room 0xE"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2C-layer0.png" size=tiny >}}

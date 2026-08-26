@@ -3,9 +3,8 @@ title: Serris Arena
 resources:
     - name: "0x2A.png"
       src: "0x2A.png"
-      title: ""
+      title: "Room 0x2A"
 ---
-
 {{< img name="0x2A.png" size=tiny >}}
 
 ### Metadata

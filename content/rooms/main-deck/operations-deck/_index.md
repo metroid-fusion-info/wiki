@@ -3,18 +3,17 @@ title: Operations Deck
 resources:
     - name: "0xD-layer0.png"
       src: "0xD-layer0.png"
-      title: ""
+      title: "Room 0xD, Layer 0"
     - name: "0xD-layer1.png"
       src: "0xD-layer1.png"
-      title: ""
+      title: "Room 0xD, Layer 1"
     - name: "0x55.png"
       src: "0x55.png"
-      title: ""
+      title: "Room 0x55"
     - name: "0x4A.png"
       src: "0x4A.png"
-      title: ""
+      title: "Room 0x4A"
 ---
-
 {{< columns >}}
 
 {{< img name="0xD-layer0.png" size=tiny >}}

@@ -3,12 +3,11 @@ title: Arctic Containment
 resources:
     - name: "0x7.png"
       src: "0x7.png"
-      title: ""
+      title: "Room 0x7"
     - name: "0xF.png"
       src: "0xF.png"
-      title: ""
+      title: "Room 0xF"
 ---
-
 {{< columns >}}
 
 {{< img name="0x7.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Puyo Corridor
 resources:
     - name: "0xB.png"
       src: "0xB.png"
-      title: ""
+      title: "Room 0xB"
 ---
-
 {{< img name="0xB.png" size=tiny >}}
 
 ### Metadata

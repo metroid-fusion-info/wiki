@@ -3,9 +3,8 @@ title: Charge Core Arena
 resources:
     - name: "0x28.png"
       src: "0x28.png"
-      title: ""
+      title: "Room 0x28"
 ---
-
 {{< img name="0x28.png" size=tiny >}}
 
 ### Metadata

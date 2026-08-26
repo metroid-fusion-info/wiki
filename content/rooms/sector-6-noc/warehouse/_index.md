@@ -3,18 +3,17 @@ title: Warehouse
 resources:
     - name: "0xA-layer0.png"
       src: "0xA-layer0.png"
-      title: ""
+      title: "Room 0xA, Layer 0"
     - name: "0xA-layer0-nobreakable.png"
       src: "0xA-layer0-nobreakable.png"
-      title: ""
+      title: "Room 0xA, Layer 0"
     - name: "0xA-layer1.png"
       src: "0xA-layer1.png"
-      title: ""
+      title: "Room 0xA, Layer 1"
     - name: "0xA-layer1-nobreakable.png"
       src: "0xA-layer1-nobreakable.png"
-      title: ""
+      title: "Room 0xA, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0xA-layer0.png" size=tiny >}}

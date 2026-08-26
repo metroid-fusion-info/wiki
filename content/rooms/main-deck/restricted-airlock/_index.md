@@ -3,12 +3,11 @@ title: Restricted Airlock
 resources:
     - name: "0x11.png"
       src: "0x11.png"
-      title: ""
+      title: "Room 0x11"
     - name: "0x4D.png"
       src: "0x4D.png"
-      title: ""
+      title: "Room 0x4D"
 ---
-
 {{< columns >}}
 
 {{< img name="0x11.png" size=tiny >}}

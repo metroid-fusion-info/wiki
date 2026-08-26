@@ -3,12 +3,11 @@ title: Stabilizer Storage
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"
-      title: ""
+      title: "Room 0x2C"
     - name: "0x2C-bg0.png"
       src: "0x2C-bg0.png"
-      title: ""
+      title: "Room 0x2C"
 ---
-
 This room is sometimes also referred to as "Crab Guardian" or "Crab Pond".
 
 {{< columns >}}

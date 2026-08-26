@@ -3,12 +3,11 @@ title: Crab Rave
 resources:
     - name: "0x2B.png"
       src: "0x2B.png"
-      title: ""
+      title: "Room 0x2B"
     - name: "0x2B-bg0.png"
       src: "0x2B-bg0.png"
-      title: ""
+      title: "Room 0x2B"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2B.png" size=tiny >}}

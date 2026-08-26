@@ -3,15 +3,14 @@ title: Zeela Checkpoint
 resources:
     - name: "0x8-layer0.png"
       src: "0x8-layer0.png"
-      title: ""
+      title: "Room 0x8, Layer 0"
     - name: "0x8-layer1.png"
       src: "0x8-layer1.png"
-      title: ""
+      title: "Room 0x8, Layer 1"
     - name: "0x8-layer2.png"
       src: "0x8-layer2.png"
-      title: ""
+      title: "Room 0x8, Layer 2"
 ---
-
 {{< columns >}}
 
 {{< img name="0x8-layer0.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Nexus Elevator
 resources:
     - name: "0x4B.png"
       src: "0x4B.png"
-      title: ""
+      title: "Room 0x4B"
 ---
-
 {{< img name="0x4B.png" size=tiny >}}
 
 ### Metadata

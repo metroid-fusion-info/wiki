@@ -3,12 +3,11 @@ title: Concourse Ventilation
 resources:
     - name: "0xE-layer0.png"
       src: "0xE-layer0.png"
-      title: ""
+      title: "Room 0xE, Layer 0"
     - name: "0xE-layer1.png"
       src: "0xE-layer1.png"
-      title: ""
+      title: "Room 0xE, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0xE-layer0.png" size=tiny >}}

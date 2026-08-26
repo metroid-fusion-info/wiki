@@ -3,12 +3,11 @@ title: Sciser Puddle
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"
-      title: ""
+      title: "Room 0x2D"
     - name: "0x2D-bg0.png"
       src: "0x2D-bg0.png"
-      title: ""
+      title: "Room 0x2D"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2D.png" size=tiny >}}

@@ -3,12 +3,11 @@ title: Clogged Cavern
 resources:
     - name: "0x9.png"
       src: "0x9.png"
-      title: ""
+      title: "Room 0x9"
     - name: "0x21.png"
       src: "0x21.png"
-      title: ""
+      title: "Room 0x21"
 ---
-
 {{< columns >}}
 
 {{< img name="0x9.png" size=tiny >}}

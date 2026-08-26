@@ -3,9 +3,8 @@ title: Data Room
 resources:
     - name: "0x8.png"
       src: "0x8.png"
-      title: ""
+      title: "Room 0x8"
 ---
-
 {{< img name="0x8.png" size=tiny >}}
 
 ### Metadata

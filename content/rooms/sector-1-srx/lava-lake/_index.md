@@ -3,12 +3,11 @@ title: Lava Lake
 resources:
     - name: "0x11.png"
       src: "0x11.png"
-      title: ""
+      title: "Room 0x11"
     - name: "0x11-bg0.png"
       src: "0x11-bg0.png"
-      title: ""
+      title: "Room 0x11"
 ---
-
 {{< columns >}}
 
 {{< img name="0x11.png" size=tiny >}}

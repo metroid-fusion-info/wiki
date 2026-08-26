@@ -3,12 +3,11 @@ title: Overgrown Entrance
 resources:
     - name: "0x18.png"
       src: "0x18.png"
-      title: ""
+      title: "Room 0x18"
     - name: "0x24.png"
       src: "0x24.png"
-      title: ""
+      title: "Room 0x24"
 ---
-
 {{< columns >}}
 
 {{< img name="0x18.png" size=tiny >}}

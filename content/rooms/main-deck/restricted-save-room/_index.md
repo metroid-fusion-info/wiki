@@ -3,9 +3,8 @@ title: Restricted Save Room
 resources:
     - name: "0x40.png"
       src: "0x40.png"
-      title: ""
+      title: "Room 0x40"
 ---
-
 {{< img name="0x40.png" size=tiny >}}
 
 ### Metadata

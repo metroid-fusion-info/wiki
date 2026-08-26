@@ -3,9 +3,8 @@ title: Yameba Corridor
 resources:
     - name: "0x3.png"
       src: "0x3.png"
-      title: ""
+      title: "Room 0x3"
 ---
-
 {{< img name="0x3.png" size=tiny >}}
 
 ### Metadata

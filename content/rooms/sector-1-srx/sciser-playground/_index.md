@@ -3,12 +3,11 @@ title: Sciser Playground
 resources:
     - name: "0x26.png"
       src: "0x26.png"
-      title: ""
+      title: "Room 0x26"
     - name: "0x26.png"
       src: "0x26-bg0.png"
-      title: ""
+      title: "Room 0x26"
 ---
-
 {{< columns >}}
 
 {{< img name="0x26.png" size=tiny >}}

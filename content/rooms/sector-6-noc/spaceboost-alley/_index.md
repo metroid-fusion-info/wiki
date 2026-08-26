@@ -3,9 +3,8 @@ title: Spaceboost Alley
 resources:
     - name: "0x27.png"
       src: "0x27.png"
-      title: ""
+      title: "Room 0x27"
 ---
-
 {{< img name="0x27.png" size=tiny >}}
 
 The items in this room are sometimes also referred to as "Shinespark Lower" and "Shinespark Upper".

@@ -3,12 +3,11 @@ title: Operations Ventilation
 resources:
     - name: "0x23.png"
       src: "0x23.png"
-      title: ""
+      title: "Room 0x23"
     - name: "0x24.png"
       src: "0x24.png"
-      title: ""
+      title: "Room 0x24"
 ---
-
 {{< columns >}}
 
 {{< img name="0x23.png" size=tiny >}}

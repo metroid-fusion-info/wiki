@@ -2,10 +2,9 @@
 title: Beta Hangar Access Hall
 resources:
     - name: "0x5.png"
-      src: 0x5.png
-      title: ""
+      src: "0x5.png"
+      title: "Room 0x5"
 ---
-
 {{< img name="0x5.png" size=tiny >}}
 
 A beta variant of some hallway that connects to a hangar.

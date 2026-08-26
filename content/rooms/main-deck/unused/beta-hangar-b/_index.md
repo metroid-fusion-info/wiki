@@ -2,10 +2,9 @@
 title: Beta Hangar B
 resources:
     - name: "0x2.png"
-      src: 0x2.png
-      title: ""
+      src: "0x2.png"
+      title: "Room 0x2"
 ---
-
 {{< img name="0x2.png" size=tiny >}}
 
 

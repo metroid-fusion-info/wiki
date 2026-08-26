@@ -3,9 +3,8 @@ title: Twin Junctions Save Room
 resources:
     - name: "0x22.png"
       src: "0x22.png"
-      title: ""
+      title: "Room 0x22"
 ---
-
 {{< img name="0x22.png" size=tiny >}}
 
 ### Metadata

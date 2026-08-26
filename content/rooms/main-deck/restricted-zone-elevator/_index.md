@@ -3,9 +3,8 @@ title: Restricted Zone Elevator
 resources:
     - name: "0x43.png"
       src: "0x43.png"
-      title: ""
+      title: "Room 0x43"
 ---
-
 {{< img name="0x43.png" size=tiny >}}
 
 ### Metadata

@@ -3,9 +3,8 @@ title: Nightmare Recharge Room
 resources:
     - name: "0x30.png"
       src: "0x30.png"
-      title: ""
+      title: "Room 0x30"
 ---
-
 {{< img name="0x30.png" size=tiny >}}
 
 ### Metadata

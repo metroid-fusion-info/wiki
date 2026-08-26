@@ -5,7 +5,7 @@ images:
 resources:
     - name: "0x54.png"
       src: "0x54.png"
-      title: ""
+      title: "Room 0x54"
 ---
 
 {{< img name="0x54.png" size=tiny >}}

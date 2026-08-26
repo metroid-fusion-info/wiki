@@ -3,12 +3,11 @@ title: Data Room
 resources:
     - name: "0x5.png"
       src: "0x5.png"
-      title: ""
+      title: "Room 0x5"
     - name: "0x10.png"
       src: "0x10.png"
-      title: ""
+      title: "Room 0x10"
 ---
-
 {{< columns >}}
 
 {{< img name="0x5.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Level 2 Security Room
 resources:
     - name: "0x4.png"
       src: "0x4.png"
-      title: ""
+      title: "Room 0x4"
 ---
-
 {{< img name="0x4.png" size=tiny >}}
 
 ### Metadata

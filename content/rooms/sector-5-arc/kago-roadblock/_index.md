@@ -3,15 +3,14 @@ title: Kago Roadblock
 resources:
     - name: "0x27-layer0.png"
       src: "0x27-layer0.png"
-      title: ""
+      title: "Room 0x27, Layer 0"
     - name: "0x27-layer1.png"
       src: "0x27-layer1.png"
-      title: ""
+      title: "Room 0x27, Layer 1"
     - name: "0x28.png"
       src: "0x28.png"
-      title: ""
+      title: "Room 0x28"
 ---
-
 {{< columns >}}
 
 {{< img name="0x27-layer0.png" size=tiny >}}

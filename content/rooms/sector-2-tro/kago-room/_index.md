@@ -3,9 +3,8 @@ title: Kago Room
 resources:
     - name: "0x21.png"
       src: "0x21.png"
-      title: ""
+      title: "Room 0x21"
 ---
-
 This room is sometimes also known as "Kago Hallway".
 
 {{< img name="0x21.png" size=tiny >}}

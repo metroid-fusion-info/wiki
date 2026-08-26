@@ -3,15 +3,14 @@ title: Operations Deck Elevator
 resources:
     - name: "0x3C-layer0.png"
       src: "0x3C-layer0.png"
-      title: ""
+      title: "Room 0x3C, Layer 0"
     - name: "0x3C-layer1.png"
       src: "0x3C-layer1.png"
-      title: ""
+      title: "Room 0x3C, Layer 1"
     - name: "0x3C-layer2.png"
       src: "0x3C-layer2.png"
-      title: ""
+      title: "Room 0x3C, Layer 2"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3C-layer0.png" size=tiny >}}

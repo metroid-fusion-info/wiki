@@ -3,9 +3,8 @@ title: Nexus Storage
 resources:
     - name: "0x39.png"
       src: "0x39.png"
-      title: ""
+      title: "Room 0x39"
 ---
-
 {{< img name="0x39.png" size=tiny >}}
 
 This room is sometimes also referred to as "Power Bomb Storage".

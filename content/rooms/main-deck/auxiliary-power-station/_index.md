@@ -3,7 +3,7 @@ title: Auxiliary Power Station
 resources:
     - name: "0x36.png"
       src: "0x36.png"
-      title: ""
+      title: "Room 0x36"
 ---
 
 {{< img name="0x36.png" size=tiny >}}

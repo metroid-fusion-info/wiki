@@ -3,9 +3,8 @@ title: Puyo Palace
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"
-      title: ""
+      title: "Room 0x2F"
 ---
-
 {{< img name="0x2F.png" size=tiny >}}
 
 This room is sometimes also known as "Puyo Tank".

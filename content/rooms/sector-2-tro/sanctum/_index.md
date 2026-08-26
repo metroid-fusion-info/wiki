@@ -3,12 +3,11 @@ title: Sanctum
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"
-      title: ""
+      title: "Room 0x2D"
     - name: "0x29.png"
       src: "0x29.png"
-      title: ""
+      title: "Room 0x29"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2D.png" size=tiny >}}

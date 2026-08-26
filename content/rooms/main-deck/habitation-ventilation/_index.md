@@ -3,9 +3,8 @@ title: Habitation Ventilation
 resources:
     - name: "0x16.png"
       src: "0x16.png"
-      title: ""
+      title: "Room 0x16"
 ---
-
 {{< img name="0x16.png" size=tiny >}}
 
 ### Metadata

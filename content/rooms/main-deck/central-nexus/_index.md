@@ -5,10 +5,10 @@ images:
 resources:
     - name: "0x12-layer0.png"
       src: "0x12-layer0.png"
-      title: ""
+      title: "Room 0x12, Layer 0"
     - name: "0x12-layer1.png"
       src: "0x12-layer1.png"
-      title: ""
+      title: "Room 0x12, Layer 1"
 ---
 
 {{< columns >}}

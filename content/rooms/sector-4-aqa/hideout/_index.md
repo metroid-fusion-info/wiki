@@ -3,9 +3,8 @@ title: Hideout
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"
-      title: ""
+      title: "Room 0x2D"
 ---
-
 {{< img name="0x2D.png" size=tiny >}}
 
 ### Metadata

@@ -3,12 +3,11 @@ title: Security Shaft East
 resources:
     - name: "0x15.png"
       src: "0x15.png"
-      title: ""
+      title: "Room 0x15"
     - name: "0x16.png"
       src: "0x16.png"
-      title: ""
+      title: "Room 0x16"
 ---
-
 {{< columns >}}
 
 {{< img name="0x15.png" size=tiny >}}

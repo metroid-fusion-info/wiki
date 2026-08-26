@@ -3,9 +3,8 @@ title: Entrance Navigation Room
 resources:
     - name: "0x2.png"
       src: "0x2.png"
-      title: ""
+      title: "Room 0x2"
 ---
-
 {{< img name="0x2.png" size=tiny >}}
 
 ### Metadata

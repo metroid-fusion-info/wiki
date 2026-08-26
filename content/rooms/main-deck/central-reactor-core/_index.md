@@ -3,15 +3,14 @@ title: Central Reactor Core
 resources:
     - name: "0x3B.png"
       src: "0x3B.png"
-      title: ""
+      title: "Room 0x3B"
     - name: "0x31-layer0.png"
       src: "0x31-layer0.png"
-      title: ""
+      title: "Room 0x31, Layer 0"
     - name: "0x31-layer1.png"
       src: "0x31-layer1.png"
-      title: ""
+      title: "Room 0x31, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x3B.png" size=tiny >}}

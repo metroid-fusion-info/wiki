@@ -3,9 +3,8 @@ title: Animorphs
 resources:
     - name: "0x33.png"
       src: "0x33.png"
-      title: ""
+      title: "Room 0x33"
 ---
-
 {{< img name="0x33.png" size=tiny >}}
 
 ### Metadata

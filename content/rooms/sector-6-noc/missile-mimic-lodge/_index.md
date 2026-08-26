@@ -3,9 +3,8 @@ title: Missile Mimic Lodge
 resources:
     - name: "0x18.png"
       src: "0x18.png"
-      title: ""
+      title: "Room 0x18"
 ---
-
 {{< img name="0x18.png" size=tiny >}}
 
 ### Metadata

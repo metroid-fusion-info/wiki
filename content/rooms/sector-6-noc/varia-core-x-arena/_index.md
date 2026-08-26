@@ -3,9 +3,8 @@ title: Varia Core-X Arena
 resources:
     - name: "0xD.png"
       src: "0xD.png"
-      title: ""
+      title: "Room 0xD"
 ---
-
 {{< img name="0xD.png" size=tiny >}}
 
 ### Metadata

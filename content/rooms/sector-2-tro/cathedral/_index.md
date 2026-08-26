@@ -3,15 +3,14 @@ title: Cathedral
 resources:
     - name: "0x2E-layer0.png"
       src: "0x2E-layer0.png"
-      title: ""
+      title: "Room 0x2E, Layer 0"
     - name: "0x2E-layer1.png"
       src: "0x2E-layer1.png"
-      title: ""
+      title: "Room 0x2E, Layer 1"
     - name: "0xD.png"
       src: "0xD.png"
-      title: ""
+      title: "Room 0xD"
 ---
-
 {{< columns >}}
 
 {{< img name="0x2E-layer0.png" size=tiny >}}

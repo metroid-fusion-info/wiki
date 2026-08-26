@@ -3,9 +3,8 @@ title: Operations Deck Save Room
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"
-      title: ""
+      title: "Room 0x2C"
 ---
-
 {{< img name="0x2C.png" size=tiny >}}
 
 ### Metadata

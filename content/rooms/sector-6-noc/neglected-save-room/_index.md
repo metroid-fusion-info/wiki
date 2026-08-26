@@ -3,9 +3,8 @@ title: Neglected Save Room
 resources:
     - name: "0x15.png"
       src: "0x15.png"
-      title: ""
+      title: "Room 0x15"
 ---
-
 {{< img name="0x15.png" size=tiny >}}
 
 ### Metadata

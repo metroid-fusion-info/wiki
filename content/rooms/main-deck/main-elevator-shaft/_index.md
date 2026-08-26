@@ -3,12 +3,11 @@ title: Main Elevator Shaft
 resources:
     - name: "0x22.png"
       src: "0x22.png"
-      title: ""
+      title: "Room 0x22"
     - name: "0x2B.png"
       src: "0x2B.png"
-      title: ""
+      title: "Room 0x2B"
 ---
-
 {{< columns >}}
 
 {{< img name="0x22.png" size=tiny >}}

@@ -3,9 +3,8 @@ title: Operations Deck Data Room
 resources:
     - name: "0x27.png"
       src: "0x27.png"
-      title: ""
+      title: "Room 0x27"
 ---
-
 {{< img name="0x27.png" size=tiny >}}
 
 ### Metadata

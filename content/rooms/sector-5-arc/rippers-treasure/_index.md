@@ -3,9 +3,8 @@ title: Ripper's Treasure
 resources:
     - name: "0x17.png"
       src: "0x17.png"
-      title: ""
+      title: "Room 0x17"
 ---
-
 {{< img name="0x17.png" size=tiny >}}
 
 This room is sometimes also known as "Ripper Climb".

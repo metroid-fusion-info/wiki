@@ -3,9 +3,8 @@ title: Processing Access
 resources:
     - name: "0x22.png"
       src: "0x22.png"
-      title: ""
+      title: "Room 0x22"
 ---
-
 {{< img name="0x22.png" size=tiny >}}
 
 This room is sometimes also referred to as "Owtch Cushions" or "Lava Pool Access".

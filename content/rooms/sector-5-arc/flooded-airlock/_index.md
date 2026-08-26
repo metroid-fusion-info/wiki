@@ -3,9 +3,8 @@ title: Flooded Airlock
 resources:
     - name: "0x32.png"
       src: "0x32.png"
-      title: ""
+      title: "Room 0x32"
 ---
-
 {{< img name="0x32.png" size=tiny >}}
 
 ### Metadata

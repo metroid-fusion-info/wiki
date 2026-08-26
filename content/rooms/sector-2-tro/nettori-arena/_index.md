@@ -3,12 +3,11 @@ title: Nettori Arena
 resources:
     - name: "0x16.png"
       src: "0x16.png"
-      title: ""
+      title: "Room 0x16"
     - name: "0x33.png"
       src: "0x33.png"
-      title: ""
+      title: "Room 0x33"
 ---
-
 {{< columns >}}
 
 {{< img name="0x16.png" size=tiny >}}

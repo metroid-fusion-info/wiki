@@ -3,12 +3,11 @@ title: B.O.X. Arena
 resources:
     - name: "0x12.png"
       src: "0x12.png"
-      title: ""
+      title: "Room 0x12"
     - name: "0x17.png"
       src: "0x17.png"
-      title: ""
+      title: "Room 0x17"
 ---
-
 {{< columns >}}
 
 {{< img name="0x12.png" size=tiny >}}

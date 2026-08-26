@@ -3,9 +3,8 @@ title: Flooded Access
 resources:
     - name: "0x1C.png"
       src: "0x1C.png"
-      title: ""
+      title: "Room 0x1C"
 ---
-
 {{< img name="0x1C.png" size=tiny >}}
 
 ### Metadata

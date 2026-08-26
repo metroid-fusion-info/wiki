@@ -3,9 +3,8 @@ title: Owtch Atrium
 resources:
     - name: "0x25.png"
       src: "0x25.png"
-      title: ""
+      title: "Room 0x25"
 ---
-
 {{< img name="0x25.png" size=tiny >}}
 
 ### Metadata

@@ -3,12 +3,11 @@ title: Warehouse Access
 resources:
     - name: "0x1C-layer0.png"
       src: "0x1C-layer0.png"
-      title: ""
+      title: "Room 0x1C, Layer 0"
     - name: "0x1C-layer1.png"
       src: "0x1C-layer1.png"
-      title: ""
+      title: "Room 0x1C, Layer 1"
 ---
-
 {{< columns >}}
 
 {{< img name="0x1C-layer0.png" size=tiny >}}

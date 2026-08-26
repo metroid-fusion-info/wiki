@@ -3,9 +3,8 @@ title: Restricted Corridor
 resources:
     - name: "0x41.png"
       src: "0x41.png"
-      title: ""
+      title: "Room 0x41"
 ---
-
 {{< img name="0x41.png" size=tiny >}}
 
 ### Metadata

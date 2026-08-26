@@ -3,9 +3,8 @@ title: Restricted Laboratory Staircase
 resources:
     - name: "0x50.png"
       src: "0x50.png"
-      title: ""
+      title: "Room 0x50"
 ---
-
 {{< img name="0x50.png" size=tiny >}}
 
 ### Metadata

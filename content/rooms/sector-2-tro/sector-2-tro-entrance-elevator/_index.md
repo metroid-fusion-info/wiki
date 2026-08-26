@@ -3,9 +3,8 @@ title: Sector 2 (TRO) Entrance Elevator
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"
-      title: ""
+      title: "Room 0x1D"
 ---
-
 {{< img name="0x1D.png" size=tiny >}}
 
 ### Metadata

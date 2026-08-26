@@ -3,9 +3,8 @@ title: Habitation Deck Elevator
 resources:
     - name: "0x4C.png"
       src: "0x4C.png"
-      title: ""
+      title: "Room 0x4C"
 ---
-
 {{< img name="0x4C.png" size=tiny >}}
 
 ### Metadata

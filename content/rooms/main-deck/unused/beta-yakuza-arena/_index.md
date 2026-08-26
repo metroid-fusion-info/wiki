@@ -2,10 +2,9 @@
 title: Beta Yakuza Arena
 resources:
     - name: "0x35.png"
-      src: 0x35.png
-      title: ""
+      src: "0x35.png"
+      title: "Room 0x35"
 ---
-
 {{< img name="0x35.png" size=tiny >}}
 
 A beta variant of [Yakuza Arena](../../yakuza-arena/). Left side does not contain any door objects.

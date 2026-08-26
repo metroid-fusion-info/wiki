@@ -3,9 +3,8 @@ title: Main Elevator Cache
 resources:
     - name: "0x49.png"
       src: "0x49.png"
-      title: ""
+      title: "Room 0x49"
 ---
-
 {{< img name="0x49.png" size=tiny >}}
 
 ### Metadata

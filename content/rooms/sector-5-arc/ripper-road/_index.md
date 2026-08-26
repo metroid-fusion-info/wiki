@@ -3,9 +3,8 @@ title: Ripper Road
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"
-      title: ""
+      title: "Room 0x1A"
 ---
-
 {{< img name="0x1A.png" size=tiny >}}
 
 This room is sometimes also known as "Ripper Hallway".

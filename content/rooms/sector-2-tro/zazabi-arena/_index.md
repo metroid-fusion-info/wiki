@@ -3,9 +3,8 @@ title: Zazabi Arena
 resources:
     - name: "0x12.png"
       src: "0x12.png"
-      title: ""
+      title: "Room 0x12"
 ---
-
 {{< img name="0x12.png" size=tiny >}}
 
 ### Metadata

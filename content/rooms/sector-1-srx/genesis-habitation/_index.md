@@ -3,9 +3,8 @@ title: Genesis Habitation
 resources:
     - name: "0x19.png"
       src: "0x19.png"
-      title: ""
+      title: "Room 0x19"
 ---
-
 {{< img name="0x19.png" size=tiny >}}
 
 A very useless room, as it's only a dead-end.
