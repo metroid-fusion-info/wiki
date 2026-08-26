@@ -204,7 +204,7 @@ The bomb is immune to projectiles and thus this data goes unused
 
 ## Speedrunning
 
-By the time you fight B.O.X, your Missiles will do 30 damage and your Charge Beam will do 20 (26 if you hit the flare too which you're unlikely to in this fight). Thus, Charge Beam will not shorten the fight, and you will still need 10 Missiles to defeat it.
+By the time you fight B.O.X, your Missiles will do 30 damage and your Charge Beam will do 20 (26 if you hit the flare too which you're unlikely to in this fight).
 
 There are two common strats to kill it: a beginner-friendly one using the monkey bars and an advanced one using damage boosts. 
 This video goes into both of them. Relevant timestamps are:
@@ -218,9 +218,10 @@ This video goes into both of them. Relevant timestamps are:
 
 ### Monkey Bar Strat
 
-Start the fight by jumping up and shooting a Charge Beam shot at the peak of your jump followed by a Super Missile. Then jump onto the far right of the monkey bar, and shoot at it until it starts preparing to throw a bomb. Move to the left to not get hit by it when it launches, and keep shooting until it does.\
-Should it manage to do another jump, move towards the far right of the monkey bar and wait for it to jump beneath you before finishing it off. This is because the jump takes far less time than the slow crawling of the death animation.\
-Below are some reference images for positioning:
+Start the fight by jumping up and shooting a Charge Beam shot at the peak of your jump followed by a Super Missile (see image 1). Then jump onto the far right of the monkey bar while charging your beam, and shoot at it with the charge and more Missiles until it starts preparing to throw a bomb. Move to the left and wait to not get hit by the bomb (see image 2). When the bomb launcher is no longer visible, begin firing your last missiles.\
+Should it manage to do another jump, move towards the far right of the monkey bar and wait for it to jump beneath you before finishing it off. This is because the jump takes far less time than the slow crawling of the death animation.
+
+Below are reference images for positioning:
 {{< columns >}}
 
 {{< img name="beginner-initial-jump.png" >}}
@@ -231,6 +232,23 @@ Below are some reference images for positioning:
 
 {{< / columns >}}
 
+
+
+An optimized version of this fight includes dropping off the monkey bar just before you fire your 8th missile and firing the 9th missile just before you land on top of B.O.X. This method skips the cycle of it firing the bomb and saves close to 2 seconds over not dropping of.
+
+Additionally, these videos demonstrate an ideal monkey bar strat without and with the drop-off.
+{{< columns >}}
+
+No drop-off:
+
+{{< youtube 3jFEecRbsto >}}
+
+<--->
+
+With drop-off:
+{{< youtube smqeX5YlDhQ >}}
+
+{{</ columns >}}
 
 ### Damage Boost Strat
 
