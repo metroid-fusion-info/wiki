@@ -250,15 +250,19 @@ With drop-off:
 
 {{</ columns >}}
 
-### Damage Boost Strat
+### Quick Kill 
 
-Commonly also referred to as "Quick Kill".
+Due to damage boosting, this strat has the risk of dying or losing a significant amount of health with any mistake, due to the high damage output. It should be well practiced and is a more advanced strat.
 
-This strat has risk for quite a lot of damage if not practiced well with it.\
-Start the fight by jumping into B.O.X. and shooting to Super Missiles straight down into it. Get damage boosted, shoot once diagonally down, then keep shooting straight into it, while you're in the right side of his shell hitbox. Jump out to the right wall when your i-frames are close to running out. Then Walljump, shoot 2 Missiles down and repeat.\
-An ideal fight lasts 2 rounds. If you don't manage to kill it in that time, you can switch up the strategy where instead of jumping above it and getting damage boosted, you wait on the right side to get hit by the bomb and move into its shell hitbox during your i-frames. It is a bit slower but will make you take approximately half as much damage.\
+Start the fight by jumping into B.O.X. and shooting two Super Missiles straight down into it. Get damage boosted, keep holding down and hold down angle through the damage boost, shoot once diagonally down, then keep shooting straight into it, while you're in the right side of his shell hitbox. Jump out to the right side just as you shoot your 5th Missile in the cycle, so you are out of the hitbox as your i-frames run out. Then wait just before B.O.X. fires its bomb, walljump above it, shoot 2 Missiles down and repeat.\
+An ideal fight lasts 2 rounds. If you don't manage to kill it in that time, you can switch up the strategy where instead of jumping above it and getting damage boosted, you wait on the right side to get hit by the bomb and move into its shell hitbox during your i-frames. It is a bit slower but the bomb deals approximately half as much damage as what B.O.X. deals.
+
 Below are some reference images for positioning:
-{{< columns >}}
+{{< columns size=large >}}
+
+{{< youtube Y--iLhjJuqs >}}
+
+<--->
 
 {{< img name="advanced-initial-jump.png" >}}
 
@@ -268,7 +272,7 @@ Below are some reference images for positioning:
 
 {{< / columns >}}
 
-## Looping Strat
+### Looping Strat
 
 The movement of B.O.X. is easily manipulatable. After jumping onto the monkey bars you can keep it in a loop of:
 - let it throw a bomb
@@ -289,7 +293,7 @@ In MFOR, B.O.X. spawn behaviour has been changed to appear once you have unlocke
 ### MARS
 
 In randomizers based off of MARS, B.O.X. will always be spawned, but has its spawn position moved further to the left. This makes it impossible to perform the standard speedrunning strats on it.\
-However, a variation of the [damage boost strat](#damage-boost-strat) is possible. You can see a video demonstrating it here: 
+However, a variation of [Quick Kill](#quick-kill) is possible. You can see a video demonstrating it here: 
 {{< youtube GMi0jtqOZqw >}}
 
 Start by doing a neutral jump near the activation trigger of B.O.X. and shooting a Charge Beam and a Missile at a downwards angle. When it’s preparing to jump again, do a neutral jump while moving Samus towards B.O.X. in mid air and shoot another Missile at a downwards angle. This is done twice.\
