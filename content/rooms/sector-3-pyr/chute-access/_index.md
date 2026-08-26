@@ -1,5 +1,7 @@
 ---
 title: Chute Access
+images:
+  - "/rooms/sector-3-pyr/chute-access/0x24.png"
 resources:
     - name: "0x24.png"
       src: "0x24.png"

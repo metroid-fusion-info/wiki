@@ -1,5 +1,7 @@
 ---
 title: Cellar Save Room
+images:
+  - "/rooms/sector-5-arc/cellar-save-room/0x26.png"
 resources:
     - name: "0x26.png"
       src: "0x26.png"

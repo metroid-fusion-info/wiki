@@ -1,5 +1,7 @@
 ---
 title: Owtch Office
+images:
+  - "/rooms/sector-2-tro/owtch-office/0x27.png"
 resources:
     - name: "0x27.png"
       src: "0x27.png"

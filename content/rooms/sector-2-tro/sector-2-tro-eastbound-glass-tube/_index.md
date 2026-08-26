@@ -1,5 +1,7 @@
 ---
 title: Sector 2 (TRO) Eastbound Glass Tube
+images:
+  - "/rooms/sector-2-tro/sector-2-tro-eastbound-glass-tube/0x35.png"
 resources:
     - name: "0x35.png"
       src: "0x35.png"

@@ -1,5 +1,7 @@
 ---
 title: Waterway
+images:
+  - "/rooms/sector-4-aqa/waterway/0x1C.png"
 resources:
     - name: "0x1C.png"
       src: "0x1C.png"

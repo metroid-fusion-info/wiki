@@ -1,5 +1,7 @@
 ---
 title: Transmutation Trial
+images:
+  - "/rooms/sector-5-arc/transmutation-trial/0x33.png"
 resources:
     - name: "0x33.png"
       src: "0x33.png"

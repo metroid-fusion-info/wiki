@@ -1,5 +1,7 @@
 ---
 title: Data Checkpoint
+images:
+  - "/rooms/sector-5-arc/data-checkpoint/0x23.png"
 resources:
     - name: "0x23.png"
       src: "0x23.png"

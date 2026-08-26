@@ -1,5 +1,7 @@
 ---
 title: Concourse Save Room
+images:
+  - "/rooms/main-deck/concourse-save-room/0x21.png"
 resources:
     - name: "0x21.png"
       src: "0x21.png"

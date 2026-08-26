@@ -1,5 +1,7 @@
 ---
 title: Restricted Back Door
+images:
+  - "/rooms/main-deck/restricted-back-door/0x3E.png"
 resources:
     - name: "0x3E.png"
       src: "0x3E.png"

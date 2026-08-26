@@ -1,5 +1,7 @@
 ---
 title: Security Access
+images:
+  - "/rooms/sector-3-pyr/security-access/0x3-layer0.png"
 resources:
     - name: "0x3-layer0.png"
       src: "0x3-layer0.png"

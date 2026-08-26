@@ -1,5 +1,7 @@
 ---
 title: Yakuza Arena
+images:
+  - "/rooms/main-deck/yakuza-arena/0x56.png"
 resources:
     - name: "0x56.png"
       src: "0x56.png"

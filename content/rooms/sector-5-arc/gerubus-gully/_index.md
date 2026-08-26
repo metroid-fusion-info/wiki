@@ -1,5 +1,7 @@
 ---
 title: Gerubus Gully
+images:
+  - "/rooms/sector-5-arc/gerubus-gully/0x21.png"
 resources:
     - name: "0x21.png"
       src: "0x21.png"

@@ -1,5 +1,7 @@
 ---
 title: Kago Roadblock
+images:
+  - "/rooms/sector-5-arc/kago-roadblock/0x27-layer0.png"
 resources:
     - name: "0x27-layer0.png"
       src: "0x27-layer0.png"

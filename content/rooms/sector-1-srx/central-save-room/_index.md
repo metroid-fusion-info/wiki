@@ -1,5 +1,7 @@
 ---
 title: Central Save Room
+images:
+  - "/rooms/sector-1-srx/central-save-room/0x2A.png"
 resources:
     - name: "0x2A.png"
       src: "0x2A.png"

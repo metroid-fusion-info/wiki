@@ -1,5 +1,7 @@
 ---
 title: Serris Speedway
+images:
+  - "/rooms/sector-4-aqa/serris-speedway/0x9.png"
 resources:
     - name: "0x9.png"
       src: "0x9.png"

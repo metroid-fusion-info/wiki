@@ -1,5 +1,7 @@
 ---
 title: Beta Hangar A
+images:
+  - "/rooms/main-deck/unused/beta-hangar-a/0x1.png"
 resources:
     - name: "0x1.png"
       src: "0x1.png"

@@ -1,5 +1,7 @@
 ---
 title: Nettori Arena Access
+images:
+  - "/rooms/sector-2-tro/nettori-arena-access/0x14.png"
 resources:
     - name: "0x14.png"
       src: "0x14.png"

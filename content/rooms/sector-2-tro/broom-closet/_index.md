@@ -1,5 +1,7 @@
 ---
 title: Broom Closet
+images:
+  - "/rooms/sector-2-tro/broom-closet/0x3B-layer0.png"
 resources:
     - name: "0x3B-layer0.png"
       src: "0x3B-layer0.png"

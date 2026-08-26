@@ -1,5 +1,7 @@
 ---
 title: Clogged Cavern
+images:
+  - "/rooms/sector-6-noc/clogged-cavern/0x9.png"
 resources:
     - name: "0x9.png"
       src: "0x9.png"

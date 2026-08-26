@@ -1,5 +1,7 @@
 ---
 title: Sova Processing
+images:
+  - "/rooms/sector-3-pyr/sova-processing/0x13.png"
 resources:
     - name: "0x13.png"
       src: "0x13.png"

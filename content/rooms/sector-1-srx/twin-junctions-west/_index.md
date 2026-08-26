@@ -1,5 +1,7 @@
 ---
 title: Twin Junctions West
+images:
+  - "/rooms/sector-1-srx/twin-junctions-west/0x6.png"
 resources:
     - name: "0x6.png"
       src: "0x6.png"

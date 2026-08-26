@@ -1,5 +1,7 @@
 ---
 title: Data Courtyard
+images:
+  - "/rooms/sector-2-tro/data-courtyard/0x1F-layer0.png"
 resources:
     - name: "0x1F-layer0.png"
       src: "0x1F-layer0.png"

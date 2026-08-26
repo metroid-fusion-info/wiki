@@ -1,5 +1,7 @@
 ---
 title: Bridge Access
+images:
+  - "/rooms/sector-4-aqa/bridge-access/0x8.png"
 resources:
     - name: "0x8.png"
       src: "0x8.png"

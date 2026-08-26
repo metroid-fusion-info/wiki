@@ -1,5 +1,7 @@
 ---
 title: Namihe's Lair
+images:
+  - "/rooms/sector-3-pyr/namihes-lair/0x1E-layer0.png"
 resources:
     - name: "0x1E-layer0.png"
       src: "0x1E-layer0.png"

@@ -1,5 +1,7 @@
 ---
 title: Habitation Deck Elevator
+images:
+  - "/rooms/main-deck/habitation-deck-elevator/0x4C.png"
 resources:
     - name: "0x4C.png"
       src: "0x4C.png"

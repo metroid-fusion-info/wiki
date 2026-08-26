@@ -1,5 +1,7 @@
 ---
 title: Security Access
+images:
+  - "/rooms/sector-2-tro/security-access/0x5-layer0.png"
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"

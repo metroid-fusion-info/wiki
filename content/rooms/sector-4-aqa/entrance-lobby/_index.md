@@ -1,5 +1,7 @@
 ---
 title: Entrance Lobby
+images:
+  - "/rooms/sector-4-aqa/entrance-lobby/0x0.png"
 resources:
     - name: "0x0.png"
       src: "0x0.png"

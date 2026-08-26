@@ -1,5 +1,7 @@
 ---
 title: Magic Box
+images:
+  - "/rooms/sector-5-arc/magic-box/0x1E.png"
 resources:
     - name: "0x1E.png"
       src: "0x1E.png"

@@ -1,5 +1,7 @@
 ---
 title: Blue-X Blockade
+images:
+  - "/rooms/sector-6-noc/blue-x-blockade/0x6-layer0.png"
 resources:
     - name: "0x6-layer0.png"
       src: "0x6-layer0.png"

@@ -1,5 +1,7 @@
 ---
 title: Crumble City
+images:
+  - "/rooms/sector-2-tro/crumble-city/0x36.png"
 resources:
     - name: "0x36.png"
       src: "0x36.png"

@@ -1,5 +1,7 @@
 ---
 title: Crew Quarters West
+images:
+  - "/rooms/main-deck/crew-quarters-west/0xC-layer0.png"
 resources:
     - name: "0xC-layer0.png"
       src: "0xC-layer0.png"

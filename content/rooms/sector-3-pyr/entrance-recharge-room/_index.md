@@ -1,5 +1,7 @@
 ---
 title: Entrance Recharge Room
+images:
+  - "/rooms/sector-3-pyr/entrance-recharge-room/0x1A.png"
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"

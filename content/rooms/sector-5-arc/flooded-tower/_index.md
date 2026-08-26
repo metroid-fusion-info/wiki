@@ -1,5 +1,7 @@
 ---
 title: Flooded Tower
+images:
+  - "/rooms/sector-5-arc/flooded-tower/0x2D.png"
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"

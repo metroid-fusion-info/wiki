@@ -1,5 +1,7 @@
 ---
 title: Nightmare Recharge Room
+images:
+  - "/rooms/sector-5-arc/nightmare-recharge-room/0x30.png"
 resources:
     - name: "0x30.png"
       src: "0x30.png"

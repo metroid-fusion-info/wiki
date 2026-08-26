@@ -1,5 +1,7 @@
 ---
 title: Nightmare Arena
+images:
+  - "/rooms/sector-5-arc/nightmare-arena/0x14.png"
 resources:
     - name: "0x14.png"
       src: "0x14.png"

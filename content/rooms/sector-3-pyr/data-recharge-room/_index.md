@@ -1,5 +1,7 @@
 ---
 title: Data Recharge Room
+images:
+  - "/rooms/sector-3-pyr/data-recharge-room/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

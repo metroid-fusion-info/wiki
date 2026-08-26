@@ -1,5 +1,7 @@
 ---
 title: Operations Deck Navigation Room
+images:
+  - "/rooms/main-deck/operations-deck-navigation-room/0x20.png"
 resources:
     - name: "0x20.png"
       src: "0x20.png"

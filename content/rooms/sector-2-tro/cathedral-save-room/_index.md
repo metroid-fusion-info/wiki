@@ -1,5 +1,7 @@
 ---
 title: Cathedral Save Room
+images:
+  - "/rooms/sector-2-tro/cathedral-save-room/0x10.png"
 resources:
     - name: "0x10.png"
       src: "0x10.png"

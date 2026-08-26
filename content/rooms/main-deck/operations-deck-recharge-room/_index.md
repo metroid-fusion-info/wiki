@@ -1,5 +1,7 @@
 ---
 title: Operations Deck Recharge Room
+images:
+  - "/rooms/main-deck/operations-deck-recharge-room/0x51.png"
 resources:
     - name: "0x51.png"
       src: "0x51.png"

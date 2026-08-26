@@ -1,5 +1,7 @@
 ---
 title: Reo Room
+images:
+  - "/rooms/sector-2-tro/reo-room/0x1C-layer0.png"
 resources:
     - name: "0x1C-layer0.png"
       src: "0x1C-layer0.png"

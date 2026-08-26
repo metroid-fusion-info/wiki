@@ -1,5 +1,7 @@
 ---
 title: Aquarium Shaft
+images:
+  - "/rooms/sector-4-aqa/aquarium-shaft/0xE.png"
 resources:
     - name: "0xE.png"
       src: "0xE.png"

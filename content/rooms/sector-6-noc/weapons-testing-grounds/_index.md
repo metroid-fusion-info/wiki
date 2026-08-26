@@ -1,5 +1,7 @@
 ---
 title: Weapons Testing Grounds
+images:
+  - "/rooms/sector-6-noc/weapons-testing-grounds/0x1B.png"
 resources:
     - name: "0x1B.png"
       src: "0x1B.png"

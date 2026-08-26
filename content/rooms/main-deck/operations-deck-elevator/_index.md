@@ -1,5 +1,7 @@
 ---
 title: Operations Deck Elevator
+images:
+  - "/rooms/main-deck/operations-deck-elevator/0x3C-layer0.png"
 resources:
     - name: "0x3C-layer0.png"
       src: "0x3C-layer0.png"

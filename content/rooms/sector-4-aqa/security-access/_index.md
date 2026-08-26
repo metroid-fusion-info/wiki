@@ -1,5 +1,7 @@
 ---
 title: Security Access
+images:
+  - "/rooms/sector-4-aqa/security-access/0x19.png"
 resources:
     - name: "0x19.png"
       src: "0x19.png"

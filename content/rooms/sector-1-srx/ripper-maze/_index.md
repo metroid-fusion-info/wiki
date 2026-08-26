@@ -1,5 +1,7 @@
 ---
 title: Ripper Maze
+images:
+  - "/rooms/sector-1-srx/ripper-maze/0x1E.png"
 resources:
     - name: "0x1E.png"
       src: "0x1E.png"

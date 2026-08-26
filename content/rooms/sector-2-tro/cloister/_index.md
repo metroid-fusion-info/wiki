@@ -1,5 +1,7 @@
 ---
 title: Cloister
+images:
+  - "/rooms/sector-2-tro/cloister/0x13-layer0.png"
 resources:
     - name: "0x13-layer0.png"
       src: "0x13-layer0.png"

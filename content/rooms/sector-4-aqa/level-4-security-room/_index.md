@@ -1,5 +1,7 @@
 ---
 title: Level 4 Security Room
+images:
+  - "/rooms/sector-4-aqa/level-4-security-room/0x1A.png"
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"

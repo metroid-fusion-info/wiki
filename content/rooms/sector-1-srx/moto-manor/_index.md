@@ -1,5 +1,7 @@
 ---
 title: Moto Manor
+images:
+  - "/rooms/sector-1-srx/moto-manor/0xC-layer0.png"
 resources:
     - name: "0xC-layer0.png"
       src: "0xC-layer0.png"

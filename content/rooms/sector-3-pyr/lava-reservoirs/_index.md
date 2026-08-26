@@ -1,5 +1,7 @@
 ---
 title: Lava Reservoirs
+images:
+  - "/rooms/sector-3-pyr/lava-reservoirs/0xB.png"
 resources:
     - name: "0xB.png"
       src: "0xB.png"

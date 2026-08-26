@@ -1,5 +1,7 @@
 ---
 title: Arctic Underside
+images:
+  - "/rooms/sector-5-arc/arctic-underside/0x2A.png"
 resources:
     - name: "0x2A.png"
       src: "0x2A.png"

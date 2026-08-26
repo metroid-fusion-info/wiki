@@ -1,5 +1,7 @@
 ---
 title: Sciser Playground
+images:
+  - "/rooms/sector-1-srx/sciser-playground/0x26.png"
 resources:
     - name: "0x26.png"
       src: "0x26.png"

@@ -1,5 +1,7 @@
 ---
 title: Operations Deck Save Room
+images:
+  - "/rooms/main-deck/operations-deck-save-room/0x2C.png"
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"

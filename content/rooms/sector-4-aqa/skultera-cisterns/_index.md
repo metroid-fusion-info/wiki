@@ -1,5 +1,7 @@
 ---
 title: Skultera Cisterns
+images:
+  - "/rooms/sector-4-aqa/skultera-cisterns/0x7.png"
 resources:
     - name: "0x7.png"
       src: "0x7.png"

@@ -1,5 +1,7 @@
 ---
 title: E-Tank Mimic Den
+images:
+  - "/rooms/sector-5-arc/e-tank-mimic-den/0xC.png"
 resources:
     - name: "0xC.png"
       src: "0xC.png"

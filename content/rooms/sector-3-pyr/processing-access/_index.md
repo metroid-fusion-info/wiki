@@ -1,5 +1,7 @@
 ---
 title: Processing Access
+images:
+  - "/rooms/sector-3-pyr/processing-access/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

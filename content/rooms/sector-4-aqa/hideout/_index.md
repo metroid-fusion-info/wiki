@@ -1,5 +1,7 @@
 ---
 title: Hideout
+images:
+  - "/rooms/sector-4-aqa/hideout/0x2D.png"
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"

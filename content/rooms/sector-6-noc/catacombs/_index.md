@@ -1,5 +1,7 @@
 ---
 title: Catacombs
+images:
+  - "/rooms/sector-6-noc/catacombs/0x1A.png"
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"

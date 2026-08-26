@@ -1,5 +1,7 @@
 ---
 title: Kago Speedway
+images:
+  - "/rooms/sector-5-arc/kago-speedway/0x29.png"
 resources:
     - name: "0x29.png"
       src: "0x29.png"

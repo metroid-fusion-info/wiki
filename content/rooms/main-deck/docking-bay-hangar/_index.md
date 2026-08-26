@@ -1,5 +1,7 @@
 ---
 title: Docking Bay Hangar
+images:
+  - "/rooms/main-deck/docking-bay-hangar/0x0.png"
 resources:
     - name: "0x0.png"
       src: "0x0.png"

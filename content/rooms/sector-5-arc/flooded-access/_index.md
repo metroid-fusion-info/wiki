@@ -1,5 +1,7 @@
 ---
 title: Flooded Access
+images:
+  - "/rooms/sector-5-arc/flooded-access/0x1C.png"
 resources:
     - name: "0x1C.png"
       src: "0x1C.png"

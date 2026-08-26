@@ -1,5 +1,7 @@
 ---
 title: Crew Quarters Save Room
+images:
+  - "/rooms/main-deck/crew-quarters-save-room/0x25.png"
 resources:
     - name: "0x25.png"
       src: "0x25.png"

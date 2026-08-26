@@ -1,5 +1,7 @@
 ---
 title: Data Room
+images:
+  - "/rooms/sector-5-arc/data-room/0x5.png"
 resources:
     - name: "0x5.png"
       src: "0x5.png"

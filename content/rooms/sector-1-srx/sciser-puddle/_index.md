@@ -1,5 +1,7 @@
 ---
 title: Sciser Puddle
+images:
+  - "/rooms/sector-1-srx/sciser-puddle/0x2D.png"
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"

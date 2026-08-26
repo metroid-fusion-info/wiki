@@ -1,5 +1,7 @@
 ---
 title: Zazabi Arena Access
+images:
+  - "/rooms/sector-2-tro/zazabi-arena-access/0x11-layer0.png"
 resources:
     - name: "0x11-layer0.png"
       src: "0x11-layer0.png"

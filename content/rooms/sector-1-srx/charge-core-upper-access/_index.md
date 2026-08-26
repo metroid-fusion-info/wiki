@@ -1,5 +1,7 @@
 ---
 title: Charge Core Upper Access
+images:
+  - "/rooms/sector-1-srx/charge-core-upper-access/0xA.png"
 resources:
     - name: "0xA.png"
       src: "0xA.png"

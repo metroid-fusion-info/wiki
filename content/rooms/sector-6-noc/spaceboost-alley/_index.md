@@ -1,5 +1,7 @@
 ---
 title: Spaceboost Alley
+images:
+  - "/rooms/sector-6-noc/spaceboost-alley/0x27.png"
 resources:
     - name: "0x27.png"
       src: "0x27.png"

@@ -1,5 +1,7 @@
 ---
 title: Zig-Zag-Zone
+images:
+  - "/rooms/sector-2-tro/zig-zag-zone/0x9-layer0.png"
 resources:
     - name: "0x9-layer0.png"
       src: "0x9-layer0.png"

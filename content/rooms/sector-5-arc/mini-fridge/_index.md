@@ -1,5 +1,7 @@
 ---
 title: Mini-Fridge
+images:
+  - "/rooms/sector-5-arc/mini-fridge/0xE.png"
 resources:
     - name: "0xE.png"
       src: "0xE.png"

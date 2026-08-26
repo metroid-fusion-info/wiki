@@ -1,5 +1,7 @@
 ---
 title: Level 1 Security Room
+images:
+  - "/rooms/sector-2-tro/level-1-security-room/0x1A.png"
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"

@@ -1,5 +1,7 @@
 ---
 title: Bob's Abode
+images:
+  - "/rooms/sector-3-pyr/bob's-abode/0x6-layer0.png"
 resources:
     - name: "0x6-layer0.png"
       src: "0x6-layer0.png"

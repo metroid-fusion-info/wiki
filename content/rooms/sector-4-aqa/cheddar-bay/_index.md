@@ -1,5 +1,7 @@
 ---
 title: Cheddar Bay
+images:
+  - "/rooms/sector-4-aqa/cheddar-bay/0x18.png"
 resources:
     - name: "0x18.png"
       src: "0x18.png"

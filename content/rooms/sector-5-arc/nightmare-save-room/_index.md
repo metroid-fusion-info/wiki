@@ -1,5 +1,7 @@
 ---
 title: Nightmare Save Room
+images:
+  - "/rooms/sector-5-arc/nightmare-save-room/0x31.png"
 resources:
     - name: "0x31.png"
       src: "0x31.png"

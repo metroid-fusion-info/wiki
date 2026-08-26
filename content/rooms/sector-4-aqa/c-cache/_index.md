@@ -1,5 +1,7 @@
 ---
 title: C-Cache
+images:
+  - "/rooms/sector-4-aqa/c-cache/0x2E.png"
 resources:
     - name: "0x2E.png"
       src: "0x2E.png"

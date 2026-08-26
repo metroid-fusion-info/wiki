@@ -1,5 +1,7 @@
 ---
 title: Data Room
+images:
+  - "/rooms/sector-4-aqa/data-room/0x4.png"
 resources:
     - name: "0x4.png"
       src: "0x4.png"

@@ -1,5 +1,7 @@
 ---
 title: B.O.X. Arena
+images:
+  - "/rooms/sector-3-pyr/b.o.x.-arena/0x12.png"
 resources:
     - name: "0x12.png"
       src: "0x12.png"

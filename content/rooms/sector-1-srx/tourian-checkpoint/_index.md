@@ -1,5 +1,7 @@
 ---
 title: Tourian Checkpoint
+images:
+  - "/rooms/sector-1-srx/tourian-checkpoint/0x1C.png"
 resources:
     - name: "0x1C.png"
       src: "0x1C.png"

@@ -1,5 +1,7 @@
 ---
 title: Ruined Break Room
+images:
+  - "/rooms/sector-5-arc/ruined-break-room/0x2F.png"
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"

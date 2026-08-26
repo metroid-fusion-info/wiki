@@ -1,5 +1,7 @@
 ---
 title: Lava Lake
+images:
+  - "/rooms/sector-1-srx/lava-lake/0x11.png"
 resources:
     - name: "0x11.png"
       src: "0x11.png"

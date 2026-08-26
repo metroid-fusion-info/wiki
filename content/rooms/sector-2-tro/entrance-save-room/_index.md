@@ -1,5 +1,7 @@
 ---
 title: Entrance Save Room
+images:
+  - "/rooms/sector-2-tro/entrance-save-room/0x1.png"
 resources:
     - name: "0x1.png"
       src: "0x1.png"

@@ -1,5 +1,7 @@
 ---
 title: X-B.O.X. Arena
+images:
+  - "/rooms/sector-6-noc/x-b.o.x.-arena/0x10-layer0.png"
 resources:
     - name: "0x10-layer0.png"
       src: "0x10-layer0.png"

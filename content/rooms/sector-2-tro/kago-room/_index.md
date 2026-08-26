@@ -1,5 +1,7 @@
 ---
 title: Kago Room
+images:
+  - "/rooms/sector-2-tro/kago-room/0x21.png"
 resources:
     - name: "0x21.png"
       src: "0x21.png"

@@ -1,5 +1,7 @@
 ---
 title: Entrance Recharge Room
+images:
+  - "/rooms/sector-6-noc/entrance-recharge-room/0x1D.png"
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"

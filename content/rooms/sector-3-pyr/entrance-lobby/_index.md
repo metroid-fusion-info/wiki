@@ -1,5 +1,7 @@
 ---
 title: Entrance Lobby
+images:
+  - "/rooms/sector-3-pyr/entrance-lobby/0x0-layer0.png"
 resources:
     - name: "0x0-layer0.png"
       src: "0x0-layer0.png"

@@ -1,5 +1,7 @@
 ---
 title: Quarantine Bay
+images:
+  - "/rooms/main-deck/quarantine-bay/0x47.png"
 resources:
     - name: "0x47.png"
       src: "0x47.png"

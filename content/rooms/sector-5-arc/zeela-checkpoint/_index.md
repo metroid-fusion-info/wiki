@@ -1,5 +1,7 @@
 ---
 title: Zeela Checkpoint
+images:
+  - "/rooms/sector-5-arc/zeela-checkpoint/0x8-layer0.png"
 resources:
     - name: "0x8-layer0.png"
       src: "0x8-layer0.png"

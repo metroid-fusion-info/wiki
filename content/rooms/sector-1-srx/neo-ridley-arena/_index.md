@@ -1,5 +1,7 @@
 ---
 title: Neo-Ridley Arena
+images:
+  - "/rooms/sector-1-srx/neo-ridley-arena/0x1B.png"
 resources:
     - name: "0x1B.png"
       src: "0x1B.png"

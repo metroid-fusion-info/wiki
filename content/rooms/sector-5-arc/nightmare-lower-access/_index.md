@@ -1,5 +1,7 @@
 ---
 title: Nightmare Lower Access
+images:
+  - "/rooms/sector-5-arc/nightmare-lower-access/0x1B.png"
 resources:
     - name: "0x1B.png"
       src: "0x1B.png"

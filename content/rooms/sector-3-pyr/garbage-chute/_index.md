@@ -1,5 +1,7 @@
 ---
 title: Garbage Chute
+images:
+  - "/rooms/sector-3-pyr/garbage-chute/0x23.png"
 resources:
     - name: "0x23.png"
       src: "0x23.png"

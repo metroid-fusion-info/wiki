@@ -1,5 +1,7 @@
 ---
 title: Frozen Tower
+images:
+  - "/rooms/sector-5-arc/frozen-tower/0x2C.png"
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"

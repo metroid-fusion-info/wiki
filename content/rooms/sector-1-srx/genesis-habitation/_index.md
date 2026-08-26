@@ -1,5 +1,7 @@
 ---
 title: Genesis Habitation
+images:
+  - "/rooms/sector-1-srx/genesis-habitation/0x19.png"
 resources:
     - name: "0x19.png"
       src: "0x19.png"

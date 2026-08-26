@@ -1,5 +1,7 @@
 ---
 title: Overgrown Spire
+images:
+  - "/rooms/sector-2-tro/overgrown-spire/0x20.png"
 resources:
     - name: "0x20.png"
       src: "0x20.png"

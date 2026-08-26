@@ -1,5 +1,7 @@
 ---
 title: Sector 6 (NOC) Westbound Glass Tube
+images:
+  - "/rooms/sector-6-noc/sector-6-noc-westbound-glass-tube/0x24.png"
 resources:
     - name: "0x24.png"
       src: "0x24.png"

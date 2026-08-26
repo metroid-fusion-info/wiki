@@ -1,5 +1,7 @@
 ---
 title: Ripper Sauna
+images:
+  - "/rooms/sector-1-srx/ripper-sauna/0x24.png"
 resources:
     - name: "0x24.png"
       src: "0x24.png"

@@ -1,5 +1,7 @@
 ---
 title: Shooting Gallery
+images:
+  - "/rooms/sector-2-tro/shooting-gallery/0xC.png"
 resources:
     - name: "0xC.png"
       src: "0xC.png"

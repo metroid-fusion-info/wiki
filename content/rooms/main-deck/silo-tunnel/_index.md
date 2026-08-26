@@ -1,5 +1,7 @@
 ---
 title: Silo Tunnel
+images:
+  - "/rooms/main-deck/silo-tunnel/0x37.png"
 resources:
     - name: "0x37.png"
       src: "0x37.png"

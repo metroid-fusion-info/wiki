@@ -1,5 +1,7 @@
 ---
 title: Entrance Save Room
+images:
+  - "/rooms/sector-4-aqa/entrance-save-room/0x1.png"
 resources:
     - name: "0x1.png"
       src: "0x1.png"

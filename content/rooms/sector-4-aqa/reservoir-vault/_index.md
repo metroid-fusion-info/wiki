@@ -1,5 +1,7 @@
 ---
 title: Reservoir Vault
+images:
+  - "/rooms/sector-4-aqa/reservoir-vault/0xD.png"
 resources:
     - name: "0xD.png"
       src: "0xD.png"

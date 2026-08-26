@@ -1,5 +1,7 @@
 ---
 title: Auxiliary Navigation Room
+images:
+  - "/rooms/main-deck/auxiliary-navigation-room/0x38.png"
 resources:
     - name: "0x38.png"
       src: "0x38.png"

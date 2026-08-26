@@ -1,5 +1,7 @@
 ---
 title: Dessgeega Dorm
+images:
+  - "/rooms/sector-2-tro/dessgeega-dorm/0x1B-layer0.png"
 resources:
     - name: "0x1B-layer0.png"
       src: "0x1B-layer0.png"

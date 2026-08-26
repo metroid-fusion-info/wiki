@@ -1,5 +1,7 @@
 ---
 title: Pillar Highway
+images:
+  - "/rooms/sector-6-noc/pillar-highway/0x26.png"
 resources:
     - name: "0x26.png"
       src: "0x26.png"

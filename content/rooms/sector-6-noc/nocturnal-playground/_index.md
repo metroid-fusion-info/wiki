@@ -1,5 +1,7 @@
 ---
 title: Nocturnal Playground
+images:
+  - "/rooms/sector-6-noc/nocturnal-playground/0x8-layer0.png"
 resources:
     - name: "0x8-layer0.png"
       src: "0x8-layer0.png"

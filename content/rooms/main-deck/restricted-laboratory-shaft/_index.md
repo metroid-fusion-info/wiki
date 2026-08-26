@@ -1,5 +1,7 @@
 ---
 title: Restricted Laboratory Shaft
+images:
+  - "/rooms/main-deck/restricted-laboratory-shaft/0x4E.png"
 resources:
     - name: "0x4E.png"
       src: "0x4E.png"

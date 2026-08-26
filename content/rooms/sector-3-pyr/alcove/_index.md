@@ -1,5 +1,7 @@
 ---
 title: Alcove
+images:
+  - "/rooms/sector-3-pyr/alcove/0x8.png"
 resources:
     - name: "0x8.png"
       src: "0x8.png"

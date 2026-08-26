@@ -1,5 +1,7 @@
 ---
 title: Beta Hangar Access Hall
+images:
+  - "/rooms/main-deck/unused/beta-hangar-access-hall/0x5.png"
 resources:
     - name: "0x5.png"
       src: "0x5.png"

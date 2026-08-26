@@ -1,5 +1,7 @@
 ---
 title: Security Save Room
+images:
+  - "/rooms/sector-5-arc/security-save-room/0x1D.png"
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"

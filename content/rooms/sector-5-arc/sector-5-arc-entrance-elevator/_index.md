@@ -1,5 +1,7 @@
 ---
 title: Sector 5 (ARC) Entrance Elevator
+images:
+  - "/rooms/sector-5-arc/sector-5-arc-entrance-elevator/0x19.png"
 resources:
     - name: "0x19.png"
       src: "0x19.png"

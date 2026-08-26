@@ -1,5 +1,7 @@
 ---
 title: Monkey Bars of Fire
+images:
+  - "/rooms/sector-3-pyr/monkey-bars-of-fire/0x1B-layer0.png"
 resources:
     - name: "0x1B-layer0.png"
       src: "0x1B-layer0.png"

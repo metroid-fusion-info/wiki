@@ -1,5 +1,7 @@
 ---
 title: Neglected Save Room
+images:
+  - "/rooms/sector-6-noc/neglected-save-room/0x15.png"
 resources:
     - name: "0x15.png"
       src: "0x15.png"

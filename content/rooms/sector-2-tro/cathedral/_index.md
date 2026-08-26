@@ -1,5 +1,7 @@
 ---
 title: Cathedral
+images:
+  - "/rooms/sector-2-tro/cathedral/0x2E-layer0.png"
 resources:
     - name: "0x2E-layer0.png"
       src: "0x2E-layer0.png"

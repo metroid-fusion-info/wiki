@@ -1,5 +1,7 @@
 ---
 title: Data Room
+images:
+  - "/rooms/sector-6-noc/data-room/0x19-layer0.png"
 resources:
     - name: "0x19-layer0.png"
       src: "0x19-layer0.png"

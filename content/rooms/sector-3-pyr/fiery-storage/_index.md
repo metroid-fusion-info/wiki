@@ -1,5 +1,7 @@
 ---
 title: Fiery Storage
+images:
+  - "/rooms/sector-3-pyr/fiery-storage/0x1C.png"
 resources:
     - name: "0x1C.png"
       src: "0x1C.png"

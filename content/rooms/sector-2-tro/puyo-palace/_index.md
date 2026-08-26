@@ -1,5 +1,7 @@
 ---
 title: Puyo Palace
+images:
+  - "/rooms/sector-2-tro/puyo-palace/0x2F.png"
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"

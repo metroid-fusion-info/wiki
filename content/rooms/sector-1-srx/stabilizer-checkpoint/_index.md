@@ -1,5 +1,7 @@
 ---
 title: Stabilizer Checkpoint
+images:
+  - "/rooms/sector-1-srx/stabilizer-checkpoint/0xE.png"
 resources:
     - name: "0xE.png"
       src: "0xE.png"

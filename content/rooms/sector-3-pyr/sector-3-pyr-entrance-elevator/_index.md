@@ -1,5 +1,7 @@
 ---
 title: Sector 3 (PYR) Entrance Elevator
+images:
+  - "/rooms/sector-3-pyr/sector-3-pyr-entrance-elevator/0x14.png"
 resources:
     - name: "0x14.png"
       src: "0x14.png"

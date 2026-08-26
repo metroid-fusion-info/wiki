@@ -1,5 +1,7 @@
 ---
 title: Ruined Corridor
+images:
+  - "/rooms/sector-5-arc/ruined-corridor/0x11.png"
 resources:
     - name: "0x11.png"
       src: "0x11.png"

@@ -1,5 +1,7 @@
 ---
 title: Antechamber
+images:
+  - "/rooms/sector-1-srx/antechamber/0x27.png"
 resources:
     - name: "0x27.png"
       src: "0x27.png"

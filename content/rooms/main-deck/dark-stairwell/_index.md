@@ -1,5 +1,7 @@
 ---
 title: Dark Stairwell
+images:
+  - "/rooms/main-deck/dark-stairwell/0x14.png"
 resources:
     - name: "0x14.png"
       src: "0x14.png"

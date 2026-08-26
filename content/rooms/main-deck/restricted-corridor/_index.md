@@ -1,5 +1,7 @@
 ---
 title: Restricted Corridor
+images:
+  - "/rooms/main-deck/restricted-corridor/0x41.png"
 resources:
     - name: "0x41.png"
       src: "0x41.png"

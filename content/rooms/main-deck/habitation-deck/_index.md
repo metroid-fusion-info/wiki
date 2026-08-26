@@ -1,5 +1,7 @@
 ---
 title: Habitation Deck
+images:
+  - "/rooms/main-deck/habitation-deck/0x45.png"
 resources:
     - name: "0x45.png"
       src: "0x45.png"

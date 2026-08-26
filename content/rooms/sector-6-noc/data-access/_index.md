@@ -1,5 +1,7 @@
 ---
 title: Data Access
+images:
+  - "/rooms/sector-6-noc/data-access/0xC.png"
 resources:
     - name: "0xC.png"
       src: "0xC.png"

@@ -1,5 +1,7 @@
 ---
 title: Pump Control Unit
+images:
+  - "/rooms/sector-4-aqa/pump-control-unit/0x21-layer0.png"
 resources:
     - name: "0x21-layer0.png"
       src: "0x21-layer0.png"

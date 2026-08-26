@@ -1,5 +1,7 @@
 ---
 title: Checkpoint Crossing
+images:
+  - "/rooms/sector-3-pyr/checkpoint-crossing/0x5-layer0.png"
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"

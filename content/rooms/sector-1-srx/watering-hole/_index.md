@@ -1,5 +1,7 @@
 ---
 title: Watering Hole
+images:
+  - "/rooms/sector-1-srx/watering-hole/0x2F.png"
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"

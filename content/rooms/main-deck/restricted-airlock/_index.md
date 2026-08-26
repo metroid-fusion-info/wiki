@@ -1,5 +1,7 @@
 ---
 title: Restricted Airlock
+images:
+  - "/rooms/main-deck/restricted-airlock/0x11.png"
 resources:
     - name: "0x11.png"
       src: "0x11.png"

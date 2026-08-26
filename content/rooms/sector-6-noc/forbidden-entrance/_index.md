@@ -1,5 +1,7 @@
 ---
 title: Forbidden Entrance
+images:
+  - "/rooms/sector-6-noc/forbidden-entrance/0x7-layer0.png"
 resources:
     - name: "0x7-layer0.png"
       src: "0x7-layer0.png"

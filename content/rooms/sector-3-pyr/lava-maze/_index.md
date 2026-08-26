@@ -1,5 +1,7 @@
 ---
 title: Lava Maze
+images:
+  - "/rooms/sector-3-pyr/lava-maze/0xC.png"
 resources:
     - name: "0xC.png"
       src: "0xC.png"

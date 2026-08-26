@@ -1,5 +1,7 @@
 ---
 title: Lava Lake Annex
+images:
+  - "/rooms/sector-1-srx/lava-lake-annex/0x14-layer0.png"
 resources:
     - name: "0x14-layer0.png"
       src: "0x14-layer0.png"

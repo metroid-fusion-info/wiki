@@ -1,5 +1,7 @@
 ---
 title: Security Shaft West
+images:
+  - "/rooms/sector-5-arc/security-shaft-west/0x9-layer0.png"
 resources:
     - name: "0x9-layer0.png"
       src: "0x9-layer0.png"

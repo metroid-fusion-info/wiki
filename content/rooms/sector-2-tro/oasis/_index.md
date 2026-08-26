@@ -1,5 +1,7 @@
 ---
 title: Oasis
+images:
+  - "/rooms/sector-2-tro/oasis/0x2A.png"
 resources:
     - name: "0x2A.png"
       src: "0x2A.png"

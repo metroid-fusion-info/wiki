@@ -1,5 +1,7 @@
 ---
 title: Nightmare Nook
+images:
+  - "/rooms/sector-5-arc/nightmare-nook/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

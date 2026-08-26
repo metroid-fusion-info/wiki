@@ -1,5 +1,7 @@
 ---
 title: Animorphs
+images:
+  - "/rooms/sector-1-srx/animorphs/0x33.png"
 resources:
     - name: "0x33.png"
       src: "0x33.png"

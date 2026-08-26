@@ -1,5 +1,7 @@
 ---
 title: Ripper Road
+images:
+  - "/rooms/sector-5-arc/ripper-road/0x1A.png"
 resources:
     - name: "0x1A.png"
       src: "0x1A.png"

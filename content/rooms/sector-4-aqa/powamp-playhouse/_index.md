@@ -1,5 +1,7 @@
 ---
 title: Powamp Playhouse
+images:
+  - "/rooms/sector-4-aqa/powamp-playhouse/0x3-layer0.png"
 resources:
     - name: "0x3-layer0.png"
       src: "0x3-layer0.png"

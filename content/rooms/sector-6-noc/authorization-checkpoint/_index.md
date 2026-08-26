@@ -1,5 +1,7 @@
 ---
 title: Authorization Checkpoint
+images:
+  - "/rooms/sector-6-noc/authorization-checkpoint/0x16.png"
 resources:
     - name: "0x16.png"
       src: "0x16.png"

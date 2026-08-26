@@ -1,5 +1,7 @@
 ---
 title: Operations Room
+images:
+  - "/rooms/main-deck/operations-room/0x52.png"
 resources:
     - name: "0x52.png"
       src: "0x52.png"

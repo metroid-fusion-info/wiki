@@ -1,5 +1,7 @@
 ---
 title: Ripper Tower
+images:
+  - "/rooms/sector-2-tro/ripper-tower/0x32.png"
 resources:
     - name: "0x32.png"
       src: "0x32.png"

@@ -1,5 +1,7 @@
 ---
 title: Sciser Sanctuary
+images:
+  - "/rooms/sector-4-aqa/sciser-sanctuary/0x28.png"
 resources:
     - name: "0x28.png"
       src: "0x28.png"

@@ -1,5 +1,7 @@
 ---
 title: Main Elevator Access
+images:
+  - "/rooms/main-deck/main-elevator-access/0x29.png"
 resources:
     - name: "0x29.png"
       src: "0x29.png"

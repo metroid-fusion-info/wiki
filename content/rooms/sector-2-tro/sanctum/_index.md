@@ -1,5 +1,7 @@
 ---
 title: Sanctum
+images:
+  - "/rooms/sector-2-tro/sanctum/0x2D.png"
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"

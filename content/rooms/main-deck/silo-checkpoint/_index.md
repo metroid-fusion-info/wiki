@@ -1,5 +1,7 @@
 ---
 title: Silo Checkpoint
+images:
+  - "/rooms/main-deck/silo-checkpoint/0x34.png"
 resources:
     - name: "0x34.png"
       src: "0x34.png"

@@ -1,5 +1,7 @@
 ---
 title: Atmospheric Stabilizer Northwest
+images:
+  - "/rooms/sector-1-srx/atmospheric-stabilizer-northwest/0x4-layer0.png"
 resources:
     - name: "0x4-layer0.png"
       src: "0x4-layer0.png"

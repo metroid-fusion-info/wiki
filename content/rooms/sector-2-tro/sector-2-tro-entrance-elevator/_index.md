@@ -1,5 +1,7 @@
 ---
 title: Sector 2 (TRO) Entrance Elevator
+images:
+  - "/rooms/sector-2-tro/sector-2-tro-entrance-elevator/0x1D.png"
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"

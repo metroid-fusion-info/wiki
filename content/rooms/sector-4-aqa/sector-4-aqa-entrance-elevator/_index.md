@@ -1,5 +1,7 @@
 ---
 title: Sector 4 (AQA) Entrance Elevator
+images:
+  - "/rooms/sector-4-aqa/sector-4-aqa-entrance-elevator/0x1B.png"
 resources:
     - name: "0x1B.png"
       src: "0x1B.png"

@@ -1,5 +1,7 @@
 ---
 title: Restricted Navigation Room
+images:
+  - "/rooms/main-deck/restricted-navigation-room/0x42.png"
 resources:
     - name: "0x42.png"
       src: "0x42.png"

@@ -1,5 +1,7 @@
 ---
 title: Overgrown Cache
+images:
+  - "/rooms/sector-2-tro/overgrown-cache/0x15.png"
 resources:
     - name: "0x15.png"
       src: "0x15.png"

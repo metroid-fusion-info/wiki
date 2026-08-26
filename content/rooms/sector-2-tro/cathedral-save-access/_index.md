@@ -1,5 +1,7 @@
 ---
 title: Cathedral Save Access
+images:
+  - "/rooms/sector-2-tro/cathedral-save-access/0xF.png"
 resources:
     - name: "0xF.png"
       src: "0xF.png"

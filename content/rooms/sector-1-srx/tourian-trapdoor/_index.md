@@ -1,5 +1,7 @@
 ---
 title: Tourian Trapdoor
+images:
+  - "/rooms/sector-1-srx/tourian-trapdoor/0x10.png"
 resources:
     - name: "0x10.png"
       src: "0x10.png"

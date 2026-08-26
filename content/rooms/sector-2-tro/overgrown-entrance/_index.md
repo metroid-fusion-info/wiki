@@ -1,5 +1,7 @@
 ---
 title: Overgrown Entrance
+images:
+  - "/rooms/sector-2-tro/overgrown-entrance/0x18.png"
 resources:
     - name: "0x18.png"
       src: "0x18.png"

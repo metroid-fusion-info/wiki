@@ -1,5 +1,7 @@
 ---
 title: Nightmare Upper Access
+images:
+  - "/rooms/sector-5-arc/nightmare-upper-access/0x13.png"
 resources:
     - name: "0x13.png"
       src: "0x13.png"

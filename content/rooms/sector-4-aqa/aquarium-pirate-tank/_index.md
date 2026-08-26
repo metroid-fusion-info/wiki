@@ -1,5 +1,7 @@
 ---
 title: Aquarium Pirate Tank
+images:
+  - "/rooms/sector-4-aqa/aquarium-pirate-tank/0x11.png"
 resources:
     - name: "0x11.png"
       src: "0x11.png"

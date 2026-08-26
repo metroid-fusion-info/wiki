@@ -1,5 +1,7 @@
 ---
 title: Data Room
+images:
+  - "/rooms/sector-3-pyr/data-room/0x15.png"
 resources:
     - name: "0x15.png"
       src: "0x15.png"

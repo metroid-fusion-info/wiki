@@ -1,5 +1,7 @@
 ---
 title: Data Room
+images:
+  - "/rooms/sector-2-tro/data-room/0x8.png"
 resources:
     - name: "0x8.png"
       src: "0x8.png"

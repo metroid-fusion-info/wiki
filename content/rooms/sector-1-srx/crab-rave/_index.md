@@ -1,5 +1,7 @@
 ---
 title: Crab Rave
+images:
+  - "/rooms/sector-1-srx/crab-rave/0x2B.png"
 resources:
     - name: "0x2B.png"
       src: "0x2B.png"

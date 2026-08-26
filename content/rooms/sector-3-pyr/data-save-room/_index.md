@@ -1,5 +1,7 @@
 ---
 title: Data Save Room
+images:
+  - "/rooms/sector-3-pyr/data-save-room/0x20.png"
 resources:
     - name: "0x20.png"
       src: "0x20.png"

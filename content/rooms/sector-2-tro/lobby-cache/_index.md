@@ -1,5 +1,7 @@
 ---
 title: Lobby Cache
+images:
+  - "/rooms/sector-2-tro/lobby-cache/0x6.png"
 resources:
     - name: "0x6.png"
       src: "0x6.png"

@@ -1,5 +1,7 @@
 ---
 title: Silo Catwalk
+images:
+  - "/rooms/main-deck/silo-catwalk/0x32.png"
 resources:
     - name: "0x32.png"
       src: "0x32.png"

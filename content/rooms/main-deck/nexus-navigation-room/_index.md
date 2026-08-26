@@ -1,5 +1,7 @@
 ---
 title: Nexus Navigation Room
+images:
+  - "/rooms/main-deck/nexus-navigation-room/0x10.png"
 resources:
     - name: "0x10.png"
       src: "0x10.png"

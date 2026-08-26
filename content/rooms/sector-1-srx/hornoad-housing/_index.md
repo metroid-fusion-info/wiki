@@ -1,5 +1,7 @@
 ---
 title: Hornoad Housing
+images:
+  - "/rooms/sector-1-srx/hornoad-housing/0x2E.png"
 resources:
     - name: "0x2E.png"
       src: "0x2E.png"

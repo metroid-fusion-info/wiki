@@ -1,5 +1,7 @@
 ---
 title: Pyrochamber
+images:
+  - "/rooms/sector-3-pyr/pyrochamber/0xF.png"
 resources:
     - name: "0xF.png"
       src: "0xF.png"

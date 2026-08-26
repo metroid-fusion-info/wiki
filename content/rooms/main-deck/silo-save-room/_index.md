@@ -1,5 +1,7 @@
 ---
 title: Silo Save Room
+images:
+  - "/rooms/main-deck/silo-save-room/0x3A.png"
 resources:
     - name: "0x3A.png"
       src: "0x3A.png"

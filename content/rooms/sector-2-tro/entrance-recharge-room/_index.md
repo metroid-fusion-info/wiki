@@ -1,5 +1,7 @@
 ---
 title: Entrance Recharge Room
+images:
+  - "/rooms/sector-2-tro/entrance-recharge-room/0x25.png"
 resources:
     - name: "0x25.png"
       src: "0x25.png"

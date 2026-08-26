@@ -1,5 +1,7 @@
 ---
 title: Hornoad Hole
+images:
+  - "/rooms/sector-1-srx/hornoad-hole/0x5-layer0.png"
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"

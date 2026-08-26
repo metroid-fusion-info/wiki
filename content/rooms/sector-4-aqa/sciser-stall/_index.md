@@ -1,5 +1,7 @@
 ---
 title: Sciser Stall
+images:
+  - "/rooms/sector-4-aqa/sciser-stall/0x5-layer0.png"
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"

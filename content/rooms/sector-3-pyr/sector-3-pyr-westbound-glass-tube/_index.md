@@ -1,5 +1,7 @@
 ---
 title: Sector 3 (PYR) Westbound Glass Tube
+images:
+  - "/rooms/sector-3-pyr/sector-3-pyr-westbound-glass-tube/0x25.png"
 resources:
     - name: "0x25.png"
       src: "0x25.png"

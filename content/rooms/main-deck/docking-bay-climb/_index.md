@@ -1,5 +1,7 @@
 ---
 title: Docking Bay Climb
+images:
+  - "/rooms/main-deck/docking-bay-climb/0x6-layer0.png"
 resources:
     - name: "0x6-layer0.png"
       src: "0x6-layer0.png"

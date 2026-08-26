@@ -1,5 +1,7 @@
 ---
 title: Varia Core-X Arena
+images:
+  - "/rooms/sector-6-noc/varia-core-x-arena/0xD.png"
 resources:
     - name: "0xD.png"
       src: "0xD.png"

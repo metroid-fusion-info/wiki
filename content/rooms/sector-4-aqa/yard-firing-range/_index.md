@@ -1,5 +1,7 @@
 ---
 title: Yard Firing Range
+images:
+  - "/rooms/sector-4-aqa/yard-firing-range/0xF.png"
 resources:
     - name: "0xF.png"
       src: "0xF.png"

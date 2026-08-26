@@ -1,5 +1,7 @@
 ---
 title: Vault
+images:
+  - "/rooms/sector-6-noc/vault/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

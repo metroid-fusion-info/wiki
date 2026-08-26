@@ -1,5 +1,7 @@
 ---
 title: Reservoir West
+images:
+  - "/rooms/sector-4-aqa/reservoir-west/0x14-layer0.png"
 resources:
     - name: "0x14-layer0.png"
       src: "0x14-layer0.png"

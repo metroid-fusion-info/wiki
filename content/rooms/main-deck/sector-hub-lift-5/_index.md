@@ -1,5 +1,7 @@
 ---
 title: Sector Hub Lift 5
+images:
+  - "/rooms/main-deck/sector-hub-lift-5/0x1E.png"
 resources:
     - name: "0x1E.png"
       src: "0x1E.png"

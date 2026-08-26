@@ -1,5 +1,7 @@
 ---
 title: Hornoad Hallway
+images:
+  - "/rooms/main-deck/hornoad-hallway/0x46-layer0.png"
 resources:
     - name: "0x46-layer0.png"
       src: "0x46-layer0.png"

@@ -1,5 +1,7 @@
 ---
 title: Tourian Save Room West
+images:
+  - "/rooms/sector-1-srx/tourian-save-room-west/0x18.png"
 resources:
     - name: "0x18.png"
       src: "0x18.png"

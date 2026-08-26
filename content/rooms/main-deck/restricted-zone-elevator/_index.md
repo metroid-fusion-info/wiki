@@ -1,5 +1,7 @@
 ---
 title: Restricted Zone Elevator
+images:
+  - "/rooms/main-deck/restricted-zone-elevator/0x43.png"
 resources:
     - name: "0x43.png"
       src: "0x43.png"

@@ -1,5 +1,7 @@
 ---
 title: Flooded Airlock
+images:
+  - "/rooms/sector-5-arc/flooded-airlock/0x32.png"
 resources:
     - name: "0x32.png"
       src: "0x32.png"

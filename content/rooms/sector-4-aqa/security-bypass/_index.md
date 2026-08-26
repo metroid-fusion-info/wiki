@@ -1,5 +1,7 @@
 ---
 title: Security Bypass
+images:
+  - "/rooms/sector-4-aqa/security-bypass/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

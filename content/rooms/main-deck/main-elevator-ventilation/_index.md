@@ -1,5 +1,7 @@
 ---
 title: Main Elevator Ventilation
+images:
+  - "/rooms/main-deck/main-elevator-ventilation/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

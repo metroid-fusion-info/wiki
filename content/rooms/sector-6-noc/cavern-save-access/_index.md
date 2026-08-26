@@ -1,5 +1,7 @@
 ---
 title: Cavern Save Access
+images:
+  - "/rooms/sector-6-noc/cavern-save-access/0x28.png"
 resources:
     - name: "0x28.png"
       src: "0x28.png"

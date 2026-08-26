@@ -1,5 +1,7 @@
 ---
 title: Sector 1 (SRX) Entrance Elevator
+images:
+  - "/rooms/sector-1-srx/sector-1-srx-entrance-elevator/0x29.png"
 resources:
     - name: "0x29.png"
       src: "0x29.png"

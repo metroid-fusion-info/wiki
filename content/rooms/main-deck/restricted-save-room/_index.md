@@ -1,5 +1,7 @@
 ---
 title: Restricted Save Room
+images:
+  - "/rooms/main-deck/restricted-save-room/0x40.png"
 resources:
     - name: "0x40.png"
       src: "0x40.png"

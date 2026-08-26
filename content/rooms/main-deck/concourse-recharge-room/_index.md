@@ -1,5 +1,7 @@
 ---
 title: Concourse Recharge Room
+images:
+  - "/rooms/main-deck/concourse-recharge-room/0x8.png"
 resources:
     - name: "0x8.png"
       src: "0x8.png"

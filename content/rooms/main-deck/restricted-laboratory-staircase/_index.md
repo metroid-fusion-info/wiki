@@ -1,5 +1,7 @@
 ---
 title: Restricted Laboratory Staircase
+images:
+  - "/rooms/main-deck/restricted-laboratory-staircase/0x50.png"
 resources:
     - name: "0x50.png"
       src: "0x50.png"

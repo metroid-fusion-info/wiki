@@ -1,5 +1,7 @@
 ---
 title: Neglected Shaft
+images:
+  - "/rooms/sector-6-noc/neglected-shaft/0x14.png"
 resources:
     - name: "0x14.png"
       src: "0x14.png"

@@ -1,5 +1,7 @@
 ---
 title: Operations Ventilation Storage
+images:
+  - "/rooms/main-deck/operations-ventilation-storage/0x2D.png"
 resources:
     - name: "0x2D.png"
       src: "0x2D.png"

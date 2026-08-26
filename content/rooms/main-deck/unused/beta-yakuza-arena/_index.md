@@ -1,5 +1,7 @@
 ---
 title: Beta Yakuza Arena
+images:
+  - "/rooms/main-deck/unused/beta-yakuza-arena/0x35.png"
 resources:
     - name: "0x35.png"
       src: "0x35.png"

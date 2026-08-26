@@ -1,5 +1,7 @@
 ---
 title: Habitation Ventilation
+images:
+  - "/rooms/main-deck/habitation-ventilation/0x16.png"
 resources:
     - name: "0x16.png"
       src: "0x16.png"

@@ -1,5 +1,7 @@
 ---
 title: Courtyard Save Room
+images:
+  - "/rooms/sector-2-tro/courtyard-save-room/0x26.png"
 resources:
     - name: "0x26.png"
       src: "0x26.png"

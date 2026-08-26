@@ -1,5 +1,7 @@
 ---
 title: Sector Hub
+images:
+  - "/rooms/main-deck/sector-hub/0x18-layer0.png"
 resources:
     - name: "0x18-layer0.png"
       src: "0x18-layer0.png"

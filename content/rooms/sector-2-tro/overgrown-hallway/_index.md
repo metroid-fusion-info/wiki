@@ -1,5 +1,7 @@
 ---
 title: Overgrown Hallway
+images:
+  - "/rooms/sector-2-tro/overgrown-hallway/0x3C.png"
 resources:
     - name: "0x3C.png"
       src: "0x3C.png"

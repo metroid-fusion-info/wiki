@@ -1,5 +1,7 @@
 ---
 title: Concourse Ventilation
+images:
+  - "/rooms/main-deck/concourse-ventilation/0xE-layer0.png"
 resources:
     - name: "0xE-layer0.png"
       src: "0xE-layer0.png"

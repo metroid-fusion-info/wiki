@@ -1,5 +1,7 @@
 ---
 title: Sanctuary Cache
+images:
+  - "/rooms/sector-4-aqa/sanctuary-cache/0x29.png"
 resources:
     - name: "0x29.png"
       src: "0x29.png"

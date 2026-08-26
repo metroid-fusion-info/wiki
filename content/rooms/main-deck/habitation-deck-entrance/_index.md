@@ -1,5 +1,7 @@
 ---
 title: Habitation Deck Entrance
+images:
+  - "/rooms/main-deck/habitation-deck-entrance/0xF.png"
 resources:
     - name: "0xF.png"
       src: "0xF.png"

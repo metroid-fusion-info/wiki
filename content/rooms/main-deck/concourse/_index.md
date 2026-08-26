@@ -1,5 +1,7 @@
 ---
 title: Concourse
+images:
+  - "/rooms/main-deck/concourse/0x15-layer1.png"
 resources:
     - name: "0x15-layer1.png"
       src: "0x15-layer1.png"

@@ -1,5 +1,7 @@
 ---
 title: Arctic Containment
+images:
+  - "/rooms/sector-5-arc/arctic-containment/0x7.png"
 resources:
     - name: "0x7.png"
       src: "0x7.png"

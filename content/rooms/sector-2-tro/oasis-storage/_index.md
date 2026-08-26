@@ -1,5 +1,7 @@
 ---
 title: Oasis Storage
+images:
+  - "/rooms/sector-2-tro/oasis-storage/0x19.png"
 resources:
     - name: "0x19.png"
       src: "0x19.png"

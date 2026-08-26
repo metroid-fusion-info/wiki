@@ -1,5 +1,7 @@
 ---
 title: Nightmare Hub
+images:
+  - "/rooms/sector-5-arc/nightmare-hub/0x12.png"
 resources:
     - name: "0x12.png"
       src: "0x12.png"

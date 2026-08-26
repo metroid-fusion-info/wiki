@@ -1,5 +1,7 @@
 ---
 title: X-B.O.X. Garage
+images:
+  - "/rooms/sector-6-noc/x-b.o.x.-garage/0x12.png"
 resources:
     - name: "0x12.png"
       src: "0x12.png"

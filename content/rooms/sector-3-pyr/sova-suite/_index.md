@@ -1,5 +1,7 @@
 ---
 title: Sova Suite
+images:
+  - "/rooms/sector-3-pyr/sova-suite/0xD.png"
 resources:
     - name: "0xD.png"
       src: "0xD.png"

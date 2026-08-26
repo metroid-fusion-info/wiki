@@ -1,5 +1,7 @@
 ---
 title: Owtch Atrium
+images:
+  - "/rooms/sector-4-aqa/owtch-atrium/0x25.png"
 resources:
     - name: "0x25.png"
       src: "0x25.png"

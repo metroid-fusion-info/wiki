@@ -1,5 +1,7 @@
 ---
 title: Reservoir Save Room
+images:
+  - "/rooms/sector-4-aqa/reservoir-save-room/0xB.png"
 resources:
     - name: "0xB.png"
       src: "0xB.png"

@@ -1,5 +1,7 @@
 ---
 title: Yameba Corridor
+images:
+  - "/rooms/sector-1-srx/yameba-corridor/0x3.png"
 resources:
     - name: "0x3.png"
       src: "0x3.png"

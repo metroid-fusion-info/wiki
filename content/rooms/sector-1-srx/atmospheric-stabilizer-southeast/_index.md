@@ -1,5 +1,7 @@
 ---
 title: Atmospheric Stabilizer Southeast
+images:
+  - "/rooms/sector-1-srx/atmospheric-stabilizer-southeast/0xF-layer0.png"
 resources:
     - name: "0xF-layer0.png"
       src: "0xF-layer0.png"

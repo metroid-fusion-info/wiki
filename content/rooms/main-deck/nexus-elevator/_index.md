@@ -1,5 +1,7 @@
 ---
 title: Nexus Elevator
+images:
+  - "/rooms/main-deck/nexus-elevator/0x4B.png"
 resources:
     - name: "0x4B.png"
       src: "0x4B.png"

@@ -1,5 +1,7 @@
 ---
 title: Nocturnal Shaft
+images:
+  - "/rooms/sector-6-noc/nocturnal-shaft/0x5-layer0.png"
 resources:
     - name: "0x5-layer0.png"
       src: "0x5-layer0.png"

@@ -1,5 +1,7 @@
 ---
 title: Tourian Tower
+images:
+  - "/rooms/sector-1-srx/tourian-tower/0x12.png"
 resources:
     - name: "0x12.png"
       src: "0x12.png"

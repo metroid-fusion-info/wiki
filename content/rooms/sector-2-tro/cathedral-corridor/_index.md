@@ -1,5 +1,7 @@
 ---
 title: Cathedral Corridor
+images:
+  - "/rooms/sector-2-tro/cathedral-corridor/0x2C-layer0.png"
 resources:
     - name: "0x2C-layer0.png"
       src: "0x2C-layer0.png"

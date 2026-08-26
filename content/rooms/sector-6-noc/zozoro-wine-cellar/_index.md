@@ -1,5 +1,7 @@
 ---
 title: Zozoro Wine Cellar
+images:
+  - "/rooms/sector-6-noc/zozoro-wine-cellar/0xF.png"
 resources:
     - name: "0xF.png"
       src: "0xF.png"

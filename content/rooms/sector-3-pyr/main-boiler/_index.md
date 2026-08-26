@@ -1,5 +1,7 @@
 ---
 title: Main Boiler
+images:
+  - "/rooms/sector-3-pyr/main-boiler/0x1D.png"
 resources:
     - name: "0x1D.png"
       src: "0x1D.png"

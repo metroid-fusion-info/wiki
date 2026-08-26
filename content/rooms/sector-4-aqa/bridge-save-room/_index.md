@@ -1,5 +1,7 @@
 ---
 title: Bridge Save Room
+images:
+  - "/rooms/sector-4-aqa/bridge-save-room/0x20.png"
 resources:
     - name: "0x20.png"
       src: "0x20.png"

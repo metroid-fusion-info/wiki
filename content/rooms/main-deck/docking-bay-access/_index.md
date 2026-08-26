@@ -1,5 +1,7 @@
 ---
 title: Docking Bay Access
+images:
+  - "/rooms/main-deck/docking-bay-access/0x3.png"
 resources:
     - name: "0x3.png"
       src: "0x3.png"

@@ -1,5 +1,7 @@
 ---
 title: Kihunter Hallway
+images:
+  - "/rooms/sector-2-tro/kihunter-hallway/0x17.png"
 resources:
     - name: "0x17.png"
       src: "0x17.png"

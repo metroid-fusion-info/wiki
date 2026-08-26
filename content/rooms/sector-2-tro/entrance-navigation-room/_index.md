@@ -1,5 +1,7 @@
 ---
 title: Entrance Navigation Room
+images:
+  - "/rooms/sector-2-tro/entrance-navigation-room/0x2.png"
 resources:
     - name: "0x2.png"
       src: "0x2.png"

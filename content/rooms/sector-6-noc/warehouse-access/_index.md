@@ -1,5 +1,7 @@
 ---
 title: Warehouse Access
+images:
+  - "/rooms/sector-6-noc/warehouse-access/0x1C-layer0.png"
 resources:
     - name: "0x1C-layer0.png"
       src: "0x1C-layer0.png"

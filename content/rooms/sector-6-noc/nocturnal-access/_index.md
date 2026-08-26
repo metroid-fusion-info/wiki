@@ -1,5 +1,7 @@
 ---
 title: Nocturnal Access
+images:
+  - "/rooms/sector-6-noc/nocturnal-access/0x4-layer0.png"
 resources:
     - name: "0x4-layer0.png"
       src: "0x4-layer0.png"

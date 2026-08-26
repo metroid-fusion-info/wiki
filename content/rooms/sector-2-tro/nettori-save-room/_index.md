@@ -1,5 +1,7 @@
 ---
 title: Nettori Save Room
+images:
+  - "/rooms/sector-2-tro/nettori-save-room/0x31.png"
 resources:
     - name: "0x31.png"
       src: "0x31.png"

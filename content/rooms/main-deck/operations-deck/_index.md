@@ -1,5 +1,7 @@
 ---
 title: Operations Deck
+images:
+  - "/rooms/main-deck/operations-deck/0xD-layer0.png"
 resources:
     - name: "0xD-layer0.png"
       src: "0xD-layer0.png"

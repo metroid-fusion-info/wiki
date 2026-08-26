@@ -1,5 +1,7 @@
 ---
 title: Tourian Western Hub
+images:
+  - "/rooms/sector-1-srx/tourian-western-hub/0x17.png"
 resources:
     - name: "0x17.png"
       src: "0x17.png"

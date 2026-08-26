@@ -1,5 +1,7 @@
 ---
 title: Central Reactor Core
+images:
+  - "/rooms/main-deck/central-reactor-core/0x3B.png"
 resources:
     - name: "0x3B.png"
       src: "0x3B.png"

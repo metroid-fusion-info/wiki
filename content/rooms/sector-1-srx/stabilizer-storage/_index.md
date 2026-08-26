@@ -1,5 +1,7 @@
 ---
 title: Stabilizer Storage
+images:
+  - "/rooms/sector-1-srx/stabilizer-storage/0x2C.png"
 resources:
     - name: "0x2C.png"
       src: "0x2C.png"

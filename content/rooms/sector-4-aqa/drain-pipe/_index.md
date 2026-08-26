@@ -1,5 +1,7 @@
 ---
 title: Drain Pipe
+images:
+  - "/rooms/sector-4-aqa/drain-pipe/0x24-layer0.png"
 resources:
     - name: "0x24-layer0.png"
       src: "0x24-layer0.png"

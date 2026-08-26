@@ -1,5 +1,7 @@
 ---
 title: Bull Bend
+images:
+  - "/rooms/sector-6-noc/bull-bend/0x13.png"
 resources:
     - name: "0x13.png"
       src: "0x13.png"

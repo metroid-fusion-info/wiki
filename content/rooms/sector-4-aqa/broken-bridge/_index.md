@@ -1,5 +1,7 @@
 ---
 title: Broken Bridge
+images:
+  - "/rooms/sector-4-aqa/broken-bridge/0xA.png"
 resources:
     - name: "0xA.png"
       src: "0xA.png"

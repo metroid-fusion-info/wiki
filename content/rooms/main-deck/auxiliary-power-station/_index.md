@@ -1,5 +1,7 @@
 ---
 title: Auxiliary Power Station
+images:
+  - "/rooms/main-deck/auxiliary-power-station/0x36.png"
 resources:
     - name: "0x36.png"
       src: "0x36.png"

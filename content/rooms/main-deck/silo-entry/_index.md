@@ -1,5 +1,7 @@
 ---
 title: Silo Entry
+images:
+  - "/rooms/main-deck/silo-entry/0x30-layer0.png"
 resources:
     - name: "0x30-layer0.png"
       src: "0x30-layer0.png"

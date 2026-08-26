@@ -1,5 +1,7 @@
 ---
 title: Pump Control Save Room
+images:
+  - "/rooms/sector-4-aqa/pump-control-save-room/0x16.png"
 resources:
     - name: "0x16.png"
       src: "0x16.png"

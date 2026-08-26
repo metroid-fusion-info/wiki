@@ -1,5 +1,7 @@
 ---
 title: Security Shaft East
+images:
+  - "/rooms/sector-5-arc/security-shaft-east/0x15.png"
 resources:
     - name: "0x15.png"
       src: "0x15.png"

@@ -1,5 +1,7 @@
 ---
 title: Twin Junctions Save Room
+images:
+  - "/rooms/sector-1-srx/twin-junctions-save-room/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

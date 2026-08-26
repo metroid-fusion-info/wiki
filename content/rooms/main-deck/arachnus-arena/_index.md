@@ -1,5 +1,7 @@
 ---
 title: Arachnus Arena
+images:
+  - "/rooms/main-deck/arachnus-arena/0x26-layer0.png"
 resources:
     - name: "0x26-layer0.png"
       src: "0x26-layer0.png"

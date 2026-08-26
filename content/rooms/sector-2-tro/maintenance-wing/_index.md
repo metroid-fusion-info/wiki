@@ -1,5 +1,7 @@
 ---
 title: Maintenance Wing
+images:
+  - "/rooms/sector-2-tro/maintenance-wing/0x2B.png"
 resources:
     - name: "0x2B.png"
       src: "0x2B.png"

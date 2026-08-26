@@ -1,5 +1,7 @@
 ---
 title: Yameba Pool
+images:
+  - "/rooms/sector-1-srx/yameba-pool/0x1D-bg0.png"
 resources:
     - name: "0x1D-bg0.png"
       src: "0x1D-bg0.png"

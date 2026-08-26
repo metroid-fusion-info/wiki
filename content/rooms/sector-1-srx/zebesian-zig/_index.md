@@ -1,5 +1,7 @@
 ---
 title: Zebesian Zig
+images:
+  - "/rooms/sector-1-srx/zebesian-zig/0x8.png"
 resources:
     - name: "0x8.png"
       src: "0x8.png"

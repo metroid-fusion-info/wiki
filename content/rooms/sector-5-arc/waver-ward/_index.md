@@ -1,5 +1,7 @@
 ---
 title: Waver Ward
+images:
+  - "/rooms/sector-5-arc/waver-ward/0xB.png"
 resources:
     - name: "0xB.png"
       src: "0xB.png"

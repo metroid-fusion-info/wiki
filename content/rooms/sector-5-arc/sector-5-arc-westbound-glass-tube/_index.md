@@ -1,5 +1,7 @@
 ---
 title: Sector 5 (ARC) Westbound Glass Tube
+images:
+  - "/rooms/sector-5-arc/sector-5-arc-westbound-glass-tube/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

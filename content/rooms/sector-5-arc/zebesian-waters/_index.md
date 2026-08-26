@@ -1,5 +1,7 @@
 ---
 title: Zebesian Waters
+images:
+  - "/rooms/sector-5-arc/zebesian-waters/0x2E.png"
 resources:
     - name: "0x2E.png"
       src: "0x2E.png"

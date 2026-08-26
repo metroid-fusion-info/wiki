@@ -1,5 +1,7 @@
 ---
 title: Training Grounds
+images:
+  - "/rooms/sector-5-arc/training-grounds/0x3.png"
 resources:
     - name: "0x3.png"
       src: "0x3.png"

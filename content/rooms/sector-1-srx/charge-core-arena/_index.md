@@ -1,5 +1,7 @@
 ---
 title: Charge Core Arena
+images:
+  - "/rooms/sector-1-srx/charge-core-arena/0x28.png"
 resources:
     - name: "0x28.png"
       src: "0x28.png"

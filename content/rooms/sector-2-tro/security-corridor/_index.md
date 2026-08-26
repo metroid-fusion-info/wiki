@@ -1,5 +1,7 @@
 ---
 title: Security Corridor
+images:
+  - "/rooms/sector-2-tro/security-corridor/0x4-layer0.png"
 resources:
     - name: "0x4-layer0.png"
       src: "0x4-layer0.png"

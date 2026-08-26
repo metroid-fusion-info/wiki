@@ -1,5 +1,7 @@
 ---
 title: Evir Enclosure
+images:
+  - "/rooms/sector-4-aqa/evir-enclosure/0x10.png"
 resources:
     - name: "0x10.png"
       src: "0x10.png"

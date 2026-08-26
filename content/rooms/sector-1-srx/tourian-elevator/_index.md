@@ -1,5 +1,7 @@
 ---
 title: Tourian Elevator
+images:
+  - "/rooms/sector-1-srx/tourian-elevator/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

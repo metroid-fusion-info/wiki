@@ -1,5 +1,7 @@
 ---
 title: Breeding Tank
+images:
+  - "/rooms/sector-4-aqa/breeding-tank/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

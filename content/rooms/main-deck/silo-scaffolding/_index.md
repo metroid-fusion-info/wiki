@@ -1,5 +1,7 @@
 ---
 title: Silo Scaffolding
+images:
+  - "/rooms/main-deck/silo-scaffolding/0x33.png"
 resources:
     - name: "0x33.png"
       src: "0x33.png"

@@ -1,5 +1,7 @@
 ---
 title: Pump Control Access
+images:
+  - "/rooms/sector-4-aqa/pump-control-access/0x15-layer0.png"
 resources:
     - name: "0x15-layer0.png"
       src: "0x15-layer0.png"

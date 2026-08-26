@@ -1,5 +1,7 @@
 ---
 title: Aquarium Speedway
+images:
+  - "/rooms/sector-4-aqa/aquarium-speedway/0xC.png"
 resources:
     - name: "0xC.png"
       src: "0xC.png"

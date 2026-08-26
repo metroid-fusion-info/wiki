@@ -1,5 +1,7 @@
 ---
 title: Aquarium Save Room East
+images:
+  - "/rooms/sector-4-aqa/aquarium-save-room-east/0x2F.png"
 resources:
     - name: "0x2F.png"
       src: "0x2F.png"

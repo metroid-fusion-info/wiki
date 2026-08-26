@@ -1,5 +1,7 @@
 ---
 title: Twin Cavern Save Room
+images:
+  - "/rooms/sector-6-noc/twin-cavern-save-room/0x23.png"
 resources:
     - name: "0x23.png"
       src: "0x23.png"

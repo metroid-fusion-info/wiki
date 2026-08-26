@@ -1,5 +1,7 @@
 ---
 title: Cellar
+images:
+  - "/rooms/sector-5-arc/cellar/0x18-layer0.png"
 resources:
     - name: "0x18-layer0.png"
       src: "0x18-layer0.png"

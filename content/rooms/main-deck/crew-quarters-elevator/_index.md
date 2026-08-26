@@ -1,5 +1,7 @@
 ---
 title: Crew Quarters Elevator
+images:
+  - "/rooms/main-deck/crew-quarters-elevator/0x3D.png"
 resources:
     - name: "0x3D.png"
       src: "0x3D.png"

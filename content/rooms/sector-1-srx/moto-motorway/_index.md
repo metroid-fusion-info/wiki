@@ -1,5 +1,7 @@
 ---
 title: Moto Motorway
+images:
+  - "/rooms/sector-1-srx/moto-motorway/0x7-layer0.png"
 resources:
     - name: "0x7-layer0.png"
       src: "0x7-layer0.png"

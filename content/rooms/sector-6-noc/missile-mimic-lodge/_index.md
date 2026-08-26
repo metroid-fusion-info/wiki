@@ -1,5 +1,7 @@
 ---
 title: Missile Mimic Lodge
+images:
+  - "/rooms/sector-6-noc/missile-mimic-lodge/0x18.png"
 resources:
     - name: "0x18.png"
       src: "0x18.png"

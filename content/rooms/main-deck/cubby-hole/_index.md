@@ -1,5 +1,7 @@
 ---
 title: Cubby Hole
+images:
+  - "/rooms/main-deck/cubby-hole/0x48.png"
 resources:
     - name: "0x48.png"
       src: "0x48.png"

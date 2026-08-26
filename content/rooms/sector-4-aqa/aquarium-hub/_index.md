@@ -1,5 +1,7 @@
 ---
 title: Aquarium Hub
+images:
+  - "/rooms/sector-4-aqa/aquarium-hub/0x13.png"
 resources:
     - name: "0x13.png"
       src: "0x13.png"

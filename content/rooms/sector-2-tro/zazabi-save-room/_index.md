@@ -1,5 +1,7 @@
 ---
 title: Zazabi Save Room
+images:
+  - "/rooms/sector-2-tro/zazabi-save-room/0x28.png"
 resources:
     - name: "0x28.png"
       src: "0x28.png"

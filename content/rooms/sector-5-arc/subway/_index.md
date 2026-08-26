@@ -1,5 +1,7 @@
 ---
 title: Subway
+images:
+  - "/rooms/sector-5-arc/subway/0x2B-layer0.png"
 resources:
     - name: "0x2B-layer0.png"
       src: "0x2B-layer0.png"

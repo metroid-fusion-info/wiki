@@ -1,5 +1,7 @@
 ---
 title: Sector 1 (SRX) Westbound Glass Tube
+images:
+  - "/rooms/sector-1-srx/sector-1-srx-westbound-glass-tube/0x31.png"
 resources:
     - name: "0x31.png"
       src: "0x31.png"

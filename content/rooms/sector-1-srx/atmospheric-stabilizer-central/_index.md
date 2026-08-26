@@ -1,5 +1,7 @@
 ---
 title: Atmospheric Stabilizer Central
+images:
+  - "/rooms/sector-1-srx/atmospheric-stabilizer-central/0x9.png"
 resources:
     - name: "0x9.png"
       src: "0x9.png"

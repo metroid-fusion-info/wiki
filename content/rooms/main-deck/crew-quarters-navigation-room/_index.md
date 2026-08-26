@@ -1,5 +1,7 @@
 ---
 title: Crew Quarters Navigation Room
+images:
+  - "/rooms/main-deck/crew-quarters-navigation-room/0x9.png"
 resources:
     - name: "0x9.png"
       src: "0x9.png"

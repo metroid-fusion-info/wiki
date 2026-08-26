@@ -1,5 +1,7 @@
 ---
 title: Crow's Nest
+images:
+  - "/rooms/sector-5-arc/crows-nest/0x24.png"
 resources:
     - name: "0x24.png"
       src: "0x24.png"

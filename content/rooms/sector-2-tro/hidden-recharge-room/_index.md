@@ -1,5 +1,7 @@
 ---
 title: Hidden Recharge Room
+images:
+  - "/rooms/sector-2-tro/hidden-recharge-room/0x30.png"
 resources:
     - name: "0x30.png"
       src: "0x30.png"

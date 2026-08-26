@@ -1,5 +1,7 @@
 ---
 title: Aquarium Kago Storage
+images:
+  - "/rooms/sector-4-aqa/aquarium-kago-storage/0x26-layer0.png"
 resources:
     - name: "0x26-layer0.png"
       src: "0x26-layer0.png"

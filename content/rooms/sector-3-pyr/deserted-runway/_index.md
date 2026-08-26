@@ -1,5 +1,7 @@
 ---
 title: Deserted Runway
+images:
+  - "/rooms/sector-3-pyr/deserted-runway/0x9.png"
 resources:
     - name: "0x9.png"
       src: "0x9.png"

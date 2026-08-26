@@ -1,5 +1,7 @@
 ---
 title: Twin Caverns East
+images:
+  - "/rooms/sector-6-noc/twin-caverns-east/0x1F.png"
 resources:
     - name: "0x1F.png"
       src: "0x1F.png"

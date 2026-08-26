@@ -1,5 +1,7 @@
 ---
 title: Nettori Arena
+images:
+  - "/rooms/sector-2-tro/nettori-arena/0x16.png"
 resources:
     - name: "0x16.png"
       src: "0x16.png"

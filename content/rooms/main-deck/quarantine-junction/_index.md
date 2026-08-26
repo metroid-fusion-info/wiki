@@ -1,5 +1,7 @@
 ---
 title: Quarantine Junction
+images:
+  - "/rooms/main-deck/quarantine-junction/0x17.png"
 resources:
     - name: "0x17.png"
       src: "0x17.png"

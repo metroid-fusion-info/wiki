@@ -1,5 +1,7 @@
 ---
 title: Nexus Storage
+images:
+  - "/rooms/main-deck/nexus-storage/0x39.png"
 resources:
     - name: "0x39.png"
       src: "0x39.png"

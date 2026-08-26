@@ -1,5 +1,7 @@
 ---
 title: Beta Ridley Arena
+images:
+  - "/rooms/sector-1-srx/unused/beta-ridley-arena/0x35.png"
 resources:
     - name: "0x35.png"
       src: "0x35.png"

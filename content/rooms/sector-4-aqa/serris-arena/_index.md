@@ -1,5 +1,7 @@
 ---
 title: Serris Arena
+images:
+  - "/rooms/sector-4-aqa/serris-arena/0x2A.png"
 resources:
     - name: "0x2A.png"
       src: "0x2A.png"

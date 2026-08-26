@@ -1,5 +1,7 @@
 ---
 title: Sector 6 (NOC) Entrance Elevator
+images:
+  - "/rooms/sector-6-noc/sector-6-noc-entrance-elevator/0x11.png"
 resources:
     - name: "0x11.png"
       src: "0x11.png"

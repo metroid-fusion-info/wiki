@@ -1,5 +1,7 @@
 ---
 title: Sub-Zero Containment
+images:
+  - "/rooms/main-deck/sub-zero-containment/0x2E-layer0.png"
 resources:
     - name: "0x2E-layer0.png"
       src: "0x2E-layer0.png"

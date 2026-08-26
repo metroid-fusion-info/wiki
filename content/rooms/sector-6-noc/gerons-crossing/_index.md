@@ -1,5 +1,7 @@
 ---
 title: Geron's Crossing
+images:
+  - "/rooms/sector-6-noc/gerons-crossing/0x3-layer0.png"
 resources:
     - name: "0x3-layer0.png"
       src: "0x3-layer0.png"

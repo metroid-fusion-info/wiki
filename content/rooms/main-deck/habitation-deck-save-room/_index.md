@@ -1,5 +1,7 @@
 ---
 title: Habitation Deck Save Room
+images:
+  - "/rooms/main-deck/habitation-deck-save-room/0xB.png"
 resources:
     - name: "0xB.png"
       src: "0xB.png"

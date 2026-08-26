@@ -1,5 +1,7 @@
 ---
 title: Overgrown Checkpoint
+images:
+  - "/rooms/sector-2-tro/overgrown-checkpoint/0x3A.png"
 resources:
     - name: "0x3A.png"
       src: "0x3A.png"

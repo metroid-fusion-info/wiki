@@ -1,5 +1,7 @@
 ---
 title: Sector 4 (AQA) Eastbound Glass Tube
+images:
+  - "/rooms/sector-4-aqa/sector-4-aqa-eastbound-glass-tube/0x2B.png"
 resources:
     - name: "0x2B.png"
       src: "0x2B.png"

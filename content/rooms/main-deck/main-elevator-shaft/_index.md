@@ -1,5 +1,7 @@
 ---
 title: Main Elevator Shaft
+images:
+  - "/rooms/main-deck/main-elevator-shaft/0x22.png"
 resources:
     - name: "0x22.png"
       src: "0x22.png"

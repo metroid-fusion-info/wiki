@@ -1,5 +1,7 @@
 ---
 title: Zazabi Speedway
+images:
+  - "/rooms/sector-2-tro/zazabi-speedway/0x37.png"
 resources:
     - name: "0x37.png"
       src: "0x37.png"

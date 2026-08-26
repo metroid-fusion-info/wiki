@@ -1,5 +1,7 @@
 ---
 title: Main Elevator Cache
+images:
+  - "/rooms/main-deck/main-elevator-cache/0x49.png"
 resources:
     - name: "0x49.png"
       src: "0x49.png"

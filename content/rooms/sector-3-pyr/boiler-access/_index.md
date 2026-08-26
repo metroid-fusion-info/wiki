@@ -1,5 +1,7 @@
 ---
 title: Boiler Access
+images:
+  - "/rooms/sector-3-pyr/boiler-access/0x10.png"
 resources:
     - name: "0x10.png"
       src: "0x10.png"

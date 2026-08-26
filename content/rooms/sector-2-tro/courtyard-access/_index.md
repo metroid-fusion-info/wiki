@@ -1,5 +1,7 @@
 ---
 title: Courtyard Access
+images:
+  - "/rooms/sector-2-tro/courtyard-access/0x1E-layer0.png"
 resources:
     - name: "0x1E-layer0.png"
       src: "0x1E-layer0.png"
