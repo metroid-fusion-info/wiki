@@ -16,7 +16,7 @@ Randomizers are pieces of software that modify/randomize specific aspects in the
 
 ## MFOR
 
-Short for Metroid Fusion Open Randomizer (open, as in open game world), it was originally released on 2021-06-20 and is developed by Kazuto. The download can be found on [Metroid Construction](https://metroidconstruction.com/resource.php?id=714).\
+Short for Metroid Fusion Open Randomizer (open, as in open game world), it was originally released on 2021-06-20 and is developed by Kazuto. The download can be found on [Metroid Construction](https://metroidconstruction.com/resource.php?id=714).
 
 {{< columns >}}
 
@@ -50,7 +50,7 @@ The featureset is exactly the same as MFOR. Efforts have been done to make the c
 
 Short for Metroid Advanced Randomization System, it was originally released on 2025-02-22 and is developed by the MARS-Team. It's split into a [ASM project](https://github.com/MetroidAdvRandomizerSystem/mars-fusion-asm) that produces a base ROM, and a [python wrapper](https://github.com/MetroidAdvRandomizerSystem/mars-patcher-py) that allows interacting and editing of it. The full list of contributors can be found [here](https://github.com/MetroidAdvRandomizerSystem/mars-fusion-asm/graphs/contributors) and [here](https://github.com/MetroidAdvRandomizerSystem/mars-patcher-py/graphs/contributors) respectively, but notable developers include AntyMew, biospark, cluekitty and Zarakava.
 
-Thus it isn't a randomizer by itself, but rather just provides a base system to implement a randomizer on. It is licensed under the GPLv3, with some graphics being licensed under CC-BY-SA-4.0.\
+Thus it isn't a randomizer by itself, but rather just provides a base system to implement a randomizer on. It is licensed under the GPLv3, with some graphics being licensed under CC-BY-SA-4.0.
 
 A few randomizers using MARS exist. While they all have different features, they share the following things in common:
 - Prominent event places in the vanilla game are now checks (such as Security rooms or Habitation Deck)

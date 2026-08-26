@@ -9,7 +9,7 @@ resources:
 {{< img name="0x2.png" size=tiny >}}
 
 
-A beta variant of a Hangar room. Has different map coordinates from [Beta Hangar A](../beta-hangar-a/).\
+A beta variant of a Hangar room. Has different map coordinates from [Beta Hangar A](../beta-hangar-a/).
 
 ### Metadata
 Internal Room ID: 0x2\
