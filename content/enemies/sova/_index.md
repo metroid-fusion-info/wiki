@@ -1,14 +1,31 @@
 ---
 title: Sova
+resources:
+    - name: "sova.png"
+      src: "sova.png"
+      title: ""
+    - name: "fire.png"
+      src: "fire.png"
+      title: ""
 ---
 
 {{< columns >}}
 
-Sova
+Sovas are sometimes called Novas.
 
-TODO: writeup, imagees
+Sovas crawl back along walls and slopes, and will turn around once they hit a 90° corner. Depending on their angle, they will either leave trails of fire behind them of drop flames down. Those patterns are as follows:
+- When on the ground it will leave 3 trails down every 3.5 seconds, with them being spaced 32 frames apart.
+- When on the ceiling, on a left wall or a right wall, they drop a flame every 3 seconds.
+
+Its decompiled code can be found here: https://github.com/metroidret/mf/blob/main/src/sprites_AI/sova.c  
 
 <--->
+
+{{< tabs "sova-data" >}}
+
+{{< tab "Sova" >}}
+
+{{< img name="sova.png" size="origin" >}}
 
 {{< columns >}}
 
@@ -45,9 +62,10 @@ TODO: writeup, imagees
 
 {{</ columns >}}
 
-{{< center >}}
-**Sova Fire**
-{{</ center >}}
+{{< /tab >}}
+{{< tab "Fire Projectile" >}}
+
+{{< img name="fire.png" size="origin" >}}
 
 |                   |      |
 |-------------------|-----:|
@@ -58,5 +76,7 @@ TODO: writeup, imagees
 | Internal ID       |0x39 (Secondary)|
 | Weaknesses        | None |
 
-{{</ columns >}}
+{{< /tab >}}
+{{< /tabs >}}
 
+{{</ columns >}}
