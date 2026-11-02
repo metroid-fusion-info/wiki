@@ -94,7 +94,7 @@ An external plugin for [Archipelago](https://archipelago.gg/), a cross-game Mult
 {{< columns >}}
 
 As was mentioned above, while it can be used as a solo randomizer, the main use is using it in a Multiworld with the many other games Archipelago supports.\
-Other prominent features include:\
+Other prominent features include:
 - Tube shuffle
 - Elevator shuffle
 - Palette shuffle
